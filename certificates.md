@@ -1,4 +1,4 @@
-# Certifications
+## Certifications
 
 ### Amazon Web Services (AWS)
 
