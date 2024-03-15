@@ -4,7 +4,7 @@
 - Biquini Cavadão
 - Blind Guardium
 - Capital Inicial
-- DakhaBrakha
+- DakhaBrakha (2016)
 - Detonautas (Incontáveis vezes, tenho várias fotos)
 - Dias de Trutas (Incontáveis vezes)
 - Dream Theater
@@ -40,6 +40,8 @@
   - Pitty
 - Guns N' Roses
 - Humberto Gessinger
+- J Quest
+- Maroon 5
 - Nando Reis (2x)
 - Orquestra de Ouro Preto
 - Paul McCartney
@@ -51,3 +53,4 @@
 - Sepultura (Tenho até foto com eles)
 - Skank
 - Slash, Myles Kennedy & The Conspirators
+- Ventania
