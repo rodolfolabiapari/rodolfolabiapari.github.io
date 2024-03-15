@@ -1,8 +1,4 @@
 title: Guimarães, Rodolfo Labiapari Mansur
-exclude:
-- README.md
-- LICENSE.md
-- changelog.md
 theme: minima
 
 authors:
