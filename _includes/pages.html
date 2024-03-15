@@ -15,19 +15,17 @@
   site.url         {{ site.url }}
 -->
 
-
 <div style="float: right; background-color: #eeeeee; margin: 24px; padding: 4px; border: solid 1px silver; font-size: 80%;">
     <div>
       <b>Páginas</b> ({{ site.html_pages | size }})
     </div>
     <div>
       {% for page in site.html_pages %}
-         <a href="{{ page.url | relative_url }}">{{ page.title }}</a><br>
-         <!--
-             page.title: {{ page.title }}
-             page.date:  {{ page.date }}
-             page.id:    {{ page.id }}
-           -->
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a><br>
+         
+        page.title: {{ page.title }}
+        page.date:  {{ page.date }}
+        page.id:    {{ page.id }}
       {% endfor %}
     </div>
   </div>
