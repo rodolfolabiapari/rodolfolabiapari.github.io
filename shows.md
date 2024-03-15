@@ -1,0 +1,49 @@
+# Shows que já fui
+
+- Sepultura (Tenho até foto com eles)
+- Ego Kill Talent
+- Far From Alaska
+- I Wanna Be 2024
+  - Fresno
+  - Boys Like Girls
+  - Simple Plan
+  - A Day to Remember
+  - The All American Rejects
+  - All Time Low
+  - The Used
+  - Asking Alexandria
+  - NX Zero
+  - Pitty
+  - Mayday Parade
+  - Plain White T's
+- Guns N' Roses
+- Paul McCartney
+- Roger Waters (2x)
+- Dias de Trutas (Incontáveis vezes)
+- Slash, Myles Kennedy & The Conspirators
+- Planeta Brasil 2014
+  - Guns N' Roses
+  - Frejat
+  - Raimundos
+- Divino Rock 20 anos (2023)
+  - Sepultura
+  - Angra
+  - Mad Chicken
+  - Superlua
+  - Mister Jukebox
+  - Barões de Mauá
+- Biquini Cavadão
+- Capital Inicial
+- Skank
+- Blind Guardium
+- Evanescense
+- Dream Theater
+- Red Hot Chili Peppers
+- Detonautas (Incontáveis vezes, tenho várias fotos)
+- Nando Reis (2x)
+- Humberto Gessinger
+- Rock Uai 2023:
+  - Paula Toller
+  - Paulo Ricardo
+  - Pitty
+- RPM (Ainda ganhei palheta)
