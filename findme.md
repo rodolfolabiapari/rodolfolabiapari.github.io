@@ -1,6 +1,6 @@
 # Me Encontre Em
 
-- [LinkedIn](www.linkedin.com/in/rodolfolabiapari);
+- [LinkedIn](https://linkedin.com/in/rodolfolabiapari);
 - [Twitter](https://twitter.com/rodolfo_lab);
 - [Instagram](https://www.instagram.com/rodolfo_lab/);
 - [Google Scholar](https://scholar.google.com/citations?user=wB6tRu0AAAAJ);
