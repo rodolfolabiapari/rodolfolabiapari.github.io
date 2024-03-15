@@ -1,49 +1,53 @@
-# Shows que já fui
+# Shows I have been to
 
-- Sepultura (Tenho até foto com eles)
+- Amon Amarth
+- Biquini Cavadão
+- Blind Guardium
+- Capital Inicial
+- DakhaBrakha
+- Detonautas (Incontáveis vezes, tenho várias fotos)
+- Dias de Trutas (Incontáveis vezes)
+- Dream Theater
 - Ego Kill Talent
+- Evanescense
 - Far From Alaska
-- Festival I Wanna Be 2024
-  - Fresno
-  - Boys Like Girls
-  - Simple Plan
+- Festival Divino Rock 20 anos (2023):
+  - Angra
+  - Sepultura
+  - Mad Chicken
+- Festival I Wanna Be (2024):
   - A Day to Remember
-  - The All American Rejects
   - All Time Low
-  - The Used
   - Asking Alexandria
+  - Boys Like Girls
+  - Fresno
+  - Mayday Parade
+  - Mister Jukebox
   - NX Zero
   - Pitty
-  - Mayday Parade
   - Plain White T's
-- Guns N' Roses
-- Paul McCartney
-- Roger Waters (2x)
-- Dias de Trutas (Incontáveis vezes)
-- Slash, Myles Kennedy & The Conspirators
-- Festival Planeta Brasil 2014
+  - Simple Plan
+  - Superlua
+  - The All American Rejects
+  - The Used
+- Festival Planeta Brasil (2014):
   - Guns N' Roses
   - Frejat
   - Raimundos
-- Festival Divino Rock 20 anos (2023)
-  - Sepultura
-  - Angra
-  - Mad Chicken
-  - Superlua
-  - Mister Jukebox
-  - Barões de Mauá
-- Biquini Cavadão
-- Capital Inicial
-- Skank
-- Blind Guardium
-- Evanescense
-- Dream Theater
-- Red Hot Chili Peppers
-- Detonautas (Incontáveis vezes, tenho várias fotos)
-- Nando Reis (2x)
-- Humberto Gessinger
-- Festival Rock Uai 2023:
+- Festival Rock Uai (2023):
   - Paula Toller
   - Paulo Ricardo
   - Pitty
+- Guns N' Roses
+- Humberto Gessinger
+- Nando Reis (2x)
+- Orquestra de Ouro Preto
+- Paul McCartney
+- Powerwolf
+- Red Hot Chili Peppers
+- Roger Waters (2x)
+- Roupa Nova
 - RPM (Ainda ganhei palheta)
+- Sepultura (Tenho até foto com eles)
+- Skank
+- Slash, Myles Kennedy & The Conspirators

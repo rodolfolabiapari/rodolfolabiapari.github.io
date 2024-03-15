@@ -1,5 +1,3 @@
-# Pesquisas e Publicações Científicas
+# Researchs and Scientific Publications
 
-- [Universidade Federal de Ouro Preto - Laboratório iMobilis](http://www.laboratorioimobilis.ufop.br)
-- [Artigo: Desempenho de Sistemas Wearable](link_para_o_artigo)
-- [Artigo: Análise de Segurança em IoT](link_para_o_artigo)
+WIP

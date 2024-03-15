@@ -1,4 +1,4 @@
-# Me Encontre Em
+# Follow Me
 
 - [LinkedIn](https://linkedin.com/in/rodolfolabiapari);
 - [Twitter](https://twitter.com/rodolfo_lab);

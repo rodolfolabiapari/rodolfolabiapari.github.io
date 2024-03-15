@@ -1,7 +1,7 @@
-Meu nome é Rodolfo Labiapari Mansur Guimarães, e ao longo dos anos, mergulhei fundo no universo da Ciência da Computação, com especialização em áreas como análise de desempenho de sistemas wearable, IoT, e hardwares reconfiguráveis.
+My name is Rodolfo Labiapari Mansur Guimarães, and over the years, I have delved deep into the world of Computer Science, specializing in areas such as performance analysis of wearable systems, IoT, and reconfigurable hardware.
 
-Desde meus dias na graduação até a conclusão do mestrado, na Universidade Federal de Ouro Preto, dediquei-me intensamente à pesquisa e ao desenvolvimento de soluções inovadoras. Com projetos aplicados e uma bolsa do CNPq, explorei diferentes aspectos da computação móvel, FPGA, criptografia de dados e Linux Device Drivers.
+From my undergraduate days to completing my master's degree at the Federal University of Ouro Preto, I dedicated myself intensely to research and development of innovative solutions. With applied projects and a CNPq scholarship, I explored different aspects of mobile computing, FPGA, data encryption and Linux Device Drivers.
 
-Profissionalmente, avancei para o campo da arquitetura de ambiente Cloud, imerso na cultura DevOps. Dominando tecnologias como Kubernetes, Docker, microserviços e GitOps, desenvolvi soluções robustas para a nuvem e aprimorei minhas habilidades em AWS, Google Cloud Platform e serviços distribuídos.
+Professionally, I advanced to the field of Cloud environment architecture, immersed in the DevOps culture. Mastering technologies such as Kubernetes, Docker, microservices and GitOps, I developed robust cloud solutions and improved my skills in AWS, Google Cloud Platform and distributed services.
 
-Para mim, a busca pelo conhecimento é uma constante. É por isso que meu tempo livre é dedicado à leitura, mantendo-me sempre atualizado sobre as transformações e inovações do mercado.
+For me, the search for knowledge is a constant. That's why my free time is dedicated to reading, always keeping up to date with market transformations and innovations.
