@@ -1,12 +1,12 @@
 # Certificações
 
-## Amazon Web Services (AWS)
+### Amazon Web Services (AWS)
 
 - **Certificação:** AWS Certified Cloud Practitioner
   - **Empresa:** Amazon Web Services (AWS)
   - **Emitido em:** ago de 2023
 
-## Google Cloud Platform (GCP)
+### Google Cloud Platform (GCP)
 
 - **Certificação:** Google Cloud Certified Cloud Digital Leader
   - **Empresa:** Google
@@ -44,13 +44,13 @@
   - **Empresa:** Google
   - **Emitido em:** dez de 2019
 
-## 4Linux
+### 4Linux
 
 - **Certificação:** Kubernetes: Orquestração de Ambientes Escaláveis - CKA
   - **Empresa:** 4Linux
   - **Verificação emitida em:** out de 2019
 
-## Google Cloud Skills Boost for Partners
+### Google Cloud Skills Boost for Partners
 
 - **Certificação:** Baseline: Infrastructure
   - **Verificação emitida em:** jan de 2019
@@ -73,7 +73,7 @@
 - **Certificação:** Security
   - **Verificação emitida em:** jan de 2019
 
-## Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG)
+### Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG)
 
 - **Certificação:** Linguagens de Descrição de Hardware
   - **Verificação emitida em:** out de 2014
