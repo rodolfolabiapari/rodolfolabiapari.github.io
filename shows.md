@@ -3,7 +3,7 @@
 - Sepultura (Tenho até foto com eles)
 - Ego Kill Talent
 - Far From Alaska
-- I Wanna Be 2024
+- Festival I Wanna Be 2024
   - Fresno
   - Boys Like Girls
   - Simple Plan
@@ -21,11 +21,11 @@
 - Roger Waters (2x)
 - Dias de Trutas (Incontáveis vezes)
 - Slash, Myles Kennedy & The Conspirators
-- Planeta Brasil 2014
+- Festival Planeta Brasil 2014
   - Guns N' Roses
   - Frejat
   - Raimundos
-- Divino Rock 20 anos (2023)
+- Festival Divino Rock 20 anos (2023)
   - Sepultura
   - Angra
   - Mad Chicken
@@ -42,7 +42,7 @@
 - Detonautas (Incontáveis vezes, tenho várias fotos)
 - Nando Reis (2x)
 - Humberto Gessinger
-- Rock Uai 2023:
+- Festival Rock Uai 2023:
   - Paula Toller
   - Paulo Ricardo
   - Pitty

@@ -1,4 +1,4 @@
-# Sobre minha jornada e experiência como cientista no mundo da tecnologia
+# Sobre
 
 Meu nome é Rodolfo Labiapari Mansur Guimarães, e ao longo dos anos, mergulhei fundo no universo da Ciência da Computação, com especialização em áreas como análise de desempenho de sistemas wearable, IoT, e hardwares reconfiguráveis.
 
