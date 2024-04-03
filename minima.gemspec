@@ -1,5 +1,8 @@
 # frozen_string_literal: true
 
+require 'kramdown'
+require 'kramdown-parser-gfm'
+
 Gem::Specification.new do |spec|
   spec.name          = "minima"
   spec.version       = "0.1.0"
