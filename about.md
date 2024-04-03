@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: More About Me
 permalink: /about/
 ---
+
+## Introduction
 
 My name is Rodolfo Labiapari Mansur Guimarães, and over the years, I have delved deep into the world of Computer Science, specializing in areas such as performance analysis of wearable systems, IoT, and reconfigurable hardware.
 
