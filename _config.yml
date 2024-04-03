@@ -2,16 +2,17 @@ title: Rodolfo Labiapari Mansur Guimarães, MSc
 theme: minima
 
 author:
-  name: Rodolfo Labiapari Mansur Guimarães
+  name: Rodolfo Labiapari Mansur Guimarães, MSc
   display_name: rodolfo_lab
   email: rodolfolabiapari@gmail.com
   pgpsite: https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E
   pgp: E240754FEDFB405556D82A173A0990FAE12D319E
+  bitcoin: 3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Always in construction.
+  Always, always in construction.
 
 # Build settings
 
@@ -31,7 +32,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - _posts/about.md
+  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
@@ -51,23 +52,14 @@ minima:
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%d/%m/%Y"
+  date_format: "%d %b %Y"
 
   # Generate social links in footer.
   social_links:
-  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-    - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-  #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
-  #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
-  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-  #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-  #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
+    - { platform: facebook,       user_url: "https://www.facebook.com/rodolfolabiapari" }
+    - { platform: github,         user_url: "https://github.com/rodolfolabiapari" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=wB6tRu0AAAAJ" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/rodolfo_lab/" }
+    - { platform: linkedin,       user_url: "https://linkedin.com/in/rodolfolabiapari" }
+    - { platform: twitter,        user_url: "https://twitter.com/rodolfo_lab" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@rodolfo_lab" }

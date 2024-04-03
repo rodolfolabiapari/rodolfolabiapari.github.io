@@ -19,9 +19,15 @@
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
-          {% if site.author.email -%}
+          <!-- {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %} -->
+          {% if site.author.pgp -%}
+            <li><a class="u-email" href="{{ site.author.pgpsite }}">PGP/GPG key</a></li>
           {%- endif %}
+          {% if site.author.bitcoin -%}
+            <li class="p-name">BTC: {{ site.author.bitcoin | escape }}</li>
+          {% endif -%}
         </ul>
       {%- endif %}
       </div>
