@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More About Me
+title: "More About Me 📚"
 permalink: /about/
 ---
 
@@ -13,3 +13,13 @@ From my undergraduate studies to completing my master’s degree at the Federal 
 Professionally, I transitioned into the field of Cloud environment architecture, fully embracing the DevOps culture. By mastering technologies such as Kubernetes, Docker, microservices, and GitOps, I have developed robust cloud solutions and enhanced my skills in AWS, Google Cloud Platform, and distributed services.
 
 For me, the pursuit of knowledge is ongoing. That's why my free time is devoted to reading, allowing me to stay abreast of market transformations and innovations.
+
+## Books
+
+
+## Music
+
+## Researchs
+
+
+## Photography

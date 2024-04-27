@@ -62,3 +62,8 @@ P3YfN2VUiGSo5NDeeQzbJ4bl7x7z+dLIX/JwkUw09kEm/uOiKclaNciq3ky1
 ```
 
 Try it. It is fun and worth it.
+
+
+## Security
+
+Do you already changed you password? [Click here and change it](https://diceware.dmuth.org/).

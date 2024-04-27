@@ -26,3 +26,5 @@ title: Certifications
 | Google Cloud Skills Boost for Partners | Security | may, 2019 | [link](https://partner.cloudskillsboost.google/public_profiles/60716fde-b71f-44cb-9176-d7da09834180/badges/70721) |
 | 4Linux | Kubernetes: Orquestração de Ambientes Escaláveis - CKA | out, 2019 | |
 | Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) | Linguagens de Descrição de Hardware | out de 2014 | |
+
+There are more, but I do not remember and/or I lost the certification link/papaer in virtual folder or physical locker somewhere.
