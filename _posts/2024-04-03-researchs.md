@@ -4,4 +4,5 @@ title: Researchs and Scientific Publications
 ---
 
 ## Researchs and Scientific Publications
-wip
+
+WIP. For now you can check my LinkedIn Page.
