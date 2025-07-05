@@ -27,6 +27,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+author:
+  name: Rodolfo Labiapari Mansur Guimarães, MSc
+  display_name: rodolfo_lab
+  email: rodolfolabiapari@gmail.com
+  pgpsite: https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E
+  pgp: E240754FEDFB405556D82A173A0990FAE12D319E
+  bitcoin: 3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ
+
+google_analytics: G-M9D99KQCVY
+
 # Build settings
 theme: minima
 plugins:
