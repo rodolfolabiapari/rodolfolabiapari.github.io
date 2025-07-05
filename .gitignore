@@ -1,11 +1,5 @@
-.*
-*.pyc
-
-# jekyll debug
 _site
-
-# Jeykll Gemfile.lock
-Gemfile.lock
-
-# yui-compressor
-*.jar
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
