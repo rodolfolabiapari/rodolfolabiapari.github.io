@@ -24,17 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Always in constructon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: rodolfo_lab
+github_username:  rodolfolabiapari
 
-
-author:
-  name: Rodolfo Labiapari Mansur Guimarães, MSc
-  display_name: rodolfo_lab
-  email: rodolfolabiapari@gmail.com
-  pgpsite: https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E
-  pgp: E240754FEDFB405556D82A173A0990FAE12D319E
-  bitcoin: 3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ
+#author:
+#  name: Rodolfo Labiapari Mansur Guimarães, MSc
+#  display_name: rodolfo_lab
+#  email: rodolfolabiapari@gmail.com
+#  pgpsite: https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E
+#  pgp: E240754FEDFB405556D82A173A0990FAE12D319E
+#  bitcoin: 3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ
 
 google_analytics: G-M9D99KQCVY
 
