@@ -1,0 +1,19 @@
+- temas
+  - PaperMod
+  - Stack
+  - Archie
+  - Terminal
+  - Bear Cub
+- fazer meu gitea publicar no github usando um "hook com commit message"
+
+- RSS automático
+- sitemap
+- pesquisa local
+- modo escuro
+- tags
+- séries de posts
+- página "Sobre"
+- página "Projetos"
+- licença do conteúdo
+- comentários desabilitados inicialmente (menos manutenção)
+- analytics
