@@ -6,8 +6,10 @@ draft: false
 tags:
   - MedicosSemFronteiras
   - bitcoin
-description:
+description: Buy me a coffee!
 ---
 
 - [Médicos Sem Fronteiras](https://www.msf.org/);
 - Bitcoin: `3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ`.
+
+Send me a message via [[GPG Security Contact]].

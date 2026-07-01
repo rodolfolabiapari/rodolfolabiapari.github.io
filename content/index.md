@@ -1,4 +1,3 @@
 ---
-title: Welcome
+title: Home page
 ---
-Seja bem-vindo!

@@ -6,11 +6,11 @@ tags:
   - github
   - github-pages
   - Jekyll
-  - wip
 description: ""
 created: 2026-06-30
 categories:
 aliases:
+  - Iniciando Blog com Hugo
 author: Me
 disableShare: "false"
 ShowBreadcrumbs: "true"
@@ -18,7 +18,7 @@ ShowRedingTime: "true"
 showToc: "true"
 TocOpen: "true"
 ShowWordCount: "true"
-title: Inicializando Blog com Hugo
+title: Hugo
 ---
 ## Instalação
 
@@ -60,7 +60,7 @@ git rm themes/${nomeDoTema}
 rm -rf .git/modules/themes/${nomeDoTema}
 ```
 
-Ai voltamos no [[Inicializando Blog com Hugo#Aplicando Temas]] e configuramos o novo tema.
+Ai voltamos no [[Hugo#Aplicando Temas]] e configuramos o novo tema.
 
 ---
 ## Executando Servidor Local

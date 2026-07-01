@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PGP/GPG
+title: Security Contact
 date: 2024-03-04
 draft: false
 tags: []
@@ -8,11 +8,11 @@ description: ""
 created: 2026-06-30
 ---
 
-# PGP/PGP
+> [!info] You can also contact me in [[Finde Me]].
 
 ## Security Contact and Validations
 
-PGP available [here (E240754FEDFB405556D82A173A0990FAE12D319E)](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E).
+#PGP available [here (E240754FEDFB405556D82A173A0990FAE12D319E)](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E).
 
 Or here
 
@@ -72,7 +72,7 @@ Try it. It is fun and worth it. I will explain it below.
 
 ### Generating New PGP/GPG
 
-Install the gpg command 
+Install the gpg command #gnupg
 ```bash
 sudo apt install gnupg
 ```

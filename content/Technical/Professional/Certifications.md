@@ -10,7 +10,6 @@ tags:
   - cloud
   - cloudArchitect
   - VHDL
-  - wip
 description: Resumo de minhas principais certificações
 ---
 
@@ -37,4 +36,4 @@ description: Resumo de minhas principais certificações
 | 4Linux                                                                     | Kubernetes: Orquestração de Ambientes Escaláveis - CKA | out, 2019     |                                                                                                                     |
 | Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) | Linguagens de Descrição de Hardware                    | out de 2014   |                                                                                                                     |
 
-There are more, but I do not remember and/or I lost the certification link/papaer in virtual folder or physical locker somewhere.
+There are more (like #arduino, #fpga, #latex), but I do not remember and/or I lost the certification link/paper in virtual folder or physical locker somewhere.
