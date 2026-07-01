@@ -28,7 +28,7 @@ upstream	https://github.com/jackyzha0/quartz.git (fetch)
 upstream	https://github.com/jackyzha0/quartz.git (push)
 ```
 
-After. inside the project:
+After. Inside the project:
 
 ```bash
 npm i
@@ -44,3 +44,22 @@ Sets up the `quartz.config.yaml` file and
 ```bash
 npx quartz build --serve
 ```
+
+
+---
+
+### Publishing
+
+In Github:
+
+1. Configure `origin` remote to be you github repo;
+2. In github settings page:
+	1. Configure Github actions
+	2. Go to `Environment`page and remove the policy;
+
+Add add the `deploy.yaml` inside `.github/workflows/deploy.yaml` as [official site demands](https://quartz.jzhao.xyz/hosting#github-pages).
+
+```bash
+npx quartz sync
+```
+
