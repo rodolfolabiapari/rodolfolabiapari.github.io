@@ -76,6 +76,8 @@ In Github:
 
 Add add the `deploy.yaml` inside `.github/workflows/deploy.yaml` as [official site demands](https://quartz.jzhao.xyz/hosting#github-pages).
 
+The `yaml` below already has #catppuccin theme from [saberzero1 repo](https://github.com/saberzero1/quartz-themes).
+
 ```yaml
 name: Deploy Quartz site to GitHub Pages
 
@@ -83,6 +85,8 @@ on:
   push:
     branches:
       - v5
+env:
+  THEME_NAME: catppuccin.macchiato
 
 permissions:
   contents: read
@@ -119,6 +123,8 @@ jobs:
             ${{ runner.os }}-plugins-
       - name: Install Dependencies
         run: npm ci
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Install Quartz plugins
         run: npx quartz plugin install
       - name: Build Quartz
@@ -138,6 +144,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 ```
 
 
