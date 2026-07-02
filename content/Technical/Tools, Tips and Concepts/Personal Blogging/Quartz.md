@@ -1,6 +1,6 @@
 ---
 title: Quartz
-draft: true
+draft: false
 created: 2026-07-01
 tags:
   - git
@@ -19,15 +19,21 @@ enableToc: true
 aliases: []
 ---
 
-> [!info] Why Quartz?
+## #ADR 
+
+> [!info] **Decision:** Why Quartz?
 > I really wanted to use #wikilinks and [[Hugo]] does not have (and will not be) supported for now.
 
+---
 ## Requirements
 
 - #Node
 - #github account
 
-## Configuring
+---
+## Starting
+
+### Configuring
 
 For the #quartz works, I did:
 
@@ -61,9 +67,6 @@ Sets up the `quartz.config.yaml` file and
 ```bash
 npx quartz build --serve
 ```
-
-
----
 
 ### Publishing
 

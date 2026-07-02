@@ -16,7 +16,7 @@ title: Homelab Project
 > **Why:** I think it is more overhead than solution for now. I have only small and slow devices and kubernetes will take resources that are fundamentals to my workloads.
 > If I have to choose, for now, a better solution, it will be a #dockerSwarm, but seeing my project today, I do not need it too.
 > 
-> I have a #philosophy that, _simples is better than headache_. Today all the workloads and configurations are being setting by #ansible within pipeline. Simple and works well.
+> I have a #philosophy that, _simples is better than headache_. Today all the workloads and configurations are being setting by #ansible within #pipeline. Simple and works well.
 
 > [!info] **Decision:** Raspberries over standard computers
 > **Why:** Over all my graduating and master class years I worked with #arduino , #raspberries, #esp32 and #fpga devices.
