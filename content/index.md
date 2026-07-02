@@ -16,6 +16,9 @@ For me, the pursuit of knowledge is ongoing. That's why my free time is devoted 
 
 ## Browsing
 
-You can start by [[Finde Me]], [[Shows That I have Been To]] or [[Certifications]] pages.
+You can start by:
+- [[Finde Me]]
+- [[Shows That I have Been To]]; or 
+- [[Certifications]] pages.
 
-I am building a [[Homelab Project]] and my current hobby is [[Reading Project]].
+I am building a [[Homelab Project]] and my current hobby is [[Reading Project]], check it out.

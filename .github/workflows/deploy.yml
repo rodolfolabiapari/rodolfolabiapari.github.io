@@ -5,7 +5,7 @@ on:
     branches:
       - v5
 env:
-  THEME_NAME: adrenaline
+  THEME_NAME: catppuccin.macchiato
 
 permissions:
   contents: read
