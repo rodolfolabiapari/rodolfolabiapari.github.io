@@ -1,5 +1,5 @@
 ---
-title:
+title: cat, rg with xargs
 created: 2026-07-01
 draft: false
 tags:

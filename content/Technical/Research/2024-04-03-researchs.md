@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Researchs and Scientific Computing Publications
-date: 2024-03-04
+created: 2024-03-04
 draft: true
 tags:
   - wip

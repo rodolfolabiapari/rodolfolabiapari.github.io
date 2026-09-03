@@ -1,6 +1,6 @@
 ---
 title: Find Me
-date: 2024-02-04
+created: 2024-02-04
 draft: false
 tags:
   - socialMedia
@@ -23,6 +23,7 @@ description: Principais links das minhas redes
 - [Credly.com](https://credly.com/users/rodolfolabiapari);
 - [Bitcoin](https://bitref.com/3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ);
 - [PGP/GPG](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E"). Go check my GPG key in [[GPG Security Contact]].
+- Want to support? Check [[Donations]].
 
 ## Social Media
 

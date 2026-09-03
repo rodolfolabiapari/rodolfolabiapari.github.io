@@ -52,7 +52,7 @@ Some books that I read.
 | As rãs | [[Mo Yan]] | [[Companhia das Letras]] | 392 |
 | Assassinato na Casa do Pastor | [[Agatha Christie]] | [[L&PM]] | 191 |
 | Assassinato no Expresso Oriente (Hercule Poirot #10) | [[Agatha Christie]] | [[L&PM]] | 248 |
-| Assassinatos na Academia Brasileira de Letras | [[Jô Soares]] | "[[Editora Companhia das Letras]]" | 260 |
+| Assassinatos na Academia Brasileira de Letras | [[Jô Soares]] | [[Editora Companhia das Letras]] | 260 |
 | Aventura em Bagdá | [[Agatha Christie]] | [[L&PM Pocket]] | 186 |
 | Bilhões e bilhões | [[Carl Sagan]] | [[Companhia de Bolso]] | 292 |
 | Blade Runner | [[Philip K. Dick]] | [[Aleph]] | 316 |
@@ -143,7 +143,7 @@ Some books that I read.
 | O Atentado | [[Yasmina Khadra]] | [[Sá]] | 253 |
 | O Caminho dos Reis (Os Relatos da Guerra das Tempestades #1) | [[Brandon Sanderson]] | [[Trama]] | 1240 |
 | O Conto da Ilha Desconhecida | [[José Saramago]] | [[Companhia Das Letras]] | 45 |
-| O Corcunda de Notre-Dame | [[Victor Hugo]] | "[[Editora Schwarcz - Companhia das Letras]]" | 470 |
+| O Corcunda de Notre-Dame | [[Victor Hugo]] | [[Editora Schwarcz - Companhia das Letras]] | 470 |
 | O Cortiço | [[Aluísio Azevedo]] | [[DC]] | 290 |
 | O Corvo e Suas Traduções | [[Edgar Allan Poe]] | [[Leya]] | 145 |
 | O Demonologista | [[Andrew Pyper]] | [[DarkSide® Books]] | 281 |
@@ -221,7 +221,7 @@ Some books that I read.
 | Vida e destino | [[Vassili Grossman]] | [[Alfaguara]] | 842 |
 | Vozes de Tchernóbil | [[Svetlana Aleksiévitch]] | [[Companhia das Letras]] | 312 |
 | WE3 - Instinto De Sobrevivência (Edição Única) | [[Grant Morrison e Frank Quitely]] | [[Panini Books]] | 144 |
-| Words of Radiance | [[Brandon Sanderson]] | "[[Tor Books]]" | 1210 |
+| Words of Radiance | [[Brandon Sanderson]] | [[Tor Books]] | 1210 |
 | \"O Capital\" de Marx | [[Ben Fine,  Alfredo Saad Filho]] | [[Editora Contracorrente]] | 249 |
 | jQuery: A Biblioteca do Programador JavaScript - 1ª Edição | [[Maujor]] | [[Novatec]] | 432 |
 | Édipo Rei (Biblioteca de Ouro da Literatura Universal #9) | [[Sófocles]] | [[Editora América do Sul]] | 95 |
