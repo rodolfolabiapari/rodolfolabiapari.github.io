@@ -1,6 +1,6 @@
 ---
 title: Find Me
-date: 2024-02-04
+created: 2024-02-04
 draft: false
 tags:
   - socialMedia
@@ -11,6 +11,7 @@ tags:
   - IFMG
 description: Principais links das minhas redes
 ---
+
 ## Technology Subject
 
 - [Lattes CNPq](http://lattes.cnpq.br/7459046239105308);
@@ -22,7 +23,8 @@ description: Principais links das minhas redes
 - [CloudSkillsBost](https://partner.cloudskillsboost.google/public_profiles/60716fde-b71f-44cb-9176-d7da09834180);
 - [Credly.com](https://credly.com/users/rodolfolabiapari);
 - [Bitcoin](https://bitref.com/3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ);
-- [PGP/GPG](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E"). Go check my GPG key in [[GPG Security Contact]].
+- [PGP/GPG](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E"). Go check my GPG key in [[contato-gpg]].
+- Want to support? Check [[doacoes]].
 
 ## Social Media
 

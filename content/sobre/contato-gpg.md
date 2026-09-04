@@ -6,7 +6,7 @@ tags: []
 description: ""
 ---
 
-> [!info] You can also contact me in [[Find Me]].
+> [!info] You can also contact me in [[encontre-me]].
 
 ## Security Contact and Validations
 

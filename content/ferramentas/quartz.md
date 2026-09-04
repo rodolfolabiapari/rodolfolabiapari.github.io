@@ -22,7 +22,7 @@ aliases: []
 ## #ADR
 
 > [!info] **Decision:** Why Quartz?
-> I really wanted to use #wikilinks and [[Hugo]] does not have (and will not be) supported for now.
+> I really wanted to use #wikilinks and [[hugo]] does not have (and will not be) supported for now.
 
 ---
 

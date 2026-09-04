@@ -16,12 +16,30 @@ For me, the pursuit of knowledge is ongoing. That's why my free time is devoted 
 
 ## Browsing
 
-You can start by:
+### Pessoal
 
-- [[Find Me]]
-- [[Shows That I have Been To]]; or
-- [[Certifications]] pages.
+- [[encontre-me]]
+- [[shows]]
+- [[doacoes]]
 
-I am building a [[Homelab Project]] and my current hobby is [[Reading Project]], check it out.
+### Projetos
 
-Also check my [[Open Source Projects|open source projects]], some notes about [[About Passwords|passwords]], and a quick [[cat, rg with xargs|rg + xargs]] tip.
+- [[homelab]]
+- [[leitura]]
+- [[projetos-open-source]]
+
+### Ferramentas
+
+- [[vi-vim-nvim]]
+- [[tmux]]
+- [[git|git — mv, stash, rebase e conflitos]]
+- [[omarchy|omarchy (minha distro)]]
+- [[ia|IA no dia a dia]]
+- [[hugo]] e [[quartz]] — este blog
+- [[sobre-senhas|senhas]]
+- [[cat-rg-xargs|rg + xargs]]
+
+### Carreira
+
+- [[certificacoes]]
+- [[pesquisas]]

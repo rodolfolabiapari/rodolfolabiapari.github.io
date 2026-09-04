@@ -13,6 +13,6 @@ description: ""
 All my open source projects are available in my
 [github repositories page](https://github.com/rodolfolabiapari).
 
-Some Projects are are not open but I will describe then, like my [[Homelab Project]].
+Some Projects are are not open but I will describe then, like my [[homelab]].
 
 This #blog is also a personal project :) that already used [[Jekyll]], [[Hugo]] and now [[Quartz]].

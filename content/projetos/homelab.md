@@ -55,9 +55,9 @@ And #automation and #management I have:
 
 ## Future
 
-- I am plan to improve and increase my #ArrFamily. I need a automation to search and bring new #books for my [[Reading Project]].
+- I am plan to improve and increase my #ArrFamily. I need a automation to search and bring new #books for my [[leitura]].
 - Today, my best raspberry pi which is an #orangepi, it throttling with video media server. I have to buy a new device for those high process worload.
-- I need a substitute for #calibre for managing my #ebooks . I am looking for a new solution that I can catalog all my physical books too. Go check a little bit of this in [[Reading Project]].
+- I need a substitute for #calibre for managing my #ebooks . I am looking for a new solution that I can catalog all my physical books too. Go check a little bit of this in [[leitura]].
 - Much of my #wireless devices are old.
   For exemple, today a #raspberrypi1b has a #armv6 32-bit processor and 100 base Ethernet[^2]. For many workload, I had to rebuild/recompile to work. That is creating more trouble than solution for me today.
   Today it runs well some little services and a backup of #pihole #HighAvailability .

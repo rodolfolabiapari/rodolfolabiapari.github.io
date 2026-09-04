@@ -62,7 +62,7 @@ git rm themes/${nomeDoTema}
 rm -rf .git/modules/themes/${nomeDoTema}
 ```
 
-Ai voltamos no [[Hugo#Aplicando Temas]] e configuramos o novo tema.
+Ai voltamos no [[hugo#aplicando-temas]] e configuramos o novo tema.
 
 ---
 
