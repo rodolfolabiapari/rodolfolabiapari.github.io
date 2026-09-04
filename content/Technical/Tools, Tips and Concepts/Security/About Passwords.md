@@ -1,10 +1,9 @@
 ---
-layout: post
 title: About Passwords
-date: 2025-05-07
-categories: security password
-draft: false
+created: 2025-05-07
 tags:
+  - security
+  - password
 description: Do you already changed you password?
 ---
 ## Generating new Passwords

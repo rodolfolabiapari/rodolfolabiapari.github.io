@@ -1,14 +1,12 @@
 ---
-layout: post
 title: Security Contact
-date: 2024-03-04
+created: 2024-03-04
 draft: false
 tags: []
 description: ""
-created: 2026-06-30
 ---
 
-> [!info] You can also contact me in [[Finde Me]].
+> [!info] You can also contact me in [[Find Me]].
 
 ## Security Contact and Validations
 

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Donations
-date: 2024-03-04
+created: 2024-03-04
 draft: false
 tags:
   - MedicosSemFronteiras
