@@ -8,7 +8,7 @@ tags:
   - stash
   - conflitos
   - dicas
-description: Operações de git que uso com frequência: mover arquivos, stashing, rebase e resolução de conflitos
+description: Operações de git que uso com frequência mover arquivos, stashing, rebase e resolução de conflitos
 lang: pt-br
 enableToc: true
 aliases: []
