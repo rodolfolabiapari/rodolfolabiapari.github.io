@@ -38,6 +38,7 @@ For me, the pursuit of knowledge is ongoing. That's why my free time is devoted 
 - [[hugo]] e [[quartz]] — este blog
 - [[sobre-senhas|senhas]]
 - [[cat-rg-xargs|rg + xargs]]
+- [[stow-dotfiles|stow — gerenciamento de dotfiles]]
 
 ### Carreira
 

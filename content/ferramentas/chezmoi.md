@@ -20,5 +20,5 @@ aliases: []
 
 Meu primeiro organizador de #dotfiles.
 
-Está armazenado [no meu github](https://github.com/rodolfolabiapari/dotfiles-legacy), mas hoje está em desuso pois eu migrei para o [[omarchy]] e desde então não consegui replicar/atualizar.
+Está armazenado [no meu github](https://github.com/rodolfolabiapari/dotfiles-legacy), mas hoje está em desuso — primeiro migrei para o [[omarchy]], e atualmente uso [[stow-dotfiles|GNU Stow]] para gerenciar meus dotfiles.
 
