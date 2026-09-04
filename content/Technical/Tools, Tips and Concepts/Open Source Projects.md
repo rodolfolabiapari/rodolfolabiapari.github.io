@@ -1,7 +1,6 @@
 ---
-layout: post
 title: My Open Source Projects
-date: 2024-03-04
+created: 2024-03-04
 draft: false
 tags:
   - opensource

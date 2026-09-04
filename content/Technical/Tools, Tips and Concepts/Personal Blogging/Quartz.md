@@ -19,18 +19,20 @@ enableToc: true
 aliases: []
 ---
 
-## #ADR 
+## #ADR
 
 > [!info] **Decision:** Why Quartz?
 > I really wanted to use #wikilinks and [[Hugo]] does not have (and will not be) supported for now.
 
 ---
+
 ## Requirements
 
 - #Node
 - #github account
 
 ---
+
 ## Starting
 
 ### Configuring
@@ -74,8 +76,8 @@ In Github:
 
 1. Configure `origin` remote to be you github repo;
 2. In github settings page:
-	1. Configure Github actions
-	2. Go to `Environment`page and remove the policy;
+   1. Configure Github actions
+   2. Go to `Environment`page and remove the policy;
 
 Add add the `deploy.yaml` inside `.github/workflows/deploy.yaml` as [official site demands](https://quartz.jzhao.xyz/hosting#github-pages).
 
@@ -147,9 +149,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
 ```
-
 
 ```bash
 npx quartz sync

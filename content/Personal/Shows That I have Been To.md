@@ -14,6 +14,7 @@ tags:
 description: I hope this list will not have an end
 enableToc: true
 ---
+
 ## What I am Listining To Righ Now
 
 I have some nice playlists at [my Spotify profile](https://open.spotify.com/user/rodolfolabiapari?si=2e947b9b1eac410f).
@@ -27,24 +28,25 @@ My music history and shows went is also available in
 ### Upcoming
 
 - Rush
-- Eddie Vedder 
+- Eddie Vedder
 
-## Past Concerts 
+## Past Concerts
 
 To be organized:
-  - Biquini Cavadão
-  - Capital Inicial
-  - DakhaBrakha Ouro Preto (2016)
-  - Detonautas (many times, I also have many photos with Tico)
-  - Dias de Trutas (many times)
-  - Far From Alaska
-  - Humberto Gessinger
-  - Nando Reis (2x)
-  - Roupa Nova
-  - RPM (Ainda ganhei palheta)
-  - Samuel Rosa
-  - Sepultura (many many times) (I have photos with all them)
-  - Skank (2 times)
+
+- Biquini Cavadão
+- Capital Inicial
+- DakhaBrakha Ouro Preto (2016)
+- Detonautas (many times, I also have many photos with Tico)
+- Dias de Trutas (many times)
+- Far From Alaska
+- Humberto Gessinger
+- Nando Reis (2x)
+- Roupa Nova
+- RPM (Ainda ganhei palheta)
+- Samuel Rosa
+- Sepultura (many many times) (I have photos with all them)
+- Skank (2 times)
 
 ## 2012
 
@@ -54,11 +56,11 @@ To be organized:
 
 ## 2014
 
-|Data|Evento / Local|Artista|Setlist|
-|---|---|---|---|
-|22/03/2014|Festival Planeta Brasil|Guns N' Roses|[link](https://www.setlist.fm/setlist/guns-n-roses/2014/mineirao-esplanada-belo-horizonte-brazil-3c2253f.html)|
-|22/03/2014|Festival Planeta Brasil|Frejat|[link](https://www.setlist.fm/setlist/frejat/2014/mineirao-esplanada-belo-horizonte-brazil-13c22511.html)|
-|22/03/2014|Festival Planeta Brasil|Raimundos|[link](https://www.setlist.fm/setlist/raimundos/2014/mineirao-esplanada-belo-horizonte-brazil-1bc22510.html)|
+| Data       | Evento / Local          | Artista       | Setlist                                                                                                        |
+| ---------- | ----------------------- | ------------- | -------------------------------------------------------------------------------------------------------------- |
+| 22/03/2014 | Festival Planeta Brasil | Guns N' Roses | [link](https://www.setlist.fm/setlist/guns-n-roses/2014/mineirao-esplanada-belo-horizonte-brazil-3c2253f.html) |
+| 22/03/2014 | Festival Planeta Brasil | Frejat        | [link](https://www.setlist.fm/setlist/frejat/2014/mineirao-esplanada-belo-horizonte-brazil-13c22511.html)      |
+| 22/03/2014 | Festival Planeta Brasil | Raimundos     | [link](https://www.setlist.fm/setlist/raimundos/2014/mineirao-esplanada-belo-horizonte-brazil-1bc22510.html)   |
 
 ## 2016
 
@@ -68,9 +70,9 @@ To be organized:
 
 ## 2017
 
-|Data|Evento / Local|Artista|Setlist|
-|---|---|---|---|
-|23/08/2017|Ouro Preto|Ummagumma – The Brazilian Pink Floyd|—|
+| Data       | Evento / Local | Artista                              | Setlist |
+| ---------- | -------------- | ------------------------------------ | ------- |
+| 23/08/2017 | Ouro Preto     | Ummagumma – The Brazilian Pink Floyd | —       |
 
 ## 2018
 
@@ -80,10 +82,10 @@ To be organized:
 
 ## 2020
 
-|Data|Evento / Local|Artista|Setlist|
-|---|---|---|---|
-|06/03/2020|Mister Rock Bar, BH|Powerwolf|[link](https://www.setlist.fm/setlist/powerwolf/2020/mister-rock-bar-belo-horizonte-brazil-439983b7.html)|
-|06/03/2020|Mister Rock Bar, BH|Amon Amarth|[link](https://www.setlist.fm/setlist/amon-amarth/2020/mister-rock-bar-belo-horizonte-brazil-4b9983b6.html)|
+| Data       | Evento / Local      | Artista     | Setlist                                                                                                     |
+| ---------- | ------------------- | ----------- | ----------------------------------------------------------------------------------------------------------- |
+| 06/03/2020 | Mister Rock Bar, BH | Powerwolf   | [link](https://www.setlist.fm/setlist/powerwolf/2020/mister-rock-bar-belo-horizonte-brazil-439983b7.html)   |
+| 06/03/2020 | Mister Rock Bar, BH | Amon Amarth | [link](https://www.setlist.fm/setlist/amon-amarth/2020/mister-rock-bar-belo-horizonte-brazil-4b9983b6.html) |
 
 ## 2022
 
@@ -137,15 +139,15 @@ To be organized:
 
 ## 2025
 
-|Data|Evento / Local|Artista|Setlist|
-|---|---|---|---|
-|05/03/2025|Befly Hall, BH|Amyl and the Sniffers|[link](https://www.setlist.fm/setlist/amyl-and-the-sniffers/2025/befly-hall-belo-horizonte-brazil-4350b3bf.html)|
-|05/03/2025|Befly Hall, BH|The Offspring|[link](https://www.setlist.fm/setlist/the-offspring/2025/befly-hall-belo-horizonte-brazil-5b50b3cc.html)|
-|10/05/2025|Allianz Parque, SP|Ego Kill Talent|[link](https://www.setlist.fm/setlist/ego-kill-talent/2025/allianz-parque-sao-paulo-brazil-1359851d.html)|
-|10/05/2025|Allianz Parque, SP|System of a Down|[link](https://www.setlist.fm/setlist/system-of-a-down/2025/allianz-parque-sao-paulo-brazil-135f4d5d.html)|
-|24/05/2025|Befly Hall, BH|Fresno|[link](https://www.setlist.fm/setlist/fresno/2025/befly-hall-belo-horizonte-brazil-535d13e9.html)|
-|23/11/2025|Morumbis, SP|Richard Ashcroft|[link](https://www.setlist.fm/setlist/richard-ashcroft/2025/morumbis-sao-paulo-brazil-534eb745.html)|
-|23/11/2025|Morumbis, SP|Oasis|[link](https://www.setlist.fm/setlist/oasis/2025/morumbis-sao-paulo-brazil-435f27c7.html)|
+| Data       | Evento / Local     | Artista               | Setlist                                                                                                          |
+| ---------- | ------------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 05/03/2025 | Befly Hall, BH     | Amyl and the Sniffers | [link](https://www.setlist.fm/setlist/amyl-and-the-sniffers/2025/befly-hall-belo-horizonte-brazil-4350b3bf.html) |
+| 05/03/2025 | Befly Hall, BH     | The Offspring         | [link](https://www.setlist.fm/setlist/the-offspring/2025/befly-hall-belo-horizonte-brazil-5b50b3cc.html)         |
+| 10/05/2025 | Allianz Parque, SP | Ego Kill Talent       | [link](https://www.setlist.fm/setlist/ego-kill-talent/2025/allianz-parque-sao-paulo-brazil-1359851d.html)        |
+| 10/05/2025 | Allianz Parque, SP | System of a Down      | [link](https://www.setlist.fm/setlist/system-of-a-down/2025/allianz-parque-sao-paulo-brazil-135f4d5d.html)       |
+| 24/05/2025 | Befly Hall, BH     | Fresno                | [link](https://www.setlist.fm/setlist/fresno/2025/befly-hall-belo-horizonte-brazil-535d13e9.html)                |
+| 23/11/2025 | Morumbis, SP       | Richard Ashcroft      | [link](https://www.setlist.fm/setlist/richard-ashcroft/2025/morumbis-sao-paulo-brazil-534eb745.html)             |
+| 23/11/2025 | Morumbis, SP       | Oasis                 | [link](https://www.setlist.fm/setlist/oasis/2025/morumbis-sao-paulo-brazil-435f27c7.html)                        |
 
 ## 2026
 

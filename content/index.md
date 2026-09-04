@@ -17,8 +17,11 @@ For me, the pursuit of knowledge is ongoing. That's why my free time is devoted 
 ## Browsing
 
 You can start by:
-- [[Finde Me]]
-- [[Shows That I have Been To]]; or 
+
+- [[Find Me]]
+- [[Shows That I have Been To]]; or
 - [[Certifications]] pages.
 
 I am building a [[Homelab Project]] and my current hobby is [[Reading Project]], check it out.
+
+Also check my [[Open Source Projects|open source projects]], some notes about [[About Passwords|passwords]], and a quick [[cat, rg with xargs|rg + xargs]] tip.

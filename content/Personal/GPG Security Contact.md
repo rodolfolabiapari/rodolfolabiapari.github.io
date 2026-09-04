@@ -1,14 +1,12 @@
 ---
-layout: post
 title: Security Contact
-date: 2024-03-04
+created: 2024-03-04
 draft: false
 tags: []
 description: ""
-created: 2026-06-30
 ---
 
-> [!info] You can also contact me in [[Finde Me]].
+> [!info] You can also contact me in [[Find Me]].
 
 ## Security Contact and Validations
 
@@ -17,7 +15,7 @@ created: 2026-06-30
 Or here
 
 ```bash
-gpg --search rodolfolabiapari@gmail.com 
+gpg --search rodolfolabiapari@gmail.com
 ```
 
 Also here
@@ -73,6 +71,7 @@ Try it. It is fun and worth it. I will explain it below.
 ### Generating New PGP/GPG
 
 Install the gpg command #gnupg
+
 ```bash
 sudo apt install gnupg
 ```
@@ -91,7 +90,7 @@ Please select what kind of key you want:
    (3) DSA (sign only)
    (4) RSA (sign only)
   (14) Existing key from card
-Your selection? 
+Your selection?
 ```
 
 After use `4096` for bits size of keys.
@@ -111,7 +110,7 @@ Please specify how long the key should be valid.
       <n>w = key expires in n weeks
       <n>m = key expires in n months
       <n>y = key expires in n years
-Key is valid for? (0) 
+Key is valid for? (0)
 Key does not expire at all
 Is this correct? (y/N) y
 ```
@@ -123,7 +122,7 @@ GnuPG needs to construct a user ID to identify your key.
 
 Real name: Alice
 Email address: alice@mail.com
-Comment: 
+Comment:
 You selected this USER-ID:
     "Alice <alice@mail.com>"
 

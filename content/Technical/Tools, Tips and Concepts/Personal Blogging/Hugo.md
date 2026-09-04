@@ -20,6 +20,7 @@ TocOpen: "true"
 ShowWordCount: "true"
 title: Hugo
 ---
+
 ## Instalação
 
 Instalando e iniciando o `hugo`:
@@ -39,6 +40,7 @@ hugo new site . --force --format yaml
 ```
 
 ---
+
 ## Aplicando Temas
 
 Temas são aplicados usando `git submodule`. Abaixo é exibido a aplicação do tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod/tree/master).
@@ -63,6 +65,7 @@ rm -rf .git/modules/themes/${nomeDoTema}
 Ai voltamos no [[Hugo#Aplicando Temas]] e configuramos o novo tema.
 
 ---
+
 ## Executando Servidor Local
 
 Na raiz, executar:
