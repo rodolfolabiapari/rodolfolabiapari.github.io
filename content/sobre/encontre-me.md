@@ -34,7 +34,7 @@ Go check my [Last.fm](https://www.last.fm/user/rodolfo_lab) and [Spotify](https:
 
 ## Books
 
-I used to use [Skoob](https://www.skoob.com.br/usuario/6695112-rodolfo_lab) but not anymore. I record all the reading data in my own personal [[Homelab Project]] applications.
+I used to use [Skoob](https://www.skoob.com.br/usuario/6695112-rodolfo_lab) but not anymore. I record all the reading data in my own personal [[Homelab Project]] applications and [[leitura]]s page.
 
 ## Games
 
