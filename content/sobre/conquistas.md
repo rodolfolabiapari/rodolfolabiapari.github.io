@@ -14,7 +14,7 @@ enableToc: true
 
 ### Dormir as vistas de um Vulcão em Erupção
 
-- Local: Cidade de Antígua Guatemalda em [[Guatemala]].
+- Local: Cidade de Antígua Guatemala em [[Guatemala]].
 - 8 horas de caminhada íngrime subindo a costa do Vulcão adormecido Acatenango.
 - Ficamos com vista ao Vulcão Fuego, menos de 5km de distância.
 - Dorme e retorna no outro dia
