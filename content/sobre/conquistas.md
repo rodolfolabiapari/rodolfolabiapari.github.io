@@ -11,35 +11,26 @@ description: Lista de coisas legais que já fiz na minha vida. Sempre em constru
 enableToc: true
 ---
 
-| Ano  | Local                                                                                                          | Patrimônio                                                                    | Destaque                                            |
-| ---- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------- |
-| 2019 | [Antígua + Acatenango](https://pt.wikipedia.org/wiki/Antígua_Guatemala), [[Guatemala]]                         | [[UNESCO]] ([site](https://whc.unesco.org/en/list/65))                        | Dormir com vista para o vulcão Fuego em erupção     |
-| 2019 | [Isla de Flores](https://pt.wikipedia.org/wiki/Lago_Petén_Itzá) + [Tikal](https://pt.wikipedia.org/wiki/Tikal) | [[UNESCO]] ([site](https://whc.unesco.org/en/list/64))                        | Pirâmides na selva ao som de macacos-uivadores      |
-| 2018 | [Valparaíso](https://pt.wikipedia.org/wiki/Valparaíso), [[Chile]]                                              | [[UNESCO]] ([site](https://whc.unesco.org/en/list/959))                       | Ascensores, murais coloridos e a casa de Neruda     |
-| 2017 | [Lago Titicaca](https://pt.wikipedia.org/wiki/Lago_Titicaca), [[Peru]] / [[Bolívia]]                           | —                                                                             | Lago navegável mais alto do mundo (3.812 m)         |
-| 2017 | [Vinicunca](https://pt.wikipedia.org/wiki/Montanha_Arco-Íris), Peru                                            | —                                                                             | Montanha das 7 Cores a 5.010 m, sem mal de altitude |
-| 2017 | [Machu Picchu](https://pt.wikipedia.org/wiki/Machu_Picchu), Peru                                               | [[UNESCO]] ([site](https://whc.unesco.org/en/list/274)) + 7 Maravilhas (2007) | Ruínas incas nunca encontradas pelos espanhóis      |
-| 2017 | [Cusco](https://pt.wikipedia.org/wiki/Cusco), Peru                                                             | [[UNESCO]] ([site](https://whc.unesco.org/en/list/273))                       | Capital inca, milho, batata e cuy                   |
-
----
-
-## Guatemala (2019)
+## Guatemala (Janeiro de 2026)
 
 ### Vulcão Acatenango e o Fuego em erupção
 
 - Local: [cidade de Antígua](https://pt.wikipedia.org/wiki/Antígua_Guatemala), [[Guatemala]].
 - Antígua é Patrimônio Mundial da [[UNESCO]] (inscrita em 1979, [site oficial](https://whc.unesco.org/en/list/65)).
-- 8 horas de caminhada íngreme subindo a encosta do vulcão adormecido [Acatenango](https://pt.wikipedia.org/wiki/Volcán_de_Acatenango).
+- 8 horas de caminhada íngreme saindo de Aldea La soledad subindo a encosta do vulcão adormecido [Acatenango](https://pt.wikipedia.org/wiki/Volcán_de_Acatenango).
 - Acampamos com vista para o vulcão Fuego, a menos de 5 km de distância.
+  ![[Pasted image 20260908114435.png]]
 - À noite, ver a lava incandescente do Fuego explodindo no escuro é hipnotizante.
 - O equipamento de acampamento amanheceu congelado — a altitude bate forte.
 - A subida passa por plantações de café nas encostas.
+  ![[Pasted image 20260908114550.png]]
 - Dormimos e retornamos no dia seguinte.
 - Por um erro de comunicação com a empresa de turismo guatemalteca (que depois descobrimos que a pessoa era levemente analfabeta e nós não falávamos espanhol), contratamos um guia local exclusivamente para nós.
   Pagamos caro por isso e quase estragou nossa viagem, mas no final foi uma das melhores experiências que tivemos na vida.
   Ficamos mais de 24h com o guia, que contou a vida dele, falou sobre como a [Erupção de 2018](https://en.wikipedia.org/wiki/2018_Volc%C3%A1n_de_Fuego_eruption) foi devastadora — a fumaça chegou até [[Belize]] e matou cerca de 190 pessoas.
   Aprendemos muito sobre a cultura local, sobre ele e sua família. Tive a oportunidade de praticar meu espanhol com ele, que teve paciência e compreensão.
   Acredito que Menphis não verá esta descrição, mas meu muito obrigado.
+  ![[Pasted image 20260908114301.png]]
 
 ### Isla de Flores
 
@@ -50,6 +41,7 @@ enableToc: true
 - Hoje tem casinhas coloridas de estilo colonial e funciona como "porteira" para quem vai visitar Tikal.
 - Primeira vez que viajei de ATR (turbohélice ATR 42/72).
 - [Wikipedia — Lago Petén Itzá](https://pt.wikipedia.org/wiki/Lago_Petén_Itzá)
+  ![[Pasted image 20260908114821.png]]
 
 ### Ruínas Maias de Tikal
 
@@ -63,17 +55,19 @@ enableToc: true
 - Diferentemente de [[#Machu Picchu]], que está 100% preparada para o público (e seu alto volume), percebi que Tikal ainda precisa ser restaurada — há muitas partes cobertas por floresta e não é possível ver muito. Por exemplo, a pirâmide mais alta do parque quase não é visível pois há muita vegetação ao seu redor.
 - Tikal serviu de cenário para a base rebelde da lua de Yavin 4 em [Star Wars: Episódio IV — Uma Nova Esperança (1977)](https://starwars.fandom.com/wiki/Tikal).
 - Provei um cacau excelente por lá.
+- Parque Nacional de Tikal é uma floresta tropical tão grande que no momento que visitamos, só perdia para o tamanho da [[Floresta Amazônica]].
 - [Wikipedia — Tikal](https://pt.wikipedia.org/wiki/Tikal)
+- ![[Pasted image 20260908115038.jpg]]
 
-## Chile (2018)
+## Chile (Outubro de 2022)
 
 ### Valparaíso e o Oceano Pacífico
 
 - O Oceano Pacífico que banha [Valparaíso](https://pt.wikipedia.org/wiki/Valparaíso) e Viña del Mar, no [[Chile]].
 - Valparaíso é Patrimônio Mundial da [[UNESCO]] — seu bairro histórico foi inscrito em 2003 ([site oficial](https://whc.unesco.org/en/list/959)).
 - Os "ascensores" (funiculares históricos) sobem e descem os morros íngremes.
-- Murais de grafite e casas coloridas cobrem cada ladeira.
-- Pablo Neruda tinha uma casa lá, [La Sebastiana](https://pt.wikipedia.org/wiki/La_Sebastiana), hoje museu com vista para o porto.
+- Murais de grafite e casas coloridas cobrem cada ladeira, é muito bonito e de longe fica bem charmoso o conjunto de casas.
+- Pablo Neruda tinha uma casa lá, [La Sebastiana](https://pt.wikipedia.org/wiki/La_Sebastiana), hoje museu com vista para o porto, infelizmente não visitamos.
 
 ### Subida ao Edifício Costanera
 
@@ -81,9 +75,9 @@ enableToc: true
 - Tem 62 andares e 300 metros de altura — era o arranha-céu mais alto da América Latina até [[2020]].
 - Nos pisos 61 e 62 fica o mirante Sky Costanera, inaugurado em [[2015]].
 
-### Terremoto Moderado (4.1)
+### Terremoto Moderado (4.7)
 
-- Enquanto estávamos no [[Chile]], tivemos um terremoto moderado de escala 4.1 no dia [[2022-10-10]]. Como foi de madrugada, por volta de 03:58 horário local, nem percebemos. Todas as pessoas estavam comentando no dia seguinte.
+- Enquanto estávamos no [[Chile]], tivemos um terremoto moderado de escala 4.1 a 4.7 segundo registros no dia [[2022-10-10]]. Como foi de madrugada, por volta de 03:58 horário local, nem percebemos. Todas as pessoas estavam comentando no dia seguinte.
 - Aconteceu na região entre Valparaíso e Santiago.
 - Foi sentido por todas as pessoas em seu entorno e, segundo informações, foi Intensidade Nível II.
 - Terremotos são eventos normais em toda a região — os países já possuem sistemas de resposta.
@@ -92,35 +86,41 @@ enableToc: true
 
 ### Moai del Ahu
 
-- Vi um Moai de 2,81 metros de altura originário da [[Ilha de Páscoa Rapa Nui - Chile]] ao lado do Museu Fonk em Viña del Mar, no [[Chile]].
+- Vi um Moai de 2,81 metros de altura originário da [[Ilha de Páscoa Rapa Nui - Chile]] ao lado do Museu Fonk em Viña del Mar, no [[Chile]]![[museo-fonck-vina-del-mar-1.webp]].
+  
 
-## Peru e Bolívia (2017)
+## Cusco e Puno - Peru (Outubro 2024)
 
 ### Lago Titicaca
 
 - Na divisa do [[Peru]] com a [[Bolívia]], [Wikipedia](https://pt.wikipedia.org/wiki/Lago_Titicaca).
-- A 3.812 metros acima do mar — quase o dobro da altitude de Machu Picchu.
+- Não cheguei até a Bolívia pois o lago é grande.
+- A 3.812 metros acima do mar e 8.372 km quadrados [(referência)](https://en.wikipedia.org/wiki/Lake_Titicaca#Highest_lake) — quase o dobro da altitude de Machu Picchu e o lago é maior que [[Cabo Verde]], [[Luxemburgo]] e [[Singapura]]. Maior que a região metropolitana de [[São Paulo]].
+  ![[Pasted image 20260908115346.png]]
 - Visita às [ilhas flutuantes artificiais dos Uros](https://pt.wikipedia.org/wiki/Uros), no meio do lago.
-- Os Uros reconstroem as ilhas com juncos totora constantemente — cada uma dura cerca de 15 anos.
+- Os [Uros](https://en.wikipedia.org/wiki/Uru_people) reconstroem as ilhas com juncos totora constantemente — cada uma dura cerca de 15 anos.
+![[Pasted image 20260908115225.png]]
 - Lenda inca: o primeiro Inca, Manco Cápac, teria emergido do lago para fundar o império.
+![[Pasted image 20260908113510.png]]
 
-### Montanha Vinicunca (das 7 Cores)
+### Montanha Vinicunca/Winikunka (das 7 Cores)
 
 - Montanha nos [[Andes]] com 5.036 metros de altura, colorida pelos minerais do seu solo.
 - Só ganhou fama mundial por volta de 2015-2016, [Wikipedia](https://pt.wikipedia.org/wiki/Montanha_Arco-Íris).
 - A trilha passa por rebanhos de lhamas e alpacas.
 - As cores são mais vivas na época da seca.
-- Subi até 5.010 metros de altitude.
-- Não sofri com o mal de altitude — acho que graças à folha de coca.
+- Eu subi até 5.010 metros de altitude.
+- Não sofri com o mal de altitude — acho que graças à folha de coca
+  ![[Cusco-Montanha-Colorida1-header.webp]]
 
 ### Machu Picchu
 
 - Situada a 2.430 metros de altitude, no meio da selva de nuvens.
 - Patrimônio Mundial da [[UNESCO]] — Santuário Histórico, inscrito em 1983 ([site oficial](https://whc.unesco.org/en/list/274)).
-- Eleita uma das 7 Maravilhas do Mundo Moderno (2007) — é a única nas Américas junto com Chichén Itzá e Cristo Redentor.
+- Eleita uma das [[7 Maravilhas do Mundo Moderno]] (2007) — é a única nas Américas junto com Chichén Itzá e Cristo Redentor.
 - Arquitetura magnífica: pedras encaixadas a seco, sem argamassa, que resistem a terremotos há séculos.
 - Construída por volta de 1450 pelo imperador Pachacútec.
-- Diferente de quase tudo no império inca, nunca foi encontrada pelos espanhóis — ficou escondida na selva até ser redescoberta por Hiram Bingham em 1911.
+- Diferente de quase tudo no império inca, nunca foi encontrada pelos espanhóis — ficou escondida na selva até ser redescoberta por Hiram Bingham em [[1911]].
 - Viagem de 4h de trem pelas montanhas, passando pelos caminhos dos Incas.
 - [Wikipedia — Machu Picchu](https://pt.wikipedia.org/wiki/Machu_Picchu)
 
@@ -130,10 +130,21 @@ enableToc: true
 - Foi a capital do Império Inca.
 - O [Qorikancha](https://pt.wikipedia.org/wiki/Qorikancha) (Templo do Sol) no centro da cidade.
 - A [Pedra dos 12 Ângulos](https://pt.wikipedia.org/wiki/Pedra_dos_12_Ângulos), em San Blas.
-- A cidade fica a 3.400 metros de altitude.
+- A cidade fica a 3.400 metros de altitude, nos primeiros dias você sente falta de ar, não consegue subir escadas direito e sente dores de cabeça.
 - Variedades extraordinárias de milho e batata.
-- Comi um porquinho-da-índia, que lá chamam de cuy. Não gostei.
+- Comi um porquinho-da-índia, que lá chamam de cuy. Não gostei e não recomendo.
 - Mastiguei folhas de coca constantemente para ajudar a enfrentar o mal de altitude.
+
+## Curaçau (2024)
+
+- Conheci a ilha caribenha, situada no Caribe Neerlandês a apenas 65 km da [[Venezuela]], colonizada pelos [[Países Baixo, (Holanda)]].
+- Você sabia que o termo _[[Canibal]]_ vem da derivação do nome das [[Ilhas Caribe]]? Referência em [# Cannibalism in the Americas](https://en.wikipedia.org/wiki/Cannibalism_in_the_Americas).
+- Eles falam a lingua Papiamento lingua nativa crioula que bem base portuguesa. Mas não da pra entender o que eles falam
+  ![[Pasted image 20260908115758.jpg]]
+- Lá eu pude ficar a cerca de 100 metros de uma Plataforma de Petróleo, que fica na [Praia de Tugboat](https://maps.app.goo.gl/pWacrgAnz5xBDnuA7), ao sul da Capital e bem [ao sul da ilha](https://www.magnific.com/br/video-premium/filmagem-aerea-4k-drone-sobrevoando-plataforma-petroleo-baia-caracas-curacao_2776166)
+  ![[Pasted image 20260908121129.jpg]]
+-   Detalhe importante é que nessa baía, há um [pequeno barco afundado que pode-se megulhar para ver](https://maps.app.goo.gl/iXH7YBgsn5g51xcy8), mas não tivemos coragem sem um guia/mergulhador por perto para nos orientar
+  ![[Pasted image 20260908121005.png]]
 
 ## Outras Conquistas
 
