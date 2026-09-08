@@ -133,6 +133,7 @@ enableToc: true
 - Variedades extraordinárias de milho e batata.
 - Comi um porquinho-da-índia, que lá chamam de cuy. Não gostei e não recomendo.
 - Mastiguei folhas de coca constantemente para ajudar a enfrentar o mal de altitude.
+- Não tem haver, mas relacionado com [[musica|música]], lá também comprei uma flauta peruana, na qual guardo como regalo.
 
 ## Curaçau (2024)
 

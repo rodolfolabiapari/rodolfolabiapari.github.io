@@ -59,6 +59,8 @@ Para mim, a busca pelo conhecimento é constante. Por isso, dedico meu tempo liv
 - [[shows]]
 - [[doacoes]]
 - [[conquistas]]
+- [[musica]]
+- [[idiomas]]
 
 ### Projetos
 
@@ -81,5 +83,7 @@ Para mim, a busca pelo conhecimento é constante. Por isso, dedico meu tempo liv
 
 ### Carreira
 
+- [[experiencia]]
+- [[formacao]]
 - [[certificacoes]]
 - [[pesquisas]]

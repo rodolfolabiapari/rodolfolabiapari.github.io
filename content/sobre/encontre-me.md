@@ -26,6 +26,10 @@ description: Principais links das minhas redes
 - [PGP/GPG](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E"). Go check my GPG key in [[contato-gpg]].
 - Want to support? Check [[doacoes]].
 
+## Languages
+
+Check [[idiomas]] — português (nativo), inglês (professional working), espanhol (elementar).
+
 ## Social Media
 
 ### Music
