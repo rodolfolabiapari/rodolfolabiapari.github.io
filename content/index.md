@@ -40,7 +40,7 @@ Para mim, a busca pelo conhecimento é constante. Por isso, dedico meu tempo liv
 - [[shows#2023|Paul McCartney]] (2023) — lenda viva dos Beatles
 - [[shows#2025|System of a Down + Oasis]] (2025) — dois retornos históricos no mesmo ano
 - [[shows#2024|Linkin Park]] — Allianz Parque (2024)
-- [[shows#2026|Mr. Bungle]] (2026)
+- [[shows#2026|Mr. Bungle]] (2026) — Minha descoberta do ano, e ele ainda tocou Retrovertigo. Andreas do [[Sepultura]] tocou junto com eles todo o show!
 
 ### 🎓 Carreira & Projetos
 
