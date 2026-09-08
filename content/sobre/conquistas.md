@@ -145,6 +145,7 @@ enableToc: true
   ![[Pasted image 20260908121129.jpg]]
 - Detalhe importante é que nessa baía, há um [pequeno barco afundado que pode-se megulhar para ver](https://maps.app.goo.gl/iXH7YBgsn5g51xcy8), mas não tivemos coragem sem um guia/mergulhador por perto para nos orientar
   ![[Pasted image 20260908121005.png]]
+- Entrei e joguei num Cassino estilo estadunidense. Perdi 20 dólares (100 reais na época) e não recomendo. não entro nunca mais pra gastar dinheiro.
 
 ## Outras Conquistas
 
