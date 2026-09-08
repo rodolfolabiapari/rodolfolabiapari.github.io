@@ -8,3 +8,5 @@ description: ""
 ---
 
 > #WIP. For now you can check my LinkedIn Page
+
+Enquanto isso, veja minhas [[certificacoes]] (incluindo VHDL/FPGA) e como aplico esse conhecimento no [[homelab]].

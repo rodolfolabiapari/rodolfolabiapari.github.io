@@ -87,7 +87,6 @@ enableToc: true
 ### Moai del Ahu
 
 - Vi um Moai de 2,81 metros de altura originário da [[Ilha de Páscoa Rapa Nui - Chile]] ao lado do Museu Fonk em Viña del Mar, no [[Chile]]![[museo-fonck-vina-del-mar-1.webp]].
-  
 
 ## Cusco e Puno - Peru (Outubro 2024)
 
@@ -99,9 +98,9 @@ enableToc: true
   ![[Pasted image 20260908115346.png]]
 - Visita às [ilhas flutuantes artificiais dos Uros](https://pt.wikipedia.org/wiki/Uros), no meio do lago.
 - Os [Uros](https://en.wikipedia.org/wiki/Uru_people) reconstroem as ilhas com juncos totora constantemente — cada uma dura cerca de 15 anos.
-![[Pasted image 20260908115225.png]]
+  ![[Pasted image 20260908115225.png]]
 - Lenda inca: o primeiro Inca, Manco Cápac, teria emergido do lago para fundar o império.
-![[Pasted image 20260908113510.png]]
+  ![[Pasted image 20260908113510.png]]
 
 ### Montanha Vinicunca/Winikunka (das 7 Cores)
 
@@ -143,12 +142,14 @@ enableToc: true
   ![[Pasted image 20260908115758.jpg]]
 - Lá eu pude ficar a cerca de 100 metros de uma Plataforma de Petróleo, que fica na [Praia de Tugboat](https://maps.app.goo.gl/pWacrgAnz5xBDnuA7), ao sul da Capital e bem [ao sul da ilha](https://www.magnific.com/br/video-premium/filmagem-aerea-4k-drone-sobrevoando-plataforma-petroleo-baia-caracas-curacao_2776166)
   ![[Pasted image 20260908121129.jpg]]
--   Detalhe importante é que nessa baía, há um [pequeno barco afundado que pode-se megulhar para ver](https://maps.app.goo.gl/iXH7YBgsn5g51xcy8), mas não tivemos coragem sem um guia/mergulhador por perto para nos orientar
+- Detalhe importante é que nessa baía, há um [pequeno barco afundado que pode-se megulhar para ver](https://maps.app.goo.gl/iXH7YBgsn5g51xcy8), mas não tivemos coragem sem um guia/mergulhador por perto para nos orientar
   ![[Pasted image 20260908121005.png]]
 
 ## Outras Conquistas
 
 ### Foto com todos os integrantes do [[Sepultura]] (formação de 2015)
+
+> Também tenho o registro de vários shows deles em [[shows]].
 
 - Quando eles fizeram show na minha região, fui até a porta do hotel esperar eles saírem para tirar fotos — o hotel era perto do evento.
 - Tenho foto com Eloy, Derrick, Andreas e Paulo, que gentilmente cederam.

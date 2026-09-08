@@ -21,7 +21,6 @@ aliases: []
 
 > Testado com gpg (GnuPG) `2.4.9`.
 
-
 List public keys
 
 ```
@@ -125,7 +124,6 @@ sub   rsa4096 2024-04-27 [E]
 You can use `gpg --list-keys` to show public keys and `gpg --list-secret-keys`
 view your private keys.
 
-
 ### Importing keys
 
 List contents of key file without importing it
@@ -167,7 +165,7 @@ The trust level you enter is based on:
 m = back to the main menu
 ```
 
-Use *ultimate* only for keys you've generated yourself. Signing a key will automatically set the key's trust level to *full*.
+Use _ultimate_ only for keys you've generated yourself. Signing a key will automatically set the key's trust level to _full_.
 
 ### Renew an expired (sub)key
 

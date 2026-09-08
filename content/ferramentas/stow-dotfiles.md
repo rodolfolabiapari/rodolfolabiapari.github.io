@@ -36,27 +36,28 @@ cd ~/.dotfiles
 ```
 
 O `bootstrap.sh` detecta seu SO (Arch, Debian-based ou macOS) e:
+
 1. Instala o `stow` automaticamente
 2. Pergunta se quer instalar os pacotes base (git, zsh, tmux, nvim, starship, ripgrep, fd, eza, bat, fzf, zoxide)
 3. Stow all packages, criando os symlinks de `~` para `~/.dotfiles/`
 
 ## O que é gerenciado
 
-| Package | Path | Cross-platform |
-|---------|------|:---:|
-| `bash` | `~/.bashrc`, `~/.bash_profile`, `~/.profile`, `~/.bashrc.d/` | ✓ |
-| `zsh` | `~/.zshrc` | ✓ |
-| `scripts` | `~/.local/bin/` (scripts pessoais) | ✓ |
-| `starship` | `~/.config/starship.toml` | ✓ |
-| `tmux` | `~/.config/tmux/` | ✓ |
-| `git` | `~/.config/git/config` | ✓ |
-| `nvim` | `~/.config/nvim/` (lazy.nvim) | ✓ |
-| `alacritty` | `~/.config/alacritty/` | ✓ |
-| `kitty` | `~/.config/kitty/` | ✓ |
-| `foot` | `~/.config/foot/` | Linux only |
-| `ghostty` | `~/.config/ghostty/` | ✓ |
-| `omarchy` | `~/.config/omarchy/` | Arch only |
-| `btop` | `~/.config/btop/` | Linux only |
+| Package     | Path                                                         | Cross-platform |
+| ----------- | ------------------------------------------------------------ | :------------: |
+| `bash`      | `~/.bashrc`, `~/.bash_profile`, `~/.profile`, `~/.bashrc.d/` |       ✓        |
+| `zsh`       | `~/.zshrc`                                                   |       ✓        |
+| `scripts`   | `~/.local/bin/` (scripts pessoais)                           |       ✓        |
+| `starship`  | `~/.config/starship.toml`                                    |       ✓        |
+| `tmux`      | `~/.config/tmux/`                                            |       ✓        |
+| `git`       | `~/.config/git/config`                                       |       ✓        |
+| `nvim`      | `~/.config/nvim/` (lazy.nvim)                                |       ✓        |
+| `alacritty` | `~/.config/alacritty/`                                       |       ✓        |
+| `kitty`     | `~/.config/kitty/`                                           |       ✓        |
+| `foot`      | `~/.config/foot/`                                            |   Linux only   |
+| `ghostty`   | `~/.config/ghostty/`                                         |       ✓        |
+| `omarchy`   | `~/.config/omarchy/`                                         |   Arch only    |
+| `btop`      | `~/.config/btop/`                                            |   Linux only   |
 
 ## Fluxo do dia a dia
 

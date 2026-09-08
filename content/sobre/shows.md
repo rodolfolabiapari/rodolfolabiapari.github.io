@@ -95,26 +95,26 @@ To be organized:
 
 ## 2023
 
-| Data       | Evento / Local                     | Artista               | Setlist                                                                                                                              |
-| ---------- | ---------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 18/03/2023 |                                    | Ventania              | —                                                                                                                                    |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Angra                 | [link](https://www.setlist.fm/setlist/angra/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca0.html)                          |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Sepultura             | [link](https://www.setlist.fm/setlist/sepultura/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca8.html)                      |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Mad Chicken           | [link](https://www.setlist.fm/setlist/mad-chicken/2023/estancia-marisa-bezerrao-divinopolis-brazil-3349e4f5.html)                    |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Mister Jukebox        | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                  |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Superlua              | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                  |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Barões de Mauá        | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                  |
-| 01/07/2023 | Festival Rock Uai                  | Paula Toller          | [link](https://www.setlist.fm/setlist/paula-toller/2023/parque-de-exposicoes-divinopolis-divinopolis-brazil-2ba7fc7e.html)           |
-| 01/07/2023 | Festival Rock Uai                  | Paulo Ricardo         | [link](https://www.setlist.fm/setlist/paulo-ricardo/2023/parque-de-exposicoes-divinopolis-divinopolis-brazil-3ba7fc7c.html)          |
-| 01/07/2023 | Festival Rock Uai                  | Pitty                 | [link](https://www.setlist.fm/setlist/pitty/2023/parque-de-exposicoes-divinopolis-divinopolis-brazil-23a7fc7b.html)                  |
-| 09/09/2023 | Arena Meu Rival Venceu, BH         | Maroon 5              | [link](https://www.setlist.fm/setlist/maroon-5/2023/arena-mrv-belo-horizonte-brazil-33a2d8f9.html)                                   |
-| 09/09/2023 | Arena Meu Rival Venceu, BH         | Jota Quest            | —                                                                                                                                    |
-| 25/10/2023 | Arena Hall, BH                     | Evanescence           | [link](https://www.setlist.fm/setlist/evanescence/2023/arena-hall-belo-horizonte-brazil-4ba0c332.html)                               |
-| 25/10/2023 | Arena Hall, BH                     | Ego Kill Talent       | [link](https://www.setlist.fm/setlist/ego-kill-talent/2023/arena-hall-belo-horizonte-brazil-5ba0c330.html)                           |
-| 04/11/2023 | Estádio Olímpico Nilton Santos, RJ | Red Hot Chili Peppers | [link](https://www.setlist.fm/setlist/red-hot-chili-peppers/2023/estadio-olimpico-nilton-santos-rio-de-janeiro-brazil-4ba0473a.html) |
-| 08/11/2023 | Toca IV, BH                        | Roger Waters          | [link](https://www.setlist.fm/setlist/roger-waters/2023/mineirao-belo-horizonte-brazil-3ba1949c.html)                                |
-| 19/11/2023 | A Autêntica, BH                    | Blind Guardian        | [link](https://www.setlist.fm/setlist/blind-guardian/2023/a-autentica-belo-horizonte-brazil-7ba10e4c.html)                           |
-| 03/12/2023 | Arena Meu Rival Venceu, BH         | Paul McCartney        | [link](https://www.setlist.fm/setlist/paul-mccartney/2023/arena-mrv-belo-horizonte-brazil-53aef7e1.html)                             |
+| Data       | Evento / Local                     | Artista               | Setlist                                                                                                                                                       |
+| ---------- | ---------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| 18/03/2023 |                                    | Ventania              | —                                                                                                                                                             |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Angra                 | [link](https://www.setlist.fm/setlist/angra/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca0.html)                                                   |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Sepultura             | [link](https://www.setlist.fm/setlist/sepultura/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca8.html) — também tenho [[conquistas#outras-conquistas | foto com a banda]] |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Mad Chicken           | [link](https://www.setlist.fm/setlist/mad-chicken/2023/estancia-marisa-bezerrao-divinopolis-brazil-3349e4f5.html)                                             |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Mister Jukebox        | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                                           |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Superlua              | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                                           |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Barões de Mauá        | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                                           |
+| 01/07/2023 | Festival Rock Uai                  | Paula Toller          | [link](https://www.setlist.fm/setlist/paula-toller/2023/parque-de-exposicoes-divinopolis-divinopolis-brazil-2ba7fc7e.html)                                    |
+| 01/07/2023 | Festival Rock Uai                  | Paulo Ricardo         | [link](https://www.setlist.fm/setlist/paulo-ricardo/2023/parque-de-exposicoes-divinopolis-divinopolis-brazil-3ba7fc7c.html)                                   |
+| 01/07/2023 | Festival Rock Uai                  | Pitty                 | [link](https://www.setlist.fm/setlist/pitty/2023/parque-de-exposicoes-divinopolis-divinopolis-brazil-23a7fc7b.html)                                           |
+| 09/09/2023 | Arena Meu Rival Venceu, BH         | Maroon 5              | [link](https://www.setlist.fm/setlist/maroon-5/2023/arena-mrv-belo-horizonte-brazil-33a2d8f9.html)                                                            |
+| 09/09/2023 | Arena Meu Rival Venceu, BH         | Jota Quest            | —                                                                                                                                                             |
+| 25/10/2023 | Arena Hall, BH                     | Evanescence           | [link](https://www.setlist.fm/setlist/evanescence/2023/arena-hall-belo-horizonte-brazil-4ba0c332.html)                                                        |
+| 25/10/2023 | Arena Hall, BH                     | Ego Kill Talent       | [link](https://www.setlist.fm/setlist/ego-kill-talent/2023/arena-hall-belo-horizonte-brazil-5ba0c330.html)                                                    |
+| 04/11/2023 | Estádio Olímpico Nilton Santos, RJ | Red Hot Chili Peppers | [link](https://www.setlist.fm/setlist/red-hot-chili-peppers/2023/estadio-olimpico-nilton-santos-rio-de-janeiro-brazil-4ba0473a.html)                          |
+| 08/11/2023 | Toca IV, BH                        | Roger Waters          | [link](https://www.setlist.fm/setlist/roger-waters/2023/mineirao-belo-horizonte-brazil-3ba1949c.html)                                                         |
+| 19/11/2023 | A Autêntica, BH                    | Blind Guardian        | [link](https://www.setlist.fm/setlist/blind-guardian/2023/a-autentica-belo-horizonte-brazil-7ba10e4c.html)                                                    |
+| 03/12/2023 | Arena Meu Rival Venceu, BH         | Paul McCartney        | [link](https://www.setlist.fm/setlist/paul-mccartney/2023/arena-mrv-belo-horizonte-brazil-53aef7e1.html)                                                      |
 
 ## 2024
 

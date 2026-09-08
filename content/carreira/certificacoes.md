@@ -36,6 +36,8 @@ description: Resumo de minhas principais certificações
 
 There are more (like #arduino, #fpga, #latex), but I do not remember and/or I lost the certification link/paper in virtual folder or physical locker somewhere.
 
+> Essa certificação de VHDL se conecta diretamente com minha pesquisa acadêmica em [[pesquisas|FPGA e hardware reconfigurável]], que também influenciou meu [[homelab]].
+
 [aws-cp]: https://www.credly.com/badges/03959c6e-4267-4584-a527-ff6f6d2626ad/linked_in_profile
 [gcp-cdl]: https://www.credential.net/135f5111-28fb-4051-8ded-ea2b8771e484
 [gcp-pcd]: https://www.credential.net/a3e73190-78da-4daf-bf07-d330cd3aeb6d

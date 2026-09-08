@@ -15,4 +15,4 @@ All my open source projects are available in my
 
 Some Projects are are not open but I will describe then, like my [[homelab]].
 
-This #blog is also a personal project :) that already used [[Jekyll]], [[Hugo]] and now [[Quartz]].
+This #blog is also a personal project :) that already used #Jekyll, [[Hugo]] and now [[Quartz]].

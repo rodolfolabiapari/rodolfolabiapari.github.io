@@ -1,0 +1,39 @@
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/index.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Templates/blog-post-template.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/encontre-me.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/contato-gpg.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/doacoes.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/shows.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/conquistas.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/homelab.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/leitura.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/projetos-open-source.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/hugo.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/quartz.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/cat-rg-xargs.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/sobre-senhas.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/tmux.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/omarchy.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/vi-vim-nvim.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/chezmoi.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/ia.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/git.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/stow-dotfiles.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/gpg (GnuPG).md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/certificacoes.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/pesquisas.md
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114550.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908112107.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908113510.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114301.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114435.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114821.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115029.jpg
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115038.jpg
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/museo-fonck-vina-del-mar-1.webp
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115225.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115346.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Cusco-Montanha-Colorida1-header.webp
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115758.jpg
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908121005.png
+/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908121129.jpg

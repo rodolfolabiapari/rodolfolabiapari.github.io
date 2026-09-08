@@ -17,7 +17,7 @@ For really random passwords use #pwgen [(pwgen site)](https://pwgen.io/en/). It 
 
 It is possible to memorize strong and long passwords, [check it out](https://xkcd.com/936/) with this #xkcd.
 
-Checkout also #pass[(pass site)](https://www.passwordstore.org/) for storing passwords security in your personal computers using #GPG to cryptography those.
+Checkout also #pass[(pass site)](https://www.passwordstore.org/) for storing passwords security in your personal computers using [[gpg (GnuPG)|GPG]] to cryptography those.
 
 ### Public Storage
 

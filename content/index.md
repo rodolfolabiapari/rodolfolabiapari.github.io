@@ -26,6 +26,31 @@ Para mim, a busca pelo conhecimento é constante. Por isso, dedico meu tempo liv
 
 ---
 
+## Destaques
+
+### 🏔️ Viagens
+
+- [[conquistas#guatemala-janeiro-de-2026|Vulcão Acatenango]] — acampamento noturno com o Fuego em erupção
+- [[conquistas#machu-picchu|Machu Picchu]] — uma das 7 Maravilhas do Mundo Moderno
+- [[conquistas#montanha-vinicuncawinikunka-das-7-cores|Montanha Arco-Íris (Vinicunca)]] — 5.010 m de altitude
+- [[conquistas#ruinas-maias-de-tikal|Ruínas Maias de Tikal]] — Patrimônio Mundial da UNESCO
+
+### 🎸 Shows
+
+- [[shows#2023|Paul McCartney]] (2023) — lenda viva dos Beatles
+- [[shows#2025|System of a Down + Oasis]] (2025) — dois retornos históricos no mesmo ano
+- [[shows#2024|Linkin Park]] — Allianz Parque (2024)
+- [[shows#2026|Mr. Bungle]] (2026)
+
+### 🎓 Carreira & Projetos
+
+- [[certificacoes|GCP Professional Cloud Architect]] — certificação máxima do Google Cloud
+- [[certificacoes|VHDL — Hardware Description Languages]] — IFMG (2014)
+- [[leitura|77.000 páginas lidas]] — de Dostoiévski a Duna
+- [[homelab|Homelab]] — infraestrutura pessoal com Ansible e Raspberry Pi
+
+---
+
 ## Browsing
 
 ### Pessoal

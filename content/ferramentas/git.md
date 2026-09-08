@@ -172,7 +172,7 @@ Para conflitos mais complexos, um merge tool ajuda:
 git mergetool             # abre ferramenta configurada (vimdiff, meld, etc.)
 ```
 
-No #neovim, plugins como `diffview.nvim`, ou o `GitSigns.nvim` tornam a resolução bem mais visual.
+No [[vi-vim-nvim|neovim]], plugins como `diffview.nvim`, ou o `GitSigns.nvim` tornam a resolução bem mais visual.
 
 ### Dica: stash antes de merge/rebase
 
