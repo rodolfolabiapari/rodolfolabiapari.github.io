@@ -12,6 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - graphify-out
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -221,8 +222,15 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        My Github Page: https://github.com/rodolfolabiapari
+        LastFM: https://www.last.fm/user/rodolfo_lab
+        LinkedIn: https://www.linkedin.com/in/rodolfolabiapari/
+        Instagram: https://www.instagram.com/rodolfo_lab/
+        Finado Twitter: https://twitter.com/rodolfo_lab
+        Lattes: http://lattes.cnpq.br/7459046239105308
+        Spotify Account: https://open.spotify.com/user/rodolfolabiapari
+        Quartz GitHub: https://github.com/jackyzha0/quartz
+
   - source: github:quartz-community/recent-notes
     enabled: false
     options:
