@@ -30,10 +30,10 @@ Para mim, a busca pelo conhecimento é constante. Por isso, dedico meu tempo liv
 
 ### 🏔️ Viagens
 
-- [[conquistas#guatemala-janeiro-de-2026|Vulcão Acatenango]] — acampamento noturno com o Fuego em erupção
-- [[conquistas#machu-picchu|Machu Picchu]] — uma das 7 Maravilhas do Mundo Moderno
-- [[conquistas#montanha-vinicuncawinikunka-das-7-cores|Montanha Arco-Íris (Vinicunca)]] — 5.010 m de altitude
-- [[conquistas#ruinas-maias-de-tikal|Ruínas Maias de Tikal]] — Patrimônio Mundial da UNESCO
+- [[conquistas e lembranças#guatemala-janeiro-de-2026|Vulcão Acatenango]] — acampamento noturno com o Fuego em erupção
+- [[conquistas e lembranças#machu-picchu|Machu Picchu]] — uma das 7 Maravilhas do Mundo Moderno
+- [[conquistas e lembranças#montanha-vinicuncawinikunka-das-7-cores|Montanha Arco-Íris (Vinicunca)]] — 5.010 m de altitude
+- [[conquistas e lembranças#ruinas-maias-de-tikal|Ruínas Maias de Tikal]] — Patrimônio Mundial da UNESCO
 
 ### 🎸 Shows
 
@@ -58,7 +58,7 @@ Para mim, a busca pelo conhecimento é constante. Por isso, dedico meu tempo liv
 - [[encontre-me]]
 - [[shows]]
 - [[doacoes]]
-- [[conquistas]]
+- [[conquistas e lembranças]]
 - [[musica]]
 - [[idiomas]]
 

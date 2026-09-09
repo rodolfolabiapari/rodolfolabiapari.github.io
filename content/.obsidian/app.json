@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Anexos"
+  "attachmentFolderPath": "Anexos",
+  "spellcheck": true
 }

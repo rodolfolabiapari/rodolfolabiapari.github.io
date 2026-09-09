@@ -1,5 +1,5 @@
 ---
-title: Conquistas, Feitos e Lembranças pessoais legais para mim
+title: Conquistas, Feitos e Lembranças
 date: 2026-09-06
 categories:
 draft: false
@@ -7,7 +7,7 @@ tags:
   - trips
   - achievements
   - certifications
-description: Lista de coisas legais que já fiz na minha vida. Sempre em construção
+description: Lista de coisas legais que já fiz na minha vida. Sempre em construção.
 enableToc: true
 ---
 
@@ -30,7 +30,8 @@ enableToc: true
   Ficamos mais de 24h com o guia, que contou a vida dele, falou sobre como a [Erupção de 2018](https://en.wikipedia.org/wiki/2018_Volc%C3%A1n_de_Fuego_eruption) foi devastadora — a fumaça chegou até [[Belize]] e matou cerca de 190 pessoas.
   Aprendemos muito sobre a cultura local, sobre ele e sua família. Tive a oportunidade de praticar meu espanhol com ele, que teve paciência e compreensão.
   Acredito que Menphis não verá esta descrição, mas meu muito obrigado.
-  ![[Pasted image 20260908114301.png]]
+- A foto abaixo é de autoria minha. É possível ver o vulcão e também o cruzeiro do sul, visto por poucas épocas do ano e em condições bem específicas:
+  ![[Pasted image 20260909092545.jpg]]
 
 ### Isla de Flores
 
@@ -65,9 +66,11 @@ enableToc: true
 
 - O Oceano Pacífico que banha [Valparaíso](https://pt.wikipedia.org/wiki/Valparaíso) e Viña del Mar, no [[Chile]].
 - Valparaíso é Patrimônio Mundial da [[UNESCO]] — seu bairro histórico foi inscrito em 2003 ([site oficial](https://whc.unesco.org/en/list/959)).
+  ![[Pasted image 20260909093310.jpg]]
 - Os "ascensores" (funiculares históricos) sobem e descem os morros íngremes.
 - Murais de grafite e casas coloridas cobrem cada ladeira, é muito bonito e de longe fica bem charmoso o conjunto de casas.
 - Pablo Neruda tinha uma casa lá, [La Sebastiana](https://pt.wikipedia.org/wiki/La_Sebastiana), hoje museu com vista para o porto, infelizmente não visitamos.
+  ![[Pasted image 20260909093253.jpg]]
 
 ### Subida ao Edifício Costanera
 
@@ -141,12 +144,30 @@ enableToc: true
 - Você sabia que o termo _[[Canibal]]_ vem da derivação do nome das [[Ilhas Caribe]]? Referência em [# Cannibalism in the Americas](https://en.wikipedia.org/wiki/Cannibalism_in_the_Americas).
 - Eles falam a lingua Papiamento lingua nativa crioula que bem base portuguesa. Mas não da pra entender o que eles falam
   ![[Pasted image 20260908115758.jpg]]
-- Lá eu pude ficar a cerca de 100 metros de uma Plataforma de Petróleo, que fica na [Praia de Tugboat](https://maps.app.goo.gl/pWacrgAnz5xBDnuA7), ao sul da Capital e bem [ao sul da ilha](https://www.magnific.com/br/video-premium/filmagem-aerea-4k-drone-sobrevoando-plataforma-petroleo-baia-caracas-curacao_2776166)
-  ![[Pasted image 20260908121129.jpg]]
+- Lá eu pude ficar a cerca de 100 metros de uma Plataforma de Petróleo, que fica na [Praia de Tugboat](https://maps.app.goo.gl/pWacrgAnz5xBDnuA7), ao sul da Capital e bem [ao sul da ilha](https://www.magnific.com/br/video-premium/filmagem-aerea-4k-drone-sobrevoando-plataforma-petroleo-baia-caracas-curacao_2776166). Abaixo é exibido uma foto de autoria minha
+  ![[Pasted image 20260909092818.jpg]]
 - Detalhe importante é que nessa baía, há um [pequeno barco afundado que pode-se megulhar para ver](https://maps.app.goo.gl/iXH7YBgsn5g51xcy8), mas não tivemos coragem sem um guia/mergulhador por perto para nos orientar
   ![[Pasted image 20260908121005.png]]
 - Entrei e joguei num Cassino estilo estadunidense. Perdi 20 dólares (100 reais na época) e não recomendo. não entro nunca mais pra gastar dinheiro.
+- Também tive a oportunidade de nadar ao lado de tartarugas livres no mar
+  ![[Pasted image 20260909092945.jpg]]
+- Eu fui abrir uma cerveja em cima da pia, dentro do banheiro do quarto, e consegui quebar a pia do hotel, maldita polar
+  ![[Pasted image 20260909093046.jpg]]
+![[Pasted image 20260909093122.jpg]]
 
+
+### Minha Primeira vez na Praia
+
+- Fui apresentar um Artigo Científico em [[Salvador]]. Fui sozinho e pude conhecer a praia pela primeira vez.
+
+
+### Apresentação da Banda Ucraniana DakhaBrakha no Teatro de Ouro Preto
+
+- Já começo dizendo que o [Teatro Municipal de Ouro Preto](https://pt.wikipedia.org/wiki/Teatro_Municipal_de_Ouro_Preto), antigamente chamado de A Casa da ÓPera de Vila Rica, foi construído em [[1770]] com estilo arquitetônico barroco e está na lista dos mais **antigos do CONTINENTE!**.
+- É tombado patrimônio Histórico e Artístico Nacional [[IPHAN]], e hoje é decalarado como **patrimônio mundial**.
+- Já reconhecido pelo [[Guinness Book]] como o teatro mais antigo do Brasil. Com isso já espero que te valha a pena a visita.
+- Então, assisti ao grupo ucraniano [DakhaBrakha](https://en.wikipedia.org/wiki/DakhaBrakha) tocar ao vivo, de graça nesse teatro. Desde então ouço eles sempre.
+  ![[Pasted image 20260909094302.jpg]]
 ## Outras Conquistas
 
 ### Foto com todos os integrantes do [[Sepultura]] (formação de 2015)
@@ -155,3 +176,7 @@ enableToc: true
 
 - Quando eles fizeram show na minha região, fui até a porta do hotel esperar eles saírem para tirar fotos — o hotel era perto do evento.
 - Tenho foto com Eloy, Derrick, Andreas e Paulo, que gentilmente cederam.
+
+### Fraturei meu braço fazendo corrida na rua (2023)
+
+- Estava sem telefone, tive que voltar a pé pra casa com o braço quebrado hehe.

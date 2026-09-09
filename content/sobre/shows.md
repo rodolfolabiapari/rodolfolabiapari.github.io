@@ -100,7 +100,7 @@ To be organized:
 | ---------- | ---------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | 18/03/2023 |                                    | Ventania              | —                                                                                                                                    | Não consegui nem chegar perto, de tão lotado que tava.                                                 |
 | 30/04/2023 | Festival Divino Rock 20 anos       | Angra                 | [setlist](https://www.setlist.fm/setlist/angra/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca0.html)                          |                                                                                                        |
-| 30/04/2023 | Festival Divino Rock 20 anos       | Sepultura             | [setlist](https://www.setlist.fm/setlist/sepultura/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca8.html)                      | Tenho [[conquistas#Foto com todos os integrantes do Sepultura (formação de 2015)\|até foto com eles]]. |
+| 30/04/2023 | Festival Divino Rock 20 anos       | Sepultura             | [setlist](https://www.setlist.fm/setlist/sepultura/2023/estancia-marisa-bezerrao-divinopolis-brazil-3bb87ca8.html)                      | Tenho [[conquistas e lembranças#Foto com todos os integrantes do Sepultura (formação de 2015)\|até foto com eles]]. |
 | 30/04/2023 | Festival Divino Rock 20 anos       | Mad Chicken           | [setlist](https://www.setlist.fm/setlist/mad-chicken/2023/estancia-marisa-bezerrao-divinopolis-brazil-3349e4f5.html)                    |                                                                                                        |
 | 30/04/2023 | Festival Divino Rock 20 anos       | Mister Jukebox        | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                  |                                                                                                        |
 | 30/04/2023 | Festival Divino Rock 20 anos       | Superlua              | [fonte](https://www.instagram.com/divinorockoficial/p/CrmBjMYoUJ3/)                                                                  |                                                                                                        |
@@ -171,3 +171,6 @@ To be organized:
 ## 2027
 
 Waiting for...
+
+
+![[Pasted image 20260909095527.jpg]]

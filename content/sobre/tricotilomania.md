@@ -2,13 +2,15 @@
 title: Tricotilomania
 created: 2026-09-08
 draft: false
-tags: []
+tags:
+  - "#health"
 description: Transtorno psicológico onde se arranca os pelos da cabeça e barba de forma incontrolável
 lang: pt-br
 enableToc: true
 aliases: []
 ---
 > Sou uma pessoa diagnosticada com Tricotilomania.
+
 ## O que é Tricotilomania?
 
 A **Tricotilomania** é um transtorno de saúde mental classificado dentro do grupo dos Transtornos Obsessivo-Compulsivos (TOC) e relacionados.
@@ -36,6 +38,10 @@ Faço acompanhamento com um profissional de saúde mental a anos com psicólogos
 Já tive momentos de muita crise e hoje, no período que escrevo esse texto tenho tratado e cuidado bem.
 
 Faço atividades físicas, tento comer bem e tenho ajuda de amigos para lembrar de tirar a mão do cabelo. Ajuda e muito e para mim não é invasivo.
+
+A música ([[shows]]) e meu projeto de [[leitura]] também me ajudam bastante.
+
+![[Pasted image 20260909095502.jpg]]
 
 Saiba mais em [tricotilomania: sintomas e tratamento](https://www.tuasaude.com/como-parar-a-tricotilomania/) e **procure ajuda**!
 

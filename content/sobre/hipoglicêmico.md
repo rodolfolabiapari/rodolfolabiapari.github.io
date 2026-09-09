@@ -2,8 +2,9 @@
 title: Hipoglicemia
 created: 2026-09-08
 draft: false
-tags: []
-description:
+tags:
+  - "#health"
+description: Informação sobre minha hipoglicemia
 lang: pt-br
 enableToc: true
 aliases:
@@ -42,6 +43,9 @@ Os sintomas podem variar de leves a graves:
 *   Em pessoas com diabetes: pular refeições, aplicar insulina em excesso, fazer exercício intenso sem ajuste alimentar
 *   Em pessoas sem diabetes: jejum prolongado, consumo excessivo de álcool (principalmente sem comer), algumas doenças e medicamentos
 *   Episódios reativos após refeições muito ricas em carboidrato simples
+
+Particulamente, não consigo comer 1 unidade de maçã sem ter hipoglicemia.
+Preciso sempre complementar com outros ingredientes para deixar a refeição completa.
 
 ## Prevenção
 

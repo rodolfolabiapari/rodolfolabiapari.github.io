@@ -23,7 +23,7 @@ Belo Horizonte e Região, Brasil
 Atuação em arquitetura de ambientes em #Nuvem com cultura #DevOps, utilizando
 tecnologias como #Kubernetes, #Docker, #Microsserviços e #GitOps. Design de
 infraestruturas, construção, implantação e manutenção de infraestrutura
-(#SRE) e automação de CI/CD de aplicações. Experiência consolidada em #AWS,
+( #SRE ) e automação de CI/CD de aplicações. Experiência consolidada em #AWS,
 #GCP e serviços distribuídos.
 
 > Minhas [[certificacoes]] em cloud refletem essa trajetória.
@@ -59,5 +59,5 @@ leitura de partitura e arquivamento de documentos musicais.
 **Web Designer** · _janeiro de 2007 – dezembro de 2008 · 2 anos_
 
 Trainee em #HTML, #CSS, #JavaScript e #jQuery. Treinamento em
-Search Engine Optimization (#SEO) para promoção de páginas e otimização de
+Search Engine Optimization ( #SEO ) para promoção de páginas e otimização de
 conversão.

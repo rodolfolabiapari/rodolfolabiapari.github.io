@@ -33,7 +33,7 @@ Utilizo desde a versão `3.4.algumacoisa`.
 - **hooks**: automação disparada por eventos do sistema
 - **capture**: screenshots, gravação de tela e OCR
 
-## notificações (#ricing)
+## notificações ( #ricing )
 
 Já alterei bastante coisa, mas precisava encontrar uma forma de salvar essas alterações em [[git]].
 

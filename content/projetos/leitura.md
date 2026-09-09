@@ -1,5 +1,5 @@
 ---
-title: Reading Project
+title: Projeto de Leitura de Livros
 created: 2026-07-01
 draft: false
 tags:
@@ -8,16 +8,21 @@ tags:
   - reading
   - project
   - hobby
-description: My little library
+description: Catalogação de livros já lidos
 lang: pt-br
 enableToc: true
 aliases:
   - Books that I read
+  - Livros que já li
 ---
 
-Some books that I read.
+Alguns livros que eu tenho catalogado minha leitura.
 
-**Paginômetro:** $$77000$$.
+Todos os livros abvaixo eu já li. Tenho uma coleção maior ainda de _para ler_.
+
+Antes, algumas curiosidades:
+1. O maior livro que já li até agora foi o _Os Miseráveis_ de [[Victor Hugo]], com cerca de 1500 páginas e, sendo volume único, tem total de 2,090 kg![[Pasted image 20260909090843.jpg]]
+- Paginômetro: Já li cerca de  $$77000$$ páginas até agora.
 
 | Title                                                                        | Authors                                                      | Publisher                                   | Pages |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ----- |
