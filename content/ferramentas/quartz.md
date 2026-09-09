@@ -17,6 +17,7 @@ description: Como eu substitui o Hugo pelo Quartz
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 ## #ADR

@@ -6,6 +6,7 @@ tags:
   - MedicosSemFronteiras
   - bitcoin
 description: Buy me a coffee!
+updated: 2026-09-09
 ---
 
 - [Médicos Sem Fronteiras](https://www.msf.org/);

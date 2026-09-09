@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - draft
+      - title
+      - created
+      - updated
+      - tags
+      - description
+      - lang
+      - enableToc
+      - aliases
+    sort: []

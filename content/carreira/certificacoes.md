@@ -10,6 +10,7 @@ tags:
   - cloudArchitect
   - VHDL
 description: Resumo de minhas principais certificações
+updated: 2026-09-09
 ---
 
 | **Company**                                                                | **Certificate**                                        | **Issued on** | **Credential verification** |

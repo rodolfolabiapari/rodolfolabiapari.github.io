@@ -12,6 +12,7 @@ description: Pipe xargs with spaces
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 I have no brain to memorize it, so, that it is:

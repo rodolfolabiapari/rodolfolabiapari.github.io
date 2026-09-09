@@ -13,9 +13,10 @@ lang: pt-br
 enableToc: true
 aliases:
   - formação em Ciência da Computação
+updated: 2026-09-09
 ---
 
-Artista de rua [[2014-05-13]]:
+Artista de rua #2014/05/13:
 ![[Pasted image 20260909095342.jpg]]
 
 ## Mestrado em Ciência da Computação
@@ -45,7 +46,7 @@ Campus Formiga.
 
 ![[Pasted image 20260909095601.jpg]]
 
-Durante meus estudos na graduação, pude participar do grupo de robótica do IFMG na qual pude participar, duas vezes, na competição [[Winter Challenge]] no Instituto Mauá de Tecnologia (IMT), São Caetano do SUl em São Paulo, com nosso [[Robô Seguidor de Linha]]. 
+Durante meus estudos na graduação, pude participar do grupo de robótica do IFMG na qual pude participar, duas vezes, na competição #projeto/Winter-Challenge no Instituto Mauá de Tecnologia (IMT), São Caetano do SUl em São Paulo, com nosso #projeto/Robo-Seguidor-de-Linha.
 
 Além disso, foi durante a graduação que obtive minha [[certificacoes|certificação em VHDL]] (2014),
 que abriu caminho para a pesquisa com FPGA no mestrado.

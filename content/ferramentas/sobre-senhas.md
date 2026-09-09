@@ -5,6 +5,7 @@ tags:
   - security
   - password
 description: Do you already changed you password?
+updated: 2026-09-09
 ---
 
 ## Generating new Passwords

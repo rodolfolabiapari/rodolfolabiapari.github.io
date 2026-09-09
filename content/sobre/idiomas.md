@@ -11,6 +11,7 @@ description: Idiomas que falo e níveis de proficiência
 lang: pt-br
 enableToc: false
 aliases: []
+updated: 2026-09-09
 ---
 
 ## Meu Desenvolvimento em Idiomas
@@ -29,4 +30,4 @@ Já consegui desenvolver melhor na minha viagem na [[conquistas e lembranças#gu
 - Continuo tentando aborver o significado de _desarrollar_, conjugar o _poner_ e ainda continuo tentando segurar o riso ao falar _yo puse_, que não entra na minha cabeça de forma alguma.
 - Aprendi que várias palavras muito utilizadas no espanhol também existem no português como _quedar_.
 - Tive uma câimbra mental quando ouvi pela primeira vez a música [Te Extraño de Luis Miguel](https://www.youtube.com/watch?v=myX0D5eHmAI). A palavra extranhar no espanhol é LITERALMENTE um _falso amigo_. Escute-a, vale a pena.
-- Depois que eu comecei a aprender espanhol, minha vida mudou completamente. Além de agora eu conseguir  [[conquistas e lembranças#guatemala-janeiro-de-2026|Comunicar com o Guia em Espanhol]], abri um mundo de música, filmes e arte que antes estive sempre com olhos fechados.
+- Depois que eu comecei a aprender espanhol, minha vida mudou completamente. Além de agora eu conseguir [[conquistas e lembranças#guatemala-janeiro-de-2026|Comunicar com o Guia em Espanhol]], abri um mundo de música, filmes e arte que antes estive sempre com olhos fechados.

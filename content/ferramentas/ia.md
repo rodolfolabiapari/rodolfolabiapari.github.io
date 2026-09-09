@@ -12,6 +12,7 @@ description: Ferramentas de IA que uso no dia a dia como desenvolvedor
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 ## Filosofia
@@ -24,4 +25,4 @@ o controle do design.
 
 ## Meu uso
 
-Hoje eu estou apaixonado pelo [[opencode]] que já é integrado ao meu [[omarchy]].
+Hoje eu estou apaixonado pelo #ferramenta/opencode que já é integrado ao meu [[omarchy]].

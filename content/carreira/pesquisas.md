@@ -14,6 +14,7 @@ description: Publicações científicas em FPGA, sistemas embarcados e IoT
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 ## Publicações

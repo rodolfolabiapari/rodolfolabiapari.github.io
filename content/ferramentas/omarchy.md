@@ -12,6 +12,7 @@ description: Distribuição Arch Linux opinada com Hyprland — meu ambiente di�
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 ## O que é
@@ -50,4 +51,4 @@ Ainda não pensei numa forma. Talvez juntar isso com o [[chezmoi]] seria uma exc
 | fastfetch  | info do sistema     |
 | lazygit    | git TUI             |
 
-Relacionado: [[vi-vim-nvim]], [[tmux]].
+Relacionado: [[vim]], [[tmux]].

@@ -4,6 +4,7 @@ created: 2024-03-04
 draft: false
 tags: []
 description: ""
+updated: 2026-09-09
 ---
 
 > [!info] You can also contact me in [[encontre-me]].

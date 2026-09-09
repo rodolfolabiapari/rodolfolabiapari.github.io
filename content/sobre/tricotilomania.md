@@ -8,7 +8,9 @@ description: Transtorno psicológico onde se arranca os pelos da cabeça e barba
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
+
 > Sou uma pessoa diagnosticada com Tricotilomania.
 
 ## O que é Tricotilomania?
@@ -20,10 +22,10 @@ A pessoa com esse tipo de transtorno pode arranar apenas alguns pelos ou fio e p
 
 ## Principais características
 
-*   **Comportamento repetitivo:** arranca-se pelos do couro cabeludo, sobrancelhas, cílios, barba ou outras áreas do corpo.
-*   **Tensão e alívio:** Geralmente há uma sensação crescente de tensão antes de arrancar e uma sensação de alívio ou satisfação logo depois.
-*   **Não é por vaidade:** O ato não é feito para melhorar a aparência. Muitas vezes ger-se vergonha e é comum tentar esconder as falhas.
-*   **Ciclo de estresse:** Ansiedade, tédio, estresse ou frustração costumam ser gatilhos para o comportamento.
+- **Comportamento repetitivo:** arranca-se pelos do couro cabeludo, sobrancelhas, cílios, barba ou outras áreas do corpo.
+- **Tensão e alívio:** Geralmente há uma sensação crescente de tensão antes de arrancar e uma sensação de alívio ou satisfação logo depois.
+- **Não é por vaidade:** O ato não é feito para melhorar a aparência. Muitas vezes ger-se vergonha e é comum tentar esconder as falhas.
+- **Ciclo de estresse:** Ansiedade, tédio, estresse ou frustração costumam ser gatilhos para o comportamento.
 
 Tenho o costume intenso de ficar mexendo no cabelo e barba sem parar a todo o tempo. Essa vontade é incontrolável e imperceptiva.
 

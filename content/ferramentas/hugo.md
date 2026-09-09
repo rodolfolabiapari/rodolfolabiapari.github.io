@@ -19,6 +19,7 @@ showToc: "true"
 TocOpen: "true"
 ShowWordCount: "true"
 title: Hugo
+updated: 2026-09-09
 ---
 
 ## Instalação

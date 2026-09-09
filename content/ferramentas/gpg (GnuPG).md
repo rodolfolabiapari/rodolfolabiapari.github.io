@@ -13,6 +13,7 @@ description: Operações com gpg
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 > You can contact me using gpg in [[contato-gpg]].

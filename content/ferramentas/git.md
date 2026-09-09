@@ -12,6 +12,7 @@ description: Operações de git que uso com frequência mover arquivos, stashing
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 ## Motivo
@@ -172,7 +173,7 @@ Para conflitos mais complexos, um merge tool ajuda:
 git mergetool             # abre ferramenta configurada (vimdiff, meld, etc.)
 ```
 
-No [[vi-vim-nvim|neovim]], plugins como `diffview.nvim`, ou o `GitSigns.nvim` tornam a resolução bem mais visual.
+No [[vim|neovim]], plugins como `diffview.nvim`, ou o `GitSigns.nvim` tornam a resolução bem mais visual.
 
 ### Dica: stash antes de merge/rebase
 

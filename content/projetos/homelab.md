@@ -1,5 +1,8 @@
 ---
 title: Homelab Project
+draft: false
+created: 2026-09-08
+updated: 2026-09-09
 ---
 
 ## Introduction
@@ -26,7 +29,7 @@ title: Homelab Project
 
 ## General Architecture
 
-I have a lot of boards like [[Raspberry Pies]] (and its variant), which is running local services like:
+I have a lot of boards like #hardware/Raspberry-Pi (and its variant), which is running local services like:
 
 For #CICD, I have:
 

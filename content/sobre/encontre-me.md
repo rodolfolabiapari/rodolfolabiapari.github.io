@@ -10,6 +10,7 @@ tags:
   - UFOP
   - IFMG
 description: Principais links das minhas redes
+updated: 2026-09-09
 ---
 
 ## Technology Subject

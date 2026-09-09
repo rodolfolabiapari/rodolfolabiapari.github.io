@@ -1,5 +1,5 @@
 ---
-title: "GNU Stow — gerenciamento de dotfiles"
+title: GNU Stow — gerenciamento de dotfiles
 created: 2026-09-04
 draft: false
 tags:
@@ -15,6 +15,7 @@ description: Gerenciando dotfiles com GNU Stow — sem templating, sem mágica
 lang: pt-br
 enableToc: true
 aliases: []
+updated: 2026-09-09
 ---
 
 ## O que é
