@@ -158,18 +158,6 @@ enableToc: true
 ![[Pasted image 20260909093122.jpg]]
 
 
-### Minha Primeira vez na Praia
-
-- Fui apresentar um Artigo Científico em [[Salvador]]. Fui sozinho e pude conhecer a praia pela primeira vez.
-
-
-### Apresentação da Banda Ucraniana DakhaBrakha no Teatro de Ouro Preto
-
-- Já começo dizendo que o [Teatro Municipal de Ouro Preto](https://pt.wikipedia.org/wiki/Teatro_Municipal_de_Ouro_Preto), antigamente chamado de A Casa da ÓPera de Vila Rica, foi construído em [[1770]] com estilo arquitetônico barroco e está na lista dos mais **antigos do CONTINENTE!**.
-- É tombado patrimônio Histórico e Artístico Nacional [[IPHAN]], e hoje é decalarado como **patrimônio mundial**.
-- Já reconhecido pelo [[Guinness Book]] como o teatro mais antigo do Brasil. Com isso já espero que te valha a pena a visita.
-- Então, assisti ao grupo ucraniano [DakhaBrakha](https://en.wikipedia.org/wiki/DakhaBrakha) tocar ao vivo, de graça nesse teatro. Desde então ouço eles sempre.
-  ![[Pasted image 20260909094302.jpg]]
 ## Outras Conquistas
 
 ### Foto com todos os integrantes do [[Sepultura]] (formação de 2015)
@@ -182,3 +170,19 @@ enableToc: true
 ### Fraturei meu braço fazendo corrida na rua (2023)
 
 - Estava sem telefone, tive que voltar a pé pra casa com o braço quebrado hehe.
+
+
+### Minha Primeira vez na Praia
+
+- Fui apresentar um Artigo Científico em [[Salvador]]. Fui sozinho e pude conhecer a praia pela primeira vez.
+- Conheci a UFBA, Barra, Pelourinho e o maravilhoso Museu da Misericórdia.
+
+
+### Apresentação da Banda Ucraniana DakhaBrakha no Teatro de Ouro Preto
+
+- Já começo dizendo que o [Teatro Municipal de Ouro Preto](https://pt.wikipedia.org/wiki/Teatro_Municipal_de_Ouro_Preto), antigamente chamado de A Casa da ÓPera de Vila Rica, foi construído em [[1770]] com estilo arquitetônico barroco e está na lista dos mais **antigos do CONTINENTE!**.
+- É tombado patrimônio Histórico e Artístico Nacional [[IPHAN]], e hoje é decalarado como **patrimônio mundial**.
+- Já reconhecido pelo [[Guinness Book]] como o teatro mais antigo do Brasil. Com isso já espero que te valha a pena a visita.
+- Então, assisti ao grupo ucraniano [DakhaBrakha](https://en.wikipedia.org/wiki/DakhaBrakha) tocar ao vivo, de graça nesse teatro. Desde então ouço eles sempre.
+  ![[Pasted image 20260909094302.jpg]]
+
