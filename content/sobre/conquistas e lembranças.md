@@ -40,6 +40,8 @@ enableToc: true
 - Foi o último bastião de resistência contra os colonizadores espanhóis na região.
 - Os colonizadores espanhóis destruíram a ilha e seus nativos no século XVI durante a conquista forçada.
 - Hoje tem casinhas coloridas de estilo colonial e funciona como "porteira" para quem vai visitar Tikal.
+- Não sei se  por causa da Mudança Climática Global, mas o Lago Petén Itzá está subindo o nível a cada ano por causa das chuvas. Com isso, ruas laterais da ilha estão sendo pouco a pouco submersas. Já existe construções (casas, restaurantes, lojas) que estão inacessíveis por causa da altura da água.
+  ![[Pasted image 20260909100254.jpg]]
 - Primeira vez que viajei de ATR (turbohélice ATR 42/72).
 - [Wikipedia — Lago Petén Itzá](https://pt.wikipedia.org/wiki/Lago_Petén_Itzá)
   ![[Pasted image 20260908114821.png]]
