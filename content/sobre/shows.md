@@ -29,7 +29,7 @@ My music history and shows went is also available in
 
 - Rush
 - Eddie Vedder
-- foo fighterso
+- foo fighter
 
 ## Past Concerts
 
