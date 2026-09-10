@@ -1,7 +1,7 @@
 ---
 title: Vim, Neovim — Referência Rápida
 created: 2024-02-04
-updated: 2026-09-08
+updated: 2026-09-10
 draft: false
 tags:
   - vi
@@ -37,6 +37,24 @@ aliases: []
 | Git log                   | `<space>gl`           |
 | Git commits               | `<space>gc`           |
 | Git files (tracked)       | `<space>gf`           |
+| Lazygit (interface visual)| `<space>gg`           |
+| Git commit all            | `<space>gca`          |
+| Git rebase interativo     | `<space>grb`          |
+| Format buffer             | `<leader>cf`          |
+| Auto-format toggle (g)    | `<leader>uf`          |
+| Auto-format toggle (buf)  | `<leader>uF`          |
+| Zen mode                  | `<space>zz`           |
+| Zoom janela               | `<space>zm`           |
+| Scratchpad                | `<space>zs`           |
+| Rename arquivo (LSP)      | `<space>cR`           |
+| TreeSJ toggle             | `<leader>jt`          |
+| TreeSJ split              | `<leader>js`          |
+| TreeSJ join               | `<leader>jj`          |
+| Spell: próxima palavra    | `]s`                  |
+| Spell: anterior palavra   | `[s`                  |
+| Spell: sugestões          | `z=`                  |
+| Spell: add dicionário     | `zg`                  |
+| Toggle spell              | `<space>us`           |
 | Which-key                 | `<space>` (espere 1s) |
 | Dividir tela horizontal   | `<space>-`            |
 | Dividir vertical          | `<space>\|`           |
@@ -45,6 +63,7 @@ aliases: []
 | Próximo diagnóstico       | `]d`                  |
 | Diagnóstico anterior      | `[d`                  |
 | Listar diagnósticos       | `<space>le`           |
+| Line diagnostics          | `<space>cd`           |
 | Code actions              | `<space>ca`           |
 | Renomear                  | `<space>rn`           |
 
@@ -321,6 +340,9 @@ Histórico da command-line: `Ctrl+F`.
 | `:Mason`              | Gerenciar LSPs, linters, formatadores |
 | `:checkhealth`        | Diagnóstico do Neovim                 |
 | `:messages`           | Mensagens de erro/log                 |
+| `:LazyFormat`         | Formatar buffer manualmente           |
+| `:LazyFormatInfo`     | Status dos formatadores               |
+| `:ConformInfo`        | Detalhes do conform (formatador)      |
 | `:set`                | Opções atuais (diferentes do padrão)  |
 | `:marks`              | Lista marcações                       |
 | `:reg`                | Lista registradores                   |

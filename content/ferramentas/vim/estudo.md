@@ -13,7 +13,7 @@ lang: pt-br
 enableToc: true
 aliases:
   - nvim-estudo
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
 > Precisa de um comando? Consulte a [[vim|Referência Rápida]].
@@ -191,20 +191,49 @@ Na tela de Status (`<leader>gs`):
 | `<leader>gt` | Arquivos modificados        |
 | `<leader>gf` | Arquivos trackeados         |
 
+### Fluxo completo: diff → stage → commit → rebase
+
+Dois caminhos:
+
+| Ferramenta | Atalho | Pra quê |
+| ---------- | ------ | ------- |
+| **Fugitive** | `<leader>gs` | Git puro, via teclado |
+| **Lazygit** (Snacks) | `<leader>gg` | Interface visual (mais fácil p/ aprender diff e rebase) |
+
+**Com Fugitive (`<leader>gs` ⟶ tela de status):**
+
+1. `=` sobre um arquivo → vê o diff das mudanças
+2. `s` → stage (preparar) | `u` → unstage | `-` → alterna
+3. `cc` → escreve a mensagem, `:wq` → commit
+4. `:G rebase -i HEAD~N` → rebase (r=reword, e=edit, s=squash, d=drop)
+
+**Entendendo os diffs:**
+
+| Comando | O que compara |
+| ------- | ---------: |
+| `<leader>gd` | Working tree vs HEAD (mudanças **não commitadas**) |
+| `=` no status | Mudanças **não staged** (vs index) |
+| `D` no status | Arquivo inteiro vs HEAD |
+
+**Com Lazygit (`<leader>gg`):** use as setas, `space` para stage, `c` para commit, `Enter` no diff. A interface é tipo `tig`/`lazygit` original.
+
 ### Exercício prático
 
 ```
 1. <leader>gs          → veja status
-   j/k navega, s stage, cc commit, :wq sai
+    j/k navega, s stage, cc commit, :wq sai
 
 2. <leader>gd          → diff vertical
-   ]c / [c             → navegue entre hunks
+    ]c / [c             → navegue entre hunks
 
 3. <leader>gb          → blame
-   Enter em linha      → veja commit completo
+    Enter em linha      → veja commit completo
 
 4. :G rebase -i HEAD~5 → rebase interativo
-   r = reword, e = edit, s = squash, d = drop
+    r = reword, e = edit, s = squash, d = drop
+
+5. <leader>gg          → lazygit visual
+    space = stage, c = commit, setas navegam
 ```
 
 ---
@@ -255,6 +284,23 @@ O LSP (`jsonls` + SchemaStore.org) já entende schemas K8s:
    ]d / [d   → navegue entre problemas
 ```
 
+### Formatação (auto-format está desligado)
+
+O LazyVim formata no save por padrão, mas na nossa config o **auto-format foi
+desligado** (`vim.g.autoformat = false`). A formatação é manual, quando você quiser:
+
+| Atalho         | Ação                                |
+| -------------- | ----------------------------------- |
+| `<leader>cf`   | Formatar buffer/linha atual         |
+| `<space>cF`    | Formatar languages injetadas        |
+| `<leader>uf`   | Toggle auto-format global (save)    |
+| `<leader>uF`   | Toggle auto-format só deste buffer  |
+| `:LazyFormat`  | Formatar buffer manualmente         |
+| `:LazyFormatInfo` | Ver formatadores ativos e status |
+
+Formatadores configurados: `stylua` (lua), `shfmt` (bash/sh), `terraform_fmt`
+(hcl/terraform), `ruff`/`black` (python).
+
 ---
 
 ## Fase 4 — Markdown + Obsidian
@@ -273,6 +319,21 @@ Workspace configurado em `~/Documents/obsidian/personal/`.
 | `:Obsidian tags`     | Lista / busca tags                |
 | `:Obsidian link`     | Cria link para nota nova          |
 | `:Obsidian template` | Insere template                   |
+
+### Markdown — entendendo os sinais e avisos
+
+Três coisas diferentes aparecem ao mesmo tempo:
+
+- **Spell check** — palavras erradas aparecem sublinhadas (vermelho/ondulado).
+  `]s`/`[s` navega, `z=` vê sugestões, `zg` adiciona ao dicionário, `zug` desfaz.
+- **Diagnósticos do LSP (marksman)** — links quebrados, avisos de formatação.
+  `]d`/`[d` navega, `<space>le` lista todos, `<space>cd` ou `K` mostra detalhes.
+- **Caracteres invisíveis (`list`)** — `·` para espaços, `$` para fim de linha.
+  Desligue com `:set nolist`.
+
+**Renderização inline** — o negrito/itálico/código aparecem visuais no markdown
+graças ao `render-markdown.nvim`. Para ver o raw: `:set conceallevel=0`.
+Toggle com `<space>um`.
 
 ### Markdown
 
@@ -346,7 +407,10 @@ Espaço vivo para registrar plugins que for testando e adotando.
 | Plugin                                                                               | Pra quê                                              | Status       |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------ |
 | [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)                | Prompts de IA no editor                              | ✅ Instalado |
-| [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) | Renderiza markdown inline (negrito, itálico, código) | ✅ Instalado |
+| [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) | Renderiza markdown **inline** (negrito/itálico/código visuais) | ✅ Instalado |
+| [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)             | Preview do markdown **no navegador** (⚠️ não é o inline; inline é o render-markdown) | ✅ Instalado |
+| [Snacks.nvim](https://github.com/folke/snacks.nvim)                                  | Zen mode, scratchpad, lazygit, pickers, notifier     | ✅ Instalado |
+| [treesj](https://github.com/Wansmer/treesj)                                           | Join/split de objetos JSON/YAML                      | ✅ Instalado |
 
 ### Para testar
 

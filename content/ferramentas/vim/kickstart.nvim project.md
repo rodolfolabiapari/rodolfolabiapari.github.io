@@ -5,6 +5,7 @@ draft: false
 tags:
   - nvim
   - kickstart
+  - vim
 description:
 lang: pt-br
 enableToc: true
@@ -16,6 +17,9 @@ updated: 2026-09-09
 Pra você que está começando, um excelente início é começar com o [Projeto Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
 
 É simples, siga o [vídeo demonstrativo no youtube](https://www.youtube.com/watch?v=m8C0Cq9Uv9o) do TJ DeVries (na qual posta muita coisa sobre #nvim e #lua que são bem interessantes) na qual ele demonstra com é fácil fazer a configuração (no caso dele Completa) no #nvim no seu computador.
+
+Esse mesmo cara fez um vídeo de +9hs [lendo toda a documetação do vim](https://www.youtube.com/watch?v=rT-fbLFOCy0&t=3s).
+
 
 > [!NOTE] Dica
 > Faça um _fork_ o projeto original na sua conta [[git]] para que você tenha também uma cópia do projeto no seu computador e que, caso queira no futuro, como eu fiz, receba atualizações das alterações que eles fizerem.
