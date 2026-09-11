@@ -331,6 +331,20 @@ Histórico da command-line: `Ctrl+F`.
 | `:source my.vim`     | Restaura sessão                       |
 | `:help usr_32.txt`   | Sobre undo                            |
 
+### Bufferline (navegação visual de buffers)
+
+| Atalho         | Ação                         |
+| -------------- | ---------------------------- |
+| `<S-h>`        | Buffer anterior              |
+| `<S-l>`        | Próximo buffer               |
+| `[b` / `]b`    | Buffer anterior / próximo    |
+| `[B` / `]B`    | Move buffer para trás/frente |
+| `<leader>bp`   | Fixa/desfixa buffer          |
+| `<leader>bP`   | Fecha todos não fixados      |
+| `<leader>br`   | Fecha buffers à direita      |
+| `<leader>bl`   | Fecha buffers à esquerda     |
+| `<leader>bj`   | Picker visual de buffers     |
+
 ## Comandos úteis
 
 | Comando               | Ação                                  |
@@ -340,6 +354,7 @@ Histórico da command-line: `Ctrl+F`.
 | `:Mason`              | Gerenciar LSPs, linters, formatadores |
 | `:checkhealth`        | Diagnóstico do Neovim                 |
 | `:messages`           | Mensagens de erro/log                 |
+| `<leader>n`           | Histórico de notificações (Snacks)    |
 | `:LazyFormat`         | Formatar buffer manualmente           |
 | `:LazyFormatInfo`     | Status dos formatadores               |
 | `:ConformInfo`        | Detalhes do conform (formatador)      |
