@@ -35,7 +35,7 @@ Hoje ela mantém cerca de 10 kilos constante, caminha mais de 6 kilometros comig
 Aniversário de 2 anos:
 ![[Pasted image 20260909091907.jpg]]
 
-Tomando sol num dia de inverno (veja também meu projeto de [[leitura|Livros que já li]])
+Tomando sol num dia de inverno (veja também meu projeto de [[Leitura|Livros que já li]])
 ![[Pasted image 20260909091952.jpg]]
 
 Quando ela chegou na nossa vida

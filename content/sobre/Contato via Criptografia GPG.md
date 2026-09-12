@@ -7,7 +7,7 @@ description: ""
 updated: 2026-09-09
 ---
 
-> [!info] You can also contact me in [[encontre-me]].
+> [!info] You can also contact me in [[Encontre-me]].
 
 ## Security Contact and Validations
 

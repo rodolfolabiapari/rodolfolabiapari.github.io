@@ -24,7 +24,7 @@ parte de um estágio aprendiz pela [[Experiência Profissional#prefeitura-munici
 ## Shows e Concert Music
 
 Minha relação com a música vai além da flauta: sou frequentador assíduo de
-shows e festivais. O registro completo está em [[shows]].
+shows e festivais. O registro completo está em [[Shows]].
 
 ![[Pasted image 20260909095302.jpg]]
 

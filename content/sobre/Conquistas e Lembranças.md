@@ -142,7 +142,7 @@ updated: 2026-09-09
 - Variedades extraordinárias de milho e batata.
 - Comi um porquinho-da-índia, que lá chamam de cuy. Não gostei e não recomendo.
 - Mastiguei folhas de coca constantemente para ajudar a enfrentar o mal de altitude.
-- Não tem haver, mas relacionado com [[musica|música]], lá também comprei uma flauta peruana, na qual guardo como regalo.
+- Não tem haver, mas relacionado com [[Música|música]], lá também comprei uma flauta peruana, na qual guardo como regalo.
 
 ## Curaçau (2024)
 
@@ -165,7 +165,7 @@ updated: 2026-09-09
 
 ### Foto com todos os integrantes do #banda/Sepultura (formação de 2015)
 
-> Também tenho o registro de vários shows deles em [[shows]].
+> Também tenho o registro de vários shows deles em [[Shows]].
 
 - Quando eles fizeram show na minha região, fui até a porta do hotel esperar eles saírem para tirar fotos — o hotel era perto do evento.
 - Tenho foto com Eloy, Derrick, Andreas e Paulo, que gentilmente cederam.

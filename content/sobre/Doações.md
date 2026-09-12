@@ -12,4 +12,4 @@ updated: 2026-09-09
 - [Médicos Sem Fronteiras](https://www.msf.org/);
 - Bitcoin: `3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ`.
 
-Send me a message via [[contato-gpg]].
+Send me a message via [[Contato via Criptografia GPG]].

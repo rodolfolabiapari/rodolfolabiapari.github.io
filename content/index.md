@@ -49,25 +49,25 @@ atualizado sobre as transformações e inovações do mercado.
 
 ### Viagens
 
-- [[conquistas e lembranças#guatemala-janeiro-de-2026|Vulcão Acatenango]] — acampamento noturno com o Fuego em erupção
-- [[conquistas e lembranças#machu-picchu|Machu Picchu]] — uma das 7 Maravilhas do Mundo Moderno
-- [[conquistas e lembranças#montanha-vinicuncawinikunka-das-7-cores|Montanha Arco-Íris (Vinicunca)]] — 5.010 m de
+- [[Conquistas e Lembranças#guatemala-janeiro-de-2026|Vulcão Acatenango]] — acampamento noturno com o Fuego em erupção
+- [[Conquistas e Lembranças#machu-picchu|Machu Picchu]] — uma das 7 Maravilhas do Mundo Moderno
+- [[Conquistas e Lembranças#montanha-vinicuncawinikunka-das-7-cores|Montanha Arco-Íris (Vinicunca)]] — 5.010 m de
   altitude
-- [[conquistas e lembranças#ruinas-maias-de-tikal|Ruínas Maias de Tikal]] — Patrimônio Mundial da UNESCO
+- [[Conquistas e Lembranças#ruinas-maias-de-tikal|Ruínas Maias de Tikal]] — Patrimônio Mundial da UNESCO
 
 ### Shows
 
-- [[shows#2023|Paul McCartney]] (2023) — lenda viva dos Beatles
-- [[shows#2025|System of a Down + Oasis]] (2025) — dois retornos históricos no mesmo ano
-- [[shows#2024|Linkin Park]] — Allianz Parque (2024)
-- [[shows#2026|Mr. Bungle]] (2026) — Minha descoberta do ano, e ele ainda tocou Retrovertigo. Andreas do
+- [[Shows#2023|Paul McCartney]] (2023) — lenda viva dos Beatles
+- [[Shows#2025|System of a Down + Oasis]] (2025) — dois retornos históricos no mesmo ano
+- [[Shows#2024|Linkin Park]] — Allianz Parque (2024)
+- [[Shows#2026|Mr. Bungle]] (2026) — Minha descoberta do ano, e ele ainda tocou Retrovertigo. Andreas do
   #banda/Sepultura tocou junto com eles todo o show!
 
 ### Carreira & Projetos
 
 - [[Certificações|GCP Professional Cloud Architect]] — certificação máxima do Google Cloud
 - [[Certificações|VHDL — Hardware Description Languages]] — IFMG (2014)
-- [[leitura|77.000 páginas lidas]] — de Dostoiévski a Duna
+- [[Leitura|77.000 páginas lidas]] — de Dostoiévski a Duna
 - [[homelab|Homelab]] — infraestrutura pessoal com Ansible e Raspberry Pi
 
 ---
@@ -76,17 +76,17 @@ atualizado sobre as transformações e inovações do mercado.
 
 ### Pessoal
 
-- [[encontre-me]]
-- [[shows]]
-- [[doacoes]]
-- [[conquistas e lembranças]]
-- [[musica]]
+- [[Encontre-me]]
+- [[Shows]]
+- [[Doações]]
+- [[Conquistas e Lembranças]]
+- [[Música]]
 - [[idiomas]]
 
 ### Projetos
 
 - [[homelab]]
-- [[leitura]]
+- [[Leitura]]
 - [[projetos-open-source]]
 
 ### Ferramentas
@@ -105,6 +105,6 @@ atualizado sobre as transformações e inovações do mercado.
 ### Carreira
 
 - [[Experiência Profissional]]
-- [[formacao]]
+- [[Formação Acadêmica]]
 - [[Certificações]]
 - [[Pesquisas e Publicações Científicas]]

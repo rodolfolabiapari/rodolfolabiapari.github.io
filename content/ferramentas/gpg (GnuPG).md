@@ -16,7 +16,7 @@ aliases: []
 updated: 2026-09-09
 ---
 
-> You can contact me using gpg in [[contato-gpg]].
+> You can contact me using gpg in [[Contato via Criptografia GPG]].
 
 ## gpg Cheat Sheet
 

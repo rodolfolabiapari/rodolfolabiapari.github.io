@@ -41,7 +41,7 @@ Já tive momentos de muita crise e hoje, no período que escrevo esse texto tenh
 
 Faço atividades físicas, tento comer bem e tenho ajuda de amigos para lembrar de tirar a mão do cabelo. Ajuda e muito e para mim não é invasivo.
 
-A música ([[shows]]) e meu projeto de [[leitura]] também me ajudam bastante.
+A música ([[Shows]]) e meu projeto de [[Leitura]] também me ajudam bastante.
 
 ![[Pasted image 20260909095502.jpg]]
 

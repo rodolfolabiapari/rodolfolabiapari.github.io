@@ -32,10 +32,10 @@ updated: 2026-09-09
 
 Essas publicações são fruto da minha atuação como pesquisador no
 [[Experiência Profissional#laboratorio-imobilis-ufop|Laboratório iMobilis]] durante o
-[[formacao#mestrado-em-ciencia-da-computacao|mestrado na UFOP]] (2016–2018),
+[[Formação Acadêmica#mestrado-em-ciencia-da-computacao|mestrado na UFOP]] (2016–2018),
 com bolsa #CNPq.
 
 As pesquisas abrangem #FPGA, #HardwareReconfigurável, #SistemasEmbarcados,
 #IoT e monitoramento veicular por controle estatístico de processo.
 
-> Veja também: [[Certificações]] (VHDL e cloud) e [[formacao|formação acadêmica]].
+> Veja também: [[Certificações]] (VHDL e cloud) e [[Formação Acadêmica|formação acadêmica]].

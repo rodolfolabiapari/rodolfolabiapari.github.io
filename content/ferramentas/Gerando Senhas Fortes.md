@@ -17,6 +17,8 @@ Use #dicewire [(Diceware site)](https://diceware.dmuth.org/) for new passwords c
 
 For really random passwords use #pwgen [(pwgen site)](https://pwgen.io/en/). It is also available in linux by `sudo apt install pwgen` or `sudo pacman -S pwgen`.
 
+![[Pasted image 20260912153322.png]]
+
 ## Storing Passwords
 
 It is possible to memorize strong and long passwords, [check it out](https://xkcd.com/936/) with this #xkcd.

@@ -46,13 +46,13 @@ Pesquisador acadêmico em #SistemasEmbarcados, #FPGA e #HardwareReconfigurável,
 além de mantenedor do laboratório e suas ferramentas. Essa experiência resultou
 em diversas [[Pesquisas e Publicações Científicas|publicações científicas]].
 
-> Veja também: [[formacao|formação acadêmica]] e [[Certificações#VHDL|certificação em VHDL]].
+> Veja também: [[Formação Acadêmica|formação acadêmica]] e [[Certificações#VHDL|certificação em VHDL]].
 
 ## Prefeitura Municipal de Cláudio
 
 **Arquivista e Professor de Prática Musical de Flauta Transversal** · _janeiro – dezembro de 2011 · 1 ano_
 
-Estágio aprendiz pela Prefeitura Municipal. Ensino de [[musica|flauta transversal]],
+Estágio aprendiz pela Prefeitura Municipal. Ensino de [[Música|flauta transversal]],
 leitura de partitura e arquivamento de documentos musicais.
 
 ## Teia Virtual

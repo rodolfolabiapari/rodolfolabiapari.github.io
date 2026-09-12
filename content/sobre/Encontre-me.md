@@ -24,8 +24,8 @@ updated: 2026-09-09
 - [CloudSkillsBost](https://partner.cloudskillsboost.google/public_profiles/60716fde-b71f-44cb-9176-d7da09834180);
 - [Credly.com](https://credly.com/users/rodolfolabiapari);
 - [Bitcoin](https://bitref.com/3QMWVgnDu6pwZuVrvmpQw6arQqVKi2sxcJ);
-- [PGP/GPG](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E"). Go check my GPG key in [[contato-gpg]].
-- Want to support? Check [[doacoes]].
+- [PGP/GPG](https://keys.openpgp.org/search?q=E240754FEDFB405556D82A173A0990FAE12D319E"). Go check my GPG key in [[Contato via Criptografia GPG]].
+- Want to support? Check [[Doações]].
 
 ## Languages
 
@@ -39,7 +39,7 @@ Go check my [Last.fm](https://www.last.fm/user/rodolfo_lab) and [Spotify](https:
 
 ## Books
 
-I used to use [Skoob](https://www.skoob.com.br/usuario/6695112-rodolfo_lab) but not anymore. I record all the reading data in my own personal [[Homelab Project]] applications and [[leitura]]s page.
+I used to use [Skoob](https://www.skoob.com.br/usuario/6695112-rodolfo_lab) but not anymore. I record all the reading data in my own personal [[Homelab Project]] applications and [[Leitura]]s page.
 
 ## Games
 
