@@ -1,5 +1,5 @@
 ---
-title: cat, rg with xargs
+title: Uso de cat com rg e xargs
 created: 2026-07-01
 draft: false
 tags:

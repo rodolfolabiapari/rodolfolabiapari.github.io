@@ -26,7 +26,7 @@ Sem templating, sem ferramentas mágicas. Você edita no lugar certo e o git já
 
 O repositório está no [GitHub](https://github.com/rodolfolabiapari/dotfiles).
 
-> Antes eu usava [[chezmoi]], mas hoje prefiro a simplicidade do Stow.
+> Antes eu usava [[Chezmoi]], mas hoje prefiro a simplicidade do Stow.
 
 ## Setup inicial (máquina nova)
 

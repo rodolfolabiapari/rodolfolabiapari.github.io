@@ -1,5 +1,5 @@
 ---
-title: Vim, Neovim — Referência Rápida
+title: vi, vim, Neovim — Minha Referência Rápida
 created: 2024-02-04
 updated: 2026-09-10
 draft: false
@@ -15,9 +15,9 @@ enableToc: true
 aliases: []
 ---
 
-> Quer aprender na prática? Veja o meu [[vim/estudo|Guia de Estudos]].
+> Quer aprender na prática? Veja o meu [[Guia de Estudos sobe Neovim|Guia de Estudos]].
 >
-> Sempre relembrar do início, o [[kickstart.nvim project]].
+> Sempre relembrar do início, o [[Kickstart.nvim Project]].
 
 ## Atalhos essenciais (LazyVim)
 

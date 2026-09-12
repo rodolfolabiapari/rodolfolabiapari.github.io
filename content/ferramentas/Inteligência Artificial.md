@@ -1,5 +1,5 @@
 ---
-title: IA
+title: Inteligência Artifical
 created: 2026-09-04
 draft: false
 tags:
@@ -25,4 +25,4 @@ o controle do design.
 
 ## Meu uso
 
-Hoje eu estou apaixonado pelo #ferramenta/opencode que já é integrado ao meu [[omarchy]].
+Hoje eu estou apaixonado pelo #ferramenta/opencode que já é integrado ao meu [[Omarchy]].

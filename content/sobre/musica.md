@@ -18,7 +18,7 @@ updated: 2026-09-09
 
 Estudei flauta transversal e leitura de partitura. Durante 2011 fui professor
 de prática musical na Escola de Música Santa Cecília, como
-parte de um estágio aprendiz pela [[experiencia#prefeitura-municipal-de-claudio|Prefeitura Municipal]].
+parte de um estágio aprendiz pela [[Experiência Profissional#prefeitura-municipal-de-claudio|Prefeitura Municipal]].
 ![[Pasted image 20260909095109.jpg]]
 
 ## Shows e Concert Music

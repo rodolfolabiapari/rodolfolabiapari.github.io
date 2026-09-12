@@ -27,7 +27,7 @@ infraestruturas, construção, implantação e manutenção de infraestrutura
 ( #SRE ) e automação de CI/CD de aplicações. Experiência consolidada em #AWS,
 #GCP e serviços distribuídos.
 
-> Minhas [[certificacoes]] em cloud refletem essa trajetória.
+> Minhas [[Certificações]] em cloud refletem essa trajetória.
 
 ## LV Networks
 
@@ -44,9 +44,9 @@ Universidade Federal de Ouro Preto
 
 Pesquisador acadêmico em #SistemasEmbarcados, #FPGA e #HardwareReconfigurável,
 além de mantenedor do laboratório e suas ferramentas. Essa experiência resultou
-em diversas [[pesquisas|publicações científicas]].
+em diversas [[Pesquisas e Publicações Científicas|publicações científicas]].
 
-> Veja também: [[formacao|formação acadêmica]] e [[certificacoes#VHDL|certificação em VHDL]].
+> Veja também: [[formacao|formação acadêmica]] e [[Certificações#VHDL|certificação em VHDL]].
 
 ## Prefeitura Municipal de Cláudio
 

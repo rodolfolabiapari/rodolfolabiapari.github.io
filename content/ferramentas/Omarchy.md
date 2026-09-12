@@ -17,9 +17,11 @@ updated: 2026-09-09
 
 ## O que é
 
-Omarchy é uma distribuição #Arch Linux opinada, construída sobre #Hyprland, com
+> #GNU-Linux Não precisa ser feito, difícil e desagradável de usar. [[Omarchy]] consegue ser excelênte e tudo integrão ao conceito de _mouse free_.
+
+Omarchy é uma distribuição #Arch #GNU-Linux  _"opinada"_, construída sobre #Hyprland, com
 uma shell própria (barra de status, notificações, launcher) baseada em
-#Quickshell.
+#Quickshell. Veja sua documentação [aqui](https://omarchy.org/).
 
 É meu sistema operacional principal e onde passo a maior parte do meu tempo
 codando, escrevendo e administrando o [[homelab]].
@@ -34,11 +36,11 @@ Utilizo desde a versão `3.4.algumacoisa`.
 - **hooks**: automação disparada por eventos do sistema
 - **capture**: screenshots, gravação de tela e OCR
 
-## notificações ( #ricing )
+## Notificações ( #ricing )
 
 Já alterei bastante coisa, mas precisava encontrar uma forma de salvar essas alterações em [[git]].
 
-Ainda não pensei numa forma. Talvez juntar isso com o [[chezmoi]] seria uma excelente opção, talvez?
+Ainda não pensei numa forma. Talvez juntar isso com o [[Chezmoi]] seria uma excelente opção, talvez?
 
 ## Ferramentas do ecossistema
 
@@ -51,4 +53,4 @@ Ainda não pensei numa forma. Talvez juntar isso com o [[chezmoi]] seria uma exc
 | fastfetch  | info do sistema     |
 | lazygit    | git TUI             |
 
-Relacionado: [[vim]], [[tmux]].
+Relacionado: [[vi, vim e nvim]], [[tmux]].

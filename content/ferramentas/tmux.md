@@ -6,7 +6,7 @@ tags:
   - tmux
   - terminal
   - multiplexer
-description: Terminal multiplexer — sessões, janelas e painéis
+description: Terminal multiplexer, sessões, janelas e painéis
 lang: pt-br
 enableToc: true
 aliases: []
@@ -54,3 +54,7 @@ tmux kill-session -t nome # encerrar sessão
 - Mapeei `Caps Lock` para `Ctrl` para facilitar o prefixo
 - Uso `set -g mouse on` para navegação com mouse
 - Mapeio `prefix |` para split horizontal (espelha o `prefix -` do padrão)
+
+## Minhas Configurações
+
+Você pode ver minhas configurações de [[tmux]] dentro do meu [repositório](https://github.com/rodolfolabiapari/dotfiles/blob/master/tmux/.config/tmux/tmux.conf) de [[Stow Dotfiles]].

@@ -1,5 +1,5 @@
 ---
-title: About Passwords
+title: Gerando Senhas Fortes
 created: 2025-05-07
 tags:
   - security
@@ -7,6 +7,9 @@ tags:
 description: Do you already changed you password?
 updated: 2026-09-09
 ---
+## Why?
+
+> O **Método Diceware** ==é o método mais seguro para criar senhas fáceis de lembrar e difíceis de hackear==
 
 ## Generating new Passwords
 

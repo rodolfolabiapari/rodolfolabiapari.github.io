@@ -48,7 +48,7 @@ Create a key pair with `gpg --full-generate-key` command. At menu below, press
 `Enter` on keyboard.
 
 ```bash
-gpg (GnuPG) 2.2.27; Copyright (C) 2021 Free Software Foundation, Inc.
+gpg (GnuPG) 2.4.9; Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software: you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
 

@@ -29,8 +29,8 @@ Artista de rua #2014/05/13:
 - Análise de desempenho em Sistemas Embarcados
 - Internet das Coisas ( #IoT )
 
-Bolsista #CNPq. Durante o mestrado atuei no [[experiencia#laboratorio-imobilis-ufop|Laboratório iMobilis]],
-onde produzi as [[pesquisas|publicações científicas]] que fundamentaram minha dissertação.
+Bolsista #CNPq. Durante o mestrado atuei no [[Experiência Profissional#laboratorio-imobilis-ufop|Laboratório iMobilis]],
+onde produzi as [[Pesquisas e Publicações Científicas|publicações científicas]] que fundamentaram minha dissertação.
 
 ## Bacharelado em Ciência da Computação
 
@@ -48,7 +48,7 @@ Campus Formiga.
 
 Durante meus estudos na graduação, pude participar do grupo de robótica do IFMG na qual pude participar, duas vezes, na competição #projeto/Winter-Challenge no Instituto Mauá de Tecnologia (IMT), São Caetano do SUl em São Paulo, com nosso #projeto/Robo-Seguidor-de-Linha.
 
-Além disso, foi durante a graduação que obtive minha [[certificacoes|certificação em VHDL]] (2014),
+Além disso, foi durante a graduação que obtive minha [[Certificações|certificação em VHDL]] (2014),
 que abriu caminho para a pesquisa com FPGA no mestrado.
 
 Imagem de uma das aulas, que acreito ser a disciplina de Teoria da Computação, na qual estudávamos Linguagens Formais e Autômatos Finitos.

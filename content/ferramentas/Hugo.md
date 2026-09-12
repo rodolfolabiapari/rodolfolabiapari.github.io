@@ -21,8 +21,9 @@ ShowWordCount: "true"
 title: Hugo
 updated: 2026-09-09
 ---
-
 ## Instalação
+
+> Disponível [aqui](https://github.com/gohugoio/hugo).
 
 Instalando e iniciando o `hugo`:
 
@@ -63,7 +64,7 @@ git rm themes/${nomeDoTema}
 rm -rf .git/modules/themes/${nomeDoTema}
 ```
 
-Ai voltamos no [[hugo#aplicando-temas]] e configuramos o novo tema.
+Ai voltamos no [[Hugo#aplicando-temas]] e configuramos o novo tema.
 
 ---
 

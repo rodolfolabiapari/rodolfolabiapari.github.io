@@ -15,9 +15,9 @@ aliases: []
 updated: 2026-09-09
 ---
 
-## Motivo
+## Motivo desta Página
 
-Aqui guardarei algumas informações importantes que uso no meu dia a dia sobre `git`.
+Aqui guardarei algumas informações importantes que uso no meu dia a dia sobre #git.
 
 ## `git mv`
 
@@ -173,7 +173,7 @@ Para conflitos mais complexos, um merge tool ajuda:
 git mergetool             # abre ferramenta configurada (vimdiff, meld, etc.)
 ```
 
-No [[vim|neovim]], plugins como `diffview.nvim`, ou o `GitSigns.nvim` tornam a resolução bem mais visual.
+No [[vi, vim e nvim|neovim]], plugins como `diffview.nvim`, ou o `GitSigns.nvim` tornam a resolução bem mais visual.
 
 ### Dica: stash antes de merge/rebase
 

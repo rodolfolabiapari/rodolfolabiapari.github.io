@@ -16,7 +16,7 @@ aliases:
 updated: 2026-09-10
 ---
 
-> Precisa de um comando? Consulte a [[vim|Referência Rápida]].
+> Precisa de um comando? Consulte a [[vi, vim e nvim|Referência Rápida]].
 
 Este guia é um plano progressivo para aprender Neovim + LazyVim do zero, com foco
 no dia a dia de SRE: YAML, Git, K8s e documentação. Cada fase constrói sobre a
@@ -433,4 +433,4 @@ Conforme for evoluindo, este guia pode crescer com:
 - Integração com tmux
 - Atalhos personalizados no which-key
 
-Volte sempre à [[vim|Referência Rápida]] para consultar comandos avulsos.
+Volte sempre à [[vi, vim e nvim|Referência Rápida]] para consultar comandos avulsos.

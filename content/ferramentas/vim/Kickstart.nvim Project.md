@@ -30,6 +30,6 @@ Eu tive um por um bom tempo, e ele está disponível no meu [Rodolfos Kickstart.
 
 Não o utilizo mais, mas muito das configurações e Plugins que utilizo hoje são originários desse projeto e utilizo até hoje.
 
-> Também tenho um [[estudo|Guia de Estudos para vim]] no qual tento sempre retornar e praticar para não perder o costume.
+> Também tenho um [[Guia de Estudos sobe Neovim|Guia de Estudos para vim]] no qual tento sempre retornar e praticar para não perder o costume.
 > 
 > Preencho também um [[git|Compilado essencial de Git]] que uso no meu dia a dia para consultas rápidas quando insisto em esquecer.
