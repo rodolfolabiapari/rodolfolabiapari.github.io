@@ -19,6 +19,16 @@ aliases: []
 >
 > Sempre relembrar do início, o [[Kickstart.nvim Project]].
 
+## Diferença entre modo Normal, Ex command
+
+- **Modo Normal:** não se insere texto, executar comandos. digita-se diretamente o comando como `d/padrao`, `dd`, `gg`. os comandos não aparecem na tela.
+
+- **Modo Ex Command:** são iniciados por `:` no modo normal e aparece um vistor para digitar o texto. como por exemplo `:g/padrao/d`, `:w`.
+
+- **Modo Insert:** i, a, o...
+
+- **Modo Visual:** v.
+
 ## Atalhos essenciais (LazyVim)
 
 | O quê                     | Atalho                |
