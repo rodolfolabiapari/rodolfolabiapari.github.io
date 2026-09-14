@@ -291,6 +291,17 @@ O padrão é `:[endereço]comando[opções]`.
 | `:g/padrao1/ s/velho/novo/gc` | Só em linhas com `padrao1`           |
 | `:%s/padrao1/&, padrao2/`     | `&` reusa a pesquisa na substituição |
 
+### Deletes, Remoções 
+
+O padrão `d/padrao` no modo normal da o `d` delete + `/padrao` (movimento até o padrão).
+Ou seja, deleta do cursor **até o padrão**.
+O `d` precisa de um movimento e `/padrao` é o movimento, ou seja operador + busca.
+
+Para deletar a linha inteira que contém o padrão via Ex command é `:g/padrao/d`.
+
+O comando `:d` deleta a linha atual.
+
+
 ### Salvando e saindo
 
 | Comando             | Efeito                        |
@@ -306,11 +317,6 @@ O padrão é `:[endereço]comando[opções]`.
 | `:e filename`       | Abre arquivo                  |
 
 Histórico da command-line: `Ctrl+F`.
-
-### De linha vs. cursor
-
-> `d/padrao` (modo normal) deleta **do cursor até o padrão**, mantendo o resto.
-> `:./padrao/d` (ex) deleta **a linha inteira** que contém o padrão.
 
 ## Buffers, janelas e abas
 
