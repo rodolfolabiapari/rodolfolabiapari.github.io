@@ -43,7 +43,12 @@ GitHub Pages, deployed from `v5` branch. Only `.github/workflows/deploy.yml` is 
 
 - `.gitignore` excludes `.quartz/` (plugin installs) and `public/` (build output) — both are ephemeral
 
-## graphify knowledge graph
+## Writing style
+
+- Never use em-dashes (`--` / `—`). Use a regular hyphen (`-`) instead.
+- Never use emojis unless explicitly requested by the user.
+- Avoid other typographic characters that are not easily typed on a standard keyboard (e.g. fancy quotes, ellipsis characters, en-dashes).
+- Write as the author would: direct, no flourishes, no artificial-sounding phrasing.
 
 The content in `content/` has a knowledge graph built by [graphify](https://github.com/safishamsi/graphify). Use it to understand relationships between blog posts, tools, projects, and interests before answering questions or suggesting edits.
 

@@ -1,8 +1,14 @@
 ---
 title: Homelab Project
-draft: false
+draft: true
 created: 2026-09-08
 updated: 2026-09-09
+tags: []
+description: Descrição da minha infraestrutura de equipamentos do meu homelab
+lang: pt-br
+enableToc: true
+aliases:
+  - Homelab
 ---
 
 ## Introduction

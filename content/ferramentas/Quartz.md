@@ -42,7 +42,7 @@ For the #quartz works, I did:
 
 1. Fork the [jackyzha0/quartz](https://github.com/jackyzha0/quartz) project;
 2. Clone;
-3. Optional: Add the remote of my [[homelab|Forgejo (local Git server)]] and will be like that:
+3. Optional: Add the remote of my [[Homelab Project|Forgejo (local Git server)]] and will be like that:
 
 ```bash
 git remote -v

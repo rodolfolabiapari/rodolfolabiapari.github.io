@@ -24,7 +24,7 @@ uma shell própria (barra de status, notificações, launcher) baseada em
 #Quickshell. Veja sua documentação [aqui](https://omarchy.org/).
 
 É meu sistema operacional principal e onde passo a maior parte do meu tempo
-codando, escrevendo e administrando o [[homelab]].
+codando, escrevendo e administrando o [[Homelab Project]].
 
 Utilizo desde a versão `3.4.algumacoisa`.
 
@@ -36,7 +36,7 @@ Utilizo desde a versão `3.4.algumacoisa`.
 - **hooks**: automação disparada por eventos do sistema
 - **capture**: screenshots, gravação de tela e OCR
 
-## Notificações ( #ricing )
+## Modificações ( #ricing )
 
 Já alterei bastante coisa, mas precisava encontrar uma forma de salvar essas alterações em [[git]].
 
@@ -54,3 +54,9 @@ Ainda não pensei numa forma. Talvez juntar isso com o [[Chezmoi]] seria uma exc
 | lazygit    | git TUI             |
 
 Relacionado: [[vi, vim e nvim]], [[tmux]].
+
+## Plugins que eu estou utilizando/testando
+
+> Plugins só estão disponíveis depois do Omarchy versão 4.
+
+- <https://github.com/stappmus/Omarchy-Spotify>

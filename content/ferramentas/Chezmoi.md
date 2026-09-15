@@ -22,7 +22,7 @@ updated: 2026-09-09
 > Disponível em [chezmoi.io](https://www.chezmoi.io/).
 
 Meu primeiro organizador de #dotfiles, utilizando [[git]].
-Utilizo pois preciso de ter minhas configurações constantes em todos os sistemas que constumo mexer, como #macOS e #GNU-Linux, utilizando o máximo de [[git]] e versionamento possível para poder testar ferraments novas.
+Utilizo pois preciso de ter minhas configurações constantes em todos os sistemas que constumo mexer, como [[macOS]] e #GNU-Linux, utilizando o máximo de [[git]] e versionamento possível para poder testar ferraments novas.
 
 ## Porque parei de usar Atualmente #ADR 
 
@@ -36,7 +36,7 @@ Até aí tudo bem. O problema foi os meus sistemas.
 Tentei, por meio do [[Chezmoi]], fazer a configuração de TUDO, desde uma configuração de #ssh, [[git]], #apt, #dotfiles, até configuração específicas de hostname para cada sistema.
 E como vocês podem ver, eu tenho uma [[Equipamentos e Dispositivos|lista]], nem tão grande, mas bastante heterogênea na qual eu queria cuidar também.
 
-Também tentei utilizar #ansible no meu [[homelab]] ([disponíel aqui](https://github.com/rodolfolabiapari/homelab)) para tentar minimizar o uso do [[Chezmoi]], mas eu já tinha deixado ele inviável.
+Também tentei utilizar #ansible no meu [[Homelab Project]] ([disponíel aqui](https://github.com/rodolfolabiapari/homelab)) para tentar minimizar o uso do [[Chezmoi]], mas eu já tinha deixado ele inviável.
 
 ## O que utilizo agora
 

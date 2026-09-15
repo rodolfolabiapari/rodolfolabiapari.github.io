@@ -18,6 +18,8 @@ updated: 2026-09-09
 #tmux é um terminal multiplexer. Permite gerenciar múltiplas sessões, janelas e
 painéis dentro de um único terminal, persistindo processos mesmo após desconexão.
 
+> A palavra multiplexador é muito legal. Lembra das minhas aulas da graduação de Redes Móveis, falando sobre #FDMA, #TDMA, #CDMA #OFDMA, espectivamente sendo Redes 1G, 2G (GSM), 3G, 4 e 5G.
+
 ## Conceitos
 
 - **session**: agrupamento de janelas, sobrevive a desconexão

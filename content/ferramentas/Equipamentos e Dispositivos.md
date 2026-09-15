@@ -20,8 +20,8 @@ updated: 2026-09-09
 - #raspberrypi3b 
 - #orangepi3b
 - #FPGA. Não sei exatamente o modelo dela. Precisava confirmar.
-- #macOS #intel
-- #macos #arm
+- [[macOS]] #intel
+- [[macOS]] #arm
 - #GNU-Linux #mint
 - #GNU-Linux [[Omarchy]]
 

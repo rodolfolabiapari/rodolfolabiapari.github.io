@@ -37,7 +37,7 @@ updated: 2026-09-09
 
 There are more (like #arduino, #fpga, #latex), but I do not remember and/or I lost the certification link/paper in virtual folder or physical locker somewhere.
 
-> Essa certificação de VHDL se conecta diretamente com minha pesquisa acadêmica em [[Pesquisas e Publicações Científicas|FPGA e hardware reconfigurável]], que também influenciou meu [[homelab]].
+> Essa certificação de VHDL se conecta diretamente com minha pesquisa acadêmica em [[Pesquisas e Publicações Científicas|FPGA e hardware reconfigurável]], que também influenciou meu [[Homelab Project]].
 
 [aws-cp]: https://www.credly.com/badges/03959c6e-4267-4584-a527-ff6f6d2626ad/linked_in_profile
 [gcp-cdl]: https://www.credential.net/135f5111-28fb-4051-8ded-ea2b8771e484

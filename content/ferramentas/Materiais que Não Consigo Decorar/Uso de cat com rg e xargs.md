@@ -20,3 +20,5 @@ I have no brain to memorize it, so, that it is:
 ```bash
 rg -i pattern -l --null | xargs -0 cp -t destination/
 ```
+
+Ver também as páginas de [[regex]], [[glob]] e [[rg]].

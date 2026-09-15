@@ -68,7 +68,7 @@ atualizado sobre as transformações e inovações do mercado.
 - [[Certificações|GCP Professional Cloud Architect]] — certificação máxima do Google Cloud
 - [[Certificações|VHDL — Hardware Description Languages]] — IFMG (2014)
 - [[Leitura|77.000 páginas lidas]] — de Dostoiévski a Duna
-- [[homelab|Homelab]] — infraestrutura pessoal com Ansible e Raspberry Pi
+- [[Homelab Project|Homelab]] — infraestrutura pessoal com Ansible e Raspberry Pi
 
 ---
 
@@ -85,7 +85,7 @@ atualizado sobre as transformações e inovações do mercado.
 
 ### Projetos
 
-- [[homelab]]
+- [[Homelab Project]]
 - [[Leitura]]
 - [[projetos-open-source]]
 
