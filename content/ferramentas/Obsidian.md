@@ -59,7 +59,11 @@ No meu nvim eu consigo habilitar renderização nativa dentro do [[kitty]] e fic
 Eu possuo um [[Leitura]] na qual catalogo todo os livros que tenho, faço algumas anotações nos que eu li.
 Todos esse material também é guardado em notas dentro do meu Obsidian.
 
-Por isso utilizo plugins como o #book-search, #globalbooksearch e o #bookshelf para organizar minha estante.
+Por isso utilizo plugins como o #book-search, #globalbooksearch e o #bookShelfPlugin para organizar minha estante.
+
+Inclusive, antigamente eu utilizava o #skoob (link disponível em [[Encontre-me]]) para registrar diariamente todas as páginas lidas.
+Mas com o #bookShelfPlugin eu agora faço todas as minhas anotações localmente, no qual consigo anotar quantas páginas lidas dentro do [[Leitura|Livros que já li]]. Impossível ser melhor que isso.
+
 ## Backup das Notas
 
 Já tentei o uso do #syncthing para sincronizar minhas notas entre meus dispositivos mas não funcionou bem.
