@@ -72,3 +72,72 @@ Hoje, a estratégia que funciona para mim é o uso de [[git]] como fonte da verd
 No meu telefone tenho scripts #bash que são executados dentro do aplicativo #termux. 
 
 Ainda preciso encontrar uma forma de fazer notas mais rápidas no telefone, pois digitar tudo é um saco.
+
+## Integração com [[Inteligência Artificial]]
+
+Eu consegui chegar em um meio termo em utilizar [[Inteligência Artificial]] e notas no meu vault.
+
+Utilizo a mesma estratégia que o Kepano demonstra no seu [How I use Obsidian](https://stephango.com/vault) e minha ideia é utilizar também conceitos de #SecondBrain, #AIDatabase e #WikiLLM , mantendo minhas notas sempre originais e fazendo inferências novas e mostrando novas organizações.
+Este processo está em teste ainda.
+
+Aqui está um pedaço das instruções deu uso para a IA:
+
+```markdown
+# Regras
+
+## Privacidade
+
+A pasta `Personal/` e `Journal/` contém notas pessoais (família, diário, saúde, finanças, diários).
+
+- Nunca leia, liste, busque ou edite nada dentro de `Personal/` e `Journal/`.
+- Nunca rode comandos (grep, find, cat, rg) que alcancem `Personal/` e `Journal/`.
+- Se uma tarefa parecer exigir acesso a `Personal/` e `Journal/`, pare e pergunte.
+
+## Estrutura e fronteira da IA
+
+O vault segue o modelo Kepano, organizado por pastas de alto nível (não por assunto):
+
+- `Personal/` — notas pessoais (privado; a IA não toca).
+- `Journal/` — notas temporais: daily, weekly, monthly, quarterly, yearly (privado; a IA não toca). Daily em `Journal/Daily/YYYY/MM/YYYY-MM-DD-ddd`.
+- `References/` — objetos do mundo: livros, ferramentas, apps, conceitos, lugares, pessoas públicas, mídia, ficção (a IA pode ler/editar). Destino padrão de novas notas criadas pelo app/editor.
+- `Clippings/` — textos de outros autores (a IA pode ler/editar).
+- `System/` — templates, bases, categorias, anexos (a IA pode ler/editar).
+
+Teste de classificação ("delete test"): se ao apagar a nota o objeto continua existindo no mundo (livro, ferramenta, conceito, cidade, pessoa pública), ela vai para `References/`. Se é sua vida/opinião/sentimento (diário, saúde, finanças), vai para `Personal/`.
+
+A fronteira privado/público é a **pasta**, não um flag no frontmatter.
+
+## Alterando e escrevendo notas
+
+Não utilize emoji ou caracteres diferentes sem consulta.
+
+## Notas temporais (Journal)
+
+Formatos de nome (o `ddd` é o dia da semana abreviado, ex.: `Wed`):
+
+| Período | Nome | Exemplo | Pasta |
+| --- | --- | --- | --- |
+| daily | `YYYY-MM-DD-ddd` | `2026-09-23-Wed` | `Journal/Daily/YYYY/MM/` |
+
+Cada nota carrega wikilinks para seus períodos (`daily`, `weekly`, `monthly`, `quarterly`, `yearly`). As notas de período compilam as notas do intervalo.
+
+## Vocabulário e estilo (guia)
+
+Notas novas devem seguir este vocabulário fechado. Menos decisões na hora = menos bagunça.
+
+- **`categories`** — só as categorias finais (o "balde"): `Books`, `Music`, `Movies`, `Shows`, `Podcasts`, `Games`, `People`, `Places`, `Companies`, `Concepts`, `Tools`, `Products`, `Events`, `Cloud`, `Kubernetes`, `IA`, `Computing`, `Quotes`, `Recipes`, `Clippings`, `Projects`. Nunca coloque título de livro, nome de personagem ou tópico em `categories`.
+- **`type`** — o que a nota é: `album`/`band`/`song`, `podcast`/`episode`, `video`/`board-game`, `concept`/`tool`/`runbook`/`snippet`/`certification`/`tutorial`, `moc`.
+- **`providers`** — só para Cloud: `AWS`, `Google Cloud`, `Azure`.
+- **`subjects`** — só para Cloud: `Networking`, `Compute`, `Storage`, `Security`, `Databases`, `Analytics`, `AI-ML`.
+- **`source`** — de onde veio (livro, autor, link).
+- **`topics`** — rótulos livres (`stormlight`, `cosmere`, `cka`, `sre`, `linux`, `mar`…).
+- **`rating`** — inteiro 1–7. **`status`** — estado (unread/reading/read, studying…).
+- **`date`** — data de referência (propriedade Date nativa, `YYYY-MM-DD`). **`created`** — instante de criação (Date & time nativa); substituiu o antigo `hour`.
+- **`daily`/`weekly`/`monthly`/`quarterly`/`yearly`** — wikilinks para as notas de período. `year` continua numérico (ano de lançamento), por isso o link anual é `yearly`.
+- **Links** — use wikilinks no corpo; não use `categories` como campo de links.
+
+**MOC / índice temático** (ex.: "Mar e Praia", "Circuitos Eletrônicos"): é uma nota com `type: moc`, cujo conteúdo são links curados de um tema. Não é categoria.
+
+**Inbox**: nota que você criou e não sabe onde colocar fica em `Personal/` com `categories: [[Inbox]]`, e é triada depois.
+
+```
