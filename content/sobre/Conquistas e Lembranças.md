@@ -1,12 +1,13 @@
 ---
 title: Conquistas, Feitos e Lembranças
 date: 2026-09-06
-categories:
 draft: false
 tags:
   - trips
   - achievements
   - certifications
+  - viagens
+  - conquistas
 description: Lista de coisas legais que já fiz na minha vida. Sempre em construção.
 enableToc: true
 created: 2026-09-09
@@ -174,7 +175,6 @@ updated: 2026-09-09
 
 - Estava sem telefone, tive que voltar a pé pra casa com o braço quebrado hehe.
 
-
 ### Minha Primeira vez na Praia
 
 - Fui apresentar um Artigo Científico em #lugar/Salvador. Fui sozinho e pude conhecer a praia pela primeira vez.
@@ -187,3 +187,7 @@ updated: 2026-09-09
 - Já reconhecido pelo #org/Guinness-Book como o teatro mais antigo do Brasil. Com isso já espero que te valha a pena a visita.
 - Então, assisti ao grupo ucraniano [DakhaBrakha](https://en.wikipedia.org/wiki/DakhaBrakha) tocar ao vivo, de graça nesse teatro. Desde então ouço eles sempre.
   ![[Pasted image 20260909094302.jpg]]
+
+## Veja também
+
+- [[idiomas]]

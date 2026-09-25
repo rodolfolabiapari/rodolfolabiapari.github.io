@@ -7,8 +7,9 @@ tags:
   - regex
   - rg
   - neovim
-  - PCRE
+  - pcre
   - busca
+  - ripgrep
 description: Expressões regulares no estilo PCRE (Rust) para usar com rg e no Neovim
 lang: pt-br
 enableToc: true
@@ -103,3 +104,7 @@ rg "^\w+:" -g "*.md" .
 " deletar linhas que não contêm 'pattern'
 :g!/pattern/d
 ```
+
+## Veja também
+
+- [[rg]]

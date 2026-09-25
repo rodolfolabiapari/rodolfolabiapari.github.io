@@ -3,12 +3,10 @@ title: gpg — Security Keys
 created: 2026-09-04
 draft: false
 tags:
-  - GPG
-  - security
-  - dataEncryption
-  - crypto
-  - cryptography
-  - cheatSheet
+  - gpg
+  - seguranca
+  - criptografia
+  - cheatsheet
 description: Operações com gpg
 lang: pt-br
 enableToc: true
@@ -298,3 +296,7 @@ gpg -a --export-secret-key > secret-all.asc
 ```
 
 Exported secret keys are protected with current secret key passphrase.
+
+## Veja também
+
+- [[Gerando Senhas Fortes]]

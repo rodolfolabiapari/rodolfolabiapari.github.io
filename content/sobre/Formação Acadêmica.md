@@ -3,11 +3,13 @@ title: Formação Acadêmica em Ciência da Computação
 created: 2026-09-08
 draft: false
 tags:
-  - UFOP
-  - IFMG
+  - ufop
+  - ifmg
   - mestrado
-  - graduação
-  - computação
+  - graduacao
+  - computacao
+  - carreira
+  - iot
 description: Formação acadêmica — mestrado e graduação em Ciência da Computação
 lang: pt-br
 enableToc: true

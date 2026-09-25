@@ -2,11 +2,14 @@
 title: Gerando Senhas Fortes
 created: 2025-05-07
 tags:
-  - security
-  - password
+  - seguranca
+  - senha
+  - diceware
+  - bitwarden
 description: Do you already changed you password?
 updated: 2026-09-09
 ---
+
 ## Why?
 
 > O **Método Diceware** ==é o método mais seguro para criar senhas fáceis de lembrar e difíceis de hackear==
@@ -32,3 +35,8 @@ When using public storage as #ProtonPass or Bitwarden (a private company that ca
 For example, if in a new site `www.example.com` the bitwarden generated `CageBobbleQuartersRoutingRebalance` password, add a unique word that only you know, like, `vidiots` and do not save it on bitwarden.
 
 #Bitwarden will `CageBobbleQuartersRoutingRebalance` but the real password is `CageBobbleQuartersRoutingRebalanceVidiots`. You will repeat it for all passwords.
+
+## Veja também
+
+- [[diceware, pwgen e pass]]
+- [[Contato via Criptografia GPG]]

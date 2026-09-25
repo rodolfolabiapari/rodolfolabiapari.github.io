@@ -3,7 +3,8 @@ title: Tricotilomania
 created: 2026-09-08
 draft: false
 tags:
-  - "#health"
+  - saude
+  - tricotilomania
 description: Transtorno psicológico onde se arranca os pelos da cabeça e barba de forma incontrolável
 lang: pt-br
 enableToc: true

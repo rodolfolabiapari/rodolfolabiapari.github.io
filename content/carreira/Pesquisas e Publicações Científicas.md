@@ -4,12 +4,14 @@ created: 2024-03-04
 draft: false
 tags:
   - pesquisa
-  - FPGA
-  - VHDL
+  - fpga
+  - vhdl
   - embarcados
-  - publicações
-  - UFOP
-  - IFMG
+  - publicacoes
+  - ufop
+  - ifmg
+  - carreira
+  - iot
 description: Publicações científicas em FPGA, sistemas embarcados e IoT
 lang: pt-br
 enableToc: true

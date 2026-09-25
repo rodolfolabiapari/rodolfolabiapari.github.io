@@ -4,8 +4,8 @@ created: 2026-09-08
 draft: false
 tags:
   - idiomas
-  - português
-  - inglês
+  - portugues
+  - ingles
   - espanhol
 description: Idiomas que falo e níveis de proficiência
 lang: pt-br

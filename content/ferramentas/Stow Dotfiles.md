@@ -105,3 +105,7 @@ cd ~/.dotfiles
 git pull
 make stow   # recria ou atualiza os symlinks
 ```
+
+## Veja também
+
+- [[Homelab Project]]

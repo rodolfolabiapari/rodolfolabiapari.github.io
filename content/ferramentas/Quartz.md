@@ -6,7 +6,7 @@ tags:
   - git
   - quartz
   - npm
-  - Node
+  - node
   - npx
   - hugo
   - github
@@ -157,3 +157,7 @@ npx quartz sync
 ```
 
 But I prefer my own `git push` to `v5` branch. Works as well.
+
+## Veja também
+
+- [[projetos-open-source]]

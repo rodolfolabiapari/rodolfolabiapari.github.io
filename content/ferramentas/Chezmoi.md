@@ -24,7 +24,7 @@ updated: 2026-09-09
 Meu primeiro organizador de #dotfiles, utilizando [[git]].
 Utilizo pois preciso de ter minhas configurações constantes em todos os sistemas que constumo mexer, como [[macOS]] e #GNU-Linux, utilizando o máximo de [[git]] e versionamento possível para poder testar ferraments novas.
 
-## Porque parei de usar Atualmente #ADR 
+## Porque parei de usar Atualmente #ADR
 
 Está armazenado [no repositório de dotfiles-legacy](https://github.com/rodolfolabiapari/dotfiles-legacy), mas hoje está em desuso.
 

@@ -1,16 +1,14 @@
 ---
 title: Shows That I have Been To
 date: 2024-02-04
-categories:
 draft: false
 tags:
-  - music
-  - concerts
+  - musica
   - shows
   - wip
   - spotify
-  - LastFM
-  - SetlistFM
+  - lastfm
+  - setlistfm
 description: I hope this list will not have an end
 enableToc: true
 created: 2026-09-08
@@ -175,3 +173,7 @@ To be organized:
 Waiting for...
 
 ![[Pasted image 20260909095527.jpg]]
+
+## Veja também
+
+- [[Música]]

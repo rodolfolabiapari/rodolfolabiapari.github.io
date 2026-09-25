@@ -3,11 +3,10 @@ title: Projeto de Leitura de Livros
 created: 2026-07-01
 draft: false
 tags:
-  - books
-  - book
-  - reading
-  - project
+  - leitura
+  - projeto
   - hobby
+  - livros
 description: Catalogação de livros já lidos
 lang: pt-br
 enableToc: true
@@ -23,10 +22,8 @@ Todos os livros abvaixo eu já li. Tenho uma coleção maior ainda de _para ler_
 
 Antes, algumas curiosidades:
 
-
 1. Paginômetro: Já li cerca de $$77000$$ páginas até agora;
 2. O maior livro que já li até agora foi o _Os Miseráveis_ de #autor/Victor-Hugo, com cerca de 1500 páginas e, sendo volume único, tem total de 2,090 kg ![[Pasted image 20260909090843.jpg]]
-
 
 | Title                                                                        | Authors                                                                             | Publisher                            | Pages |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------ | ----- |

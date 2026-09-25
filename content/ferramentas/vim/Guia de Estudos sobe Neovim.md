@@ -195,9 +195,9 @@ Na tela de Status (`<leader>gs`):
 
 Dois caminhos:
 
-| Ferramenta | Atalho | Pra quê |
-| ---------- | ------ | ------- |
-| **Fugitive** | `<leader>gs` | Git puro, via teclado |
+| Ferramenta           | Atalho       | Pra quê                                                 |
+| -------------------- | ------------ | ------------------------------------------------------- |
+| **Fugitive**         | `<leader>gs` | Git puro, via teclado                                   |
 | **Lazygit** (Snacks) | `<leader>gg` | Interface visual (mais fácil p/ aprender diff e rebase) |
 
 **Com Fugitive (`<leader>gs` ⟶ tela de status):**
@@ -209,11 +209,11 @@ Dois caminhos:
 
 **Entendendo os diffs:**
 
-| Comando | O que compara |
-| ------- | ---------: |
-| `<leader>gd` | Working tree vs HEAD (mudanças **não commitadas**) |
-| `=` no status | Mudanças **não staged** (vs index) |
-| `D` no status | Arquivo inteiro vs HEAD |
+| Comando       |                                      O que compara |
+| ------------- | -------------------------------------------------: |
+| `<leader>gd`  | Working tree vs HEAD (mudanças **não commitadas**) |
+| `=` no status |                 Mudanças **não staged** (vs index) |
+| `D` no status |                            Arquivo inteiro vs HEAD |
 
 **Com Lazygit (`<leader>gg`):** use as setas, `space` para stage, `c` para commit, `Enter` no diff. A interface é tipo `tig`/`lazygit` original.
 
@@ -289,14 +289,14 @@ O LSP (`jsonls` + SchemaStore.org) já entende schemas K8s:
 O LazyVim formata no save por padrão, mas na nossa config o **auto-format foi
 desligado** (`vim.g.autoformat = false`). A formatação é manual, quando você quiser:
 
-| Atalho         | Ação                                |
-| -------------- | ----------------------------------- |
-| `<leader>cf`   | Formatar buffer/linha atual         |
-| `<space>cF`    | Formatar languages injetadas        |
-| `<leader>uf`   | Toggle auto-format global (save)    |
-| `<leader>uF`   | Toggle auto-format só deste buffer  |
-| `:LazyFormat`  | Formatar buffer manualmente         |
-| `:LazyFormatInfo` | Ver formatadores ativos e status |
+| Atalho            | Ação                               |
+| ----------------- | ---------------------------------- |
+| `<leader>cf`      | Formatar buffer/linha atual        |
+| `<space>cF`       | Formatar languages injetadas       |
+| `<leader>uf`      | Toggle auto-format global (save)   |
+| `<leader>uF`      | Toggle auto-format só deste buffer |
+| `:LazyFormat`     | Formatar buffer manualmente        |
+| `:LazyFormatInfo` | Ver formatadores ativos e status   |
 
 Formatadores configurados: `stylua` (lua), `shfmt` (bash/sh), `terraform_fmt`
 (hcl/terraform), `ruff`/`black` (python).
@@ -404,13 +404,13 @@ Espaço vivo para registrar plugins que for testando e adotando.
 
 ### Instalados
 
-| Plugin                                                                               | Pra quê                                              | Status       |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------ |
-| [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)                | Prompts de IA no editor                              | ✅ Instalado |
-| [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) | Renderiza markdown **inline** (negrito/itálico/código visuais) | ✅ Instalado |
+| Plugin                                                                               | Pra quê                                                                              | Status       |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------ |
+| [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)                | Prompts de IA no editor                                                              | ✅ Instalado |
+| [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) | Renderiza markdown **inline** (negrito/itálico/código visuais)                       | ✅ Instalado |
 | [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)             | Preview do markdown **no navegador** (⚠️ não é o inline; inline é o render-markdown) | ✅ Instalado |
-| [Snacks.nvim](https://github.com/folke/snacks.nvim)                                  | Zen mode, scratchpad, lazygit, pickers, notifier     | ✅ Instalado |
-| [treesj](https://github.com/Wansmer/treesj)                                           | Join/split de objetos JSON/YAML                      | ✅ Instalado |
+| [Snacks.nvim](https://github.com/folke/snacks.nvim)                                  | Zen mode, scratchpad, lazygit, pickers, notifier                                     | ✅ Instalado |
+| [treesj](https://github.com/Wansmer/treesj)                                          | Join/split de objetos JSON/YAML                                                      | ✅ Instalado |
 
 ### Para testar
 
@@ -434,3 +434,10 @@ Conforme for evoluindo, este guia pode crescer com:
 - Atalhos personalizados no which-key
 
 Volte sempre à [[vi, vim e nvim|Referência Rápida]] para consultar comandos avulsos.
+
+## Veja também
+
+- [[Obsidian]]
+- [[vim-fugitive]]
+- [[tmux]]
+- [[Kickstart.nvim Project]]

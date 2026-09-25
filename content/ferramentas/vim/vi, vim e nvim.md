@@ -31,51 +31,51 @@ aliases: []
 
 ## Atalhos essenciais (LazyVim)
 
-| O quê                     | Atalho                |
-| ------------------------- | --------------------- |
-| Salvar                    | `<space>w`            |
-| Fechar buffer             | `<space>q`            |
-| Fechar todos              | `<space>Q`            |
-| Explorador de arquivos    | `<space>e`            |
-| Buscar arquivo            | `<space>ff`           |
-| Buscar texto (grep)       | `<space>sg`           |
-| Buscar palavra sob cursor | `<space>sw`           |
-| Terminal                  | `<space>ft`           |
-| Git status                | `<space>gs`           |
-| Git diff                  | `<space>gd`           |
-| Git blame                 | `<space>gb`           |
-| Git log                   | `<space>gl`           |
-| Git commits               | `<space>gc`           |
-| Git files (tracked)       | `<space>gf`           |
-| Lazygit (interface visual)| `<space>gg`           |
-| Git commit all            | `<space>gca`          |
-| Git rebase interativo     | `<space>grb`          |
-| Format buffer             | `<leader>cf`          |
-| Auto-format toggle (g)    | `<leader>uf`          |
-| Auto-format toggle (buf)  | `<leader>uF`          |
-| Zen mode                  | `<space>zz`           |
-| Zoom janela               | `<space>zm`           |
-| Scratchpad                | `<space>zs`           |
-| Rename arquivo (LSP)      | `<space>cR`           |
-| TreeSJ toggle             | `<leader>jt`          |
-| TreeSJ split              | `<leader>js`          |
-| TreeSJ join               | `<leader>jj`          |
-| Spell: próxima palavra    | `]s`                  |
-| Spell: anterior palavra   | `[s`                  |
-| Spell: sugestões          | `z=`                  |
-| Spell: add dicionário     | `zg`                  |
-| Toggle spell              | `<space>us`           |
-| Which-key                 | `<space>` (espere 1s) |
-| Dividir tela horizontal   | `<space>-`            |
-| Dividir vertical          | `<space>\|`           |
-| Fechar janela             | `<space>wd`           |
-| Navegar entre janelas     | `Ctrl+h/j/k/l`        |
-| Próximo diagnóstico       | `]d`                  |
-| Diagnóstico anterior      | `[d`                  |
-| Listar diagnósticos       | `<space>le`           |
-| Line diagnostics          | `<space>cd`           |
-| Code actions              | `<space>ca`           |
-| Renomear                  | `<space>rn`           |
+| O quê                      | Atalho                |
+| -------------------------- | --------------------- |
+| Salvar                     | `<space>w`            |
+| Fechar buffer              | `<space>q`            |
+| Fechar todos               | `<space>Q`            |
+| Explorador de arquivos     | `<space>e`            |
+| Buscar arquivo             | `<space>ff`           |
+| Buscar texto (grep)        | `<space>sg`           |
+| Buscar palavra sob cursor  | `<space>sw`           |
+| Terminal                   | `<space>ft`           |
+| Git status                 | `<space>gs`           |
+| Git diff                   | `<space>gd`           |
+| Git blame                  | `<space>gb`           |
+| Git log                    | `<space>gl`           |
+| Git commits                | `<space>gc`           |
+| Git files (tracked)        | `<space>gf`           |
+| Lazygit (interface visual) | `<space>gg`           |
+| Git commit all             | `<space>gca`          |
+| Git rebase interativo      | `<space>grb`          |
+| Format buffer              | `<leader>cf`          |
+| Auto-format toggle (g)     | `<leader>uf`          |
+| Auto-format toggle (buf)   | `<leader>uF`          |
+| Zen mode                   | `<space>zz`           |
+| Zoom janela                | `<space>zm`           |
+| Scratchpad                 | `<space>zs`           |
+| Rename arquivo (LSP)       | `<space>cR`           |
+| TreeSJ toggle              | `<leader>jt`          |
+| TreeSJ split               | `<leader>js`          |
+| TreeSJ join                | `<leader>jj`          |
+| Spell: próxima palavra     | `]s`                  |
+| Spell: anterior palavra    | `[s`                  |
+| Spell: sugestões           | `z=`                  |
+| Spell: add dicionário      | `zg`                  |
+| Toggle spell               | `<space>us`           |
+| Which-key                  | `<space>` (espere 1s) |
+| Dividir tela horizontal    | `<space>-`            |
+| Dividir vertical           | `<space>\|`           |
+| Fechar janela              | `<space>wd`           |
+| Navegar entre janelas      | `Ctrl+h/j/k/l`        |
+| Próximo diagnóstico        | `]d`                  |
+| Diagnóstico anterior       | `[d`                  |
+| Listar diagnósticos        | `<space>le`           |
+| Line diagnostics           | `<space>cd`           |
+| Code actions               | `<space>ca`           |
+| Renomear                   | `<space>rn`           |
 
 ### Modos
 
@@ -301,7 +301,7 @@ O padrão é `:[endereço]comando[opções]`.
 | `:g/padrao1/ s/velho/novo/gc` | Só em linhas com `padrao1`           |
 | `:%s/padrao1/&, padrao2/`     | `&` reusa a pesquisa na substituição |
 
-### Deletes, Remoções 
+### Deletes, Remoções
 
 O padrão `d/padrao` no modo normal da o `d` delete + `/padrao` (movimento até o padrão).
 Ou seja, deleta do cursor **até o padrão**.
@@ -310,7 +310,6 @@ O `d` precisa de um movimento e `/padrao` é o movimento, ou seja operador + bus
 Para deletar a linha inteira que contém o padrão via Ex command é `:g/padrao/d`.
 
 O comando `:d` deleta a linha atual.
-
 
 ### Salvando e saindo
 
@@ -349,17 +348,17 @@ Histórico da command-line: `Ctrl+F`.
 
 ### Bufferline (navegação visual de buffers)
 
-| Atalho         | Ação                         |
-| -------------- | ---------------------------- |
-| `<S-h>`        | Buffer anterior              |
-| `<S-l>`        | Próximo buffer               |
-| `[b` / `]b`    | Buffer anterior / próximo    |
-| `[B` / `]B`    | Move buffer para trás/frente |
-| `<leader>bp`   | Fixa/desfixa buffer          |
-| `<leader>bP`   | Fecha todos não fixados      |
-| `<leader>br`   | Fecha buffers à direita      |
-| `<leader>bl`   | Fecha buffers à esquerda     |
-| `<leader>bj`   | Picker visual de buffers     |
+| Atalho       | Ação                         |
+| ------------ | ---------------------------- |
+| `<S-h>`      | Buffer anterior              |
+| `<S-l>`      | Próximo buffer               |
+| `[b` / `]b`  | Buffer anterior / próximo    |
+| `[B` / `]B`  | Move buffer para trás/frente |
+| `<leader>bp` | Fixa/desfixa buffer          |
+| `<leader>bP` | Fecha todos não fixados      |
+| `<leader>br` | Fecha buffers à direita      |
+| `<leader>bl` | Fecha buffers à esquerda     |
+| `<leader>bj` | Picker visual de buffers     |
 
 ## Comandos úteis
 
@@ -384,3 +383,8 @@ Histórico da command-line: `Ctrl+F`.
 | `vi +/padrao arquivo` | Abre na primeira ocorrência           |
 
 > Os registradores precedem o comando: `"dyy` copia para o registrador `d`; `"dP` cola dele.
+
+## Veja também
+
+- [[vim-fugitive]]
+- [[Obsidian]]

@@ -7,8 +7,9 @@ tags:
   - gcp
   - kubernetes
   - cloud
-  - cloudArchitect
-  - VHDL
+  - cloudarchitect
+  - vhdl
+  - certificacao
 description: Resumo de minhas principais certificações
 updated: 2026-09-09
 ---
@@ -54,3 +55,8 @@ There are more (like #arduino, #fpga, #latex), but I do not remember and/or I lo
 [csb-essentials]: https://partner.cloudskillsboost.google/public_profiles/60716fde-b71f-44cb-9176-d7da09834180/badges/69878
 [csb-k8s]: https://partner.cloudskillsboost.google/public_profiles/60716fde-b71f-44cb-9176-d7da09834180/badges/70477
 [csb-security]: https://partner.cloudskillsboost.google/public_profiles/60716fde-b71f-44cb-9176-d7da09834180/badges/70721
+
+## Veja também
+
+- [[Experiência Profissional]]
+- [[Formação Acadêmica]]

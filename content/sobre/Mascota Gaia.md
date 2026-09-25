@@ -3,8 +3,9 @@ title: Gaia Maria Ghanima Labiapari Mansur Rodrigues
 created: 2026-09-09
 draft: false
 tags:
-  - "#dog"
-  - "#gaia"
+  - dog
+  - gaia
+  - pessoal
 description: Meu cachorro caramelo
 lang: pt-br
 enableToc: true

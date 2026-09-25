@@ -19,7 +19,7 @@ updated: 2026-09-09
 
 > #GNU-Linux Não precisa ser feito, difícil e desagradável de usar. [[Omarchy]] consegue ser excelênte e tudo integrão ao conceito de _mouse free_.
 
-Omarchy é uma distribuição #Arch #GNU-Linux  _"opinada"_, construída sobre #Hyprland, com
+Omarchy é uma distribuição #Arch #GNU-Linux _"opinada"_, construída sobre #Hyprland, com
 uma shell própria (barra de status, notificações, launcher) baseada em
 #Quickshell. Veja sua documentação [aqui](https://omarchy.org/).
 
@@ -60,3 +60,7 @@ Relacionado: [[vi, vim e nvim]], [[tmux]].
 > Plugins só estão disponíveis depois do Omarchy versão 4.
 
 - <https://github.com/stappmus/Omarchy-Spotify>
+
+## Veja também
+
+- [[Catppuccin]]

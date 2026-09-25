@@ -2,7 +2,10 @@
 title: Security Contact
 created: 2024-03-04
 draft: false
-tags: []
+tags:
+  - gpg
+  - contato
+  - seguranca
 description: ""
 updated: 2026-09-09
 ---

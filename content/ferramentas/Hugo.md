@@ -5,22 +5,16 @@ tags:
   - hugo
   - github
   - github-pages
-  - Jekyll
+  - jekyll
+  - blog
 description: ""
 created: 2026-06-30
-categories:
 aliases:
   - Iniciando Blog com Hugo
-author: Me
-disableShare: "false"
-ShowBreadcrumbs: "true"
-ShowRedingTime: "true"
-showToc: "true"
-TocOpen: "true"
-ShowWordCount: "true"
 title: Hugo
 updated: 2026-09-09
 ---
+
 ## Instalação
 
 > Disponível [aqui](https://github.com/gohugoio/hugo).
@@ -75,3 +69,8 @@ Na raiz, executar:
 ```bash
 hugo server
 ```
+
+## Veja também
+
+- [[Quartz]]
+- [[projetos-open-source]]

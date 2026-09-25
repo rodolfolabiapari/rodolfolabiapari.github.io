@@ -26,3 +26,8 @@ o controle do design.
 ## Meu uso
 
 Hoje eu estou apaixonado pelo #ferramenta/opencode que já é integrado ao meu [[Omarchy]].
+
+## Veja também
+
+- [[Obsidian]]
+- [[Quartz]]

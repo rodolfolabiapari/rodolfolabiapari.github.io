@@ -3,7 +3,7 @@ title: Música
 created: 2026-09-08
 draft: false
 tags:
-  - música
+  - musica
   - flauta
   - partitura
 description: Flauta transversal, partitura e vida musical
@@ -30,3 +30,7 @@ shows e festivais. O registro completo está em [[Shows]].
 
 Também acompanho pelo [Last.fm](https://www.last.fm/user/rodolfo_lab) e
 [Spotify](https://open.spotify.com/user/rodolfolabiapari?si=2e947b9b1eac410f).
+
+## Veja também
+
+- [[Conquistas e Lembranças]]

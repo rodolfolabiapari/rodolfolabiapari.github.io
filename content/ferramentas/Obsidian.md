@@ -69,7 +69,7 @@ Mas com o #bookShelfPlugin eu agora faço todas as minhas anotações localmente
 Já tentei o uso do #syncthing para sincronizar minhas notas entre meus dispositivos mas não funcionou bem.
 
 Hoje, a estratégia que funciona para mim é o uso de [[git]] como fonte da verdade. Uso um servidor interno privado do #Forgejo na qual salvo minhas notas aqui comigo no meu [[Homelab Project]], que ainda será detalhado melhor.
-No meu telefone tenho scripts #bash que são executados dentro do aplicativo #termux. 
+No meu telefone tenho scripts #bash que são executados dentro do aplicativo #termux.
 
 Ainda preciso encontrar uma forma de fazer notas mais rápidas no telefone, pois digitar tudo é um saco.
 
@@ -115,9 +115,9 @@ Não utilize emoji ou caracteres diferentes sem consulta.
 
 Formatos de nome (o `ddd` é o dia da semana abreviado, ex.: `Wed`):
 
-| Período | Nome | Exemplo | Pasta |
-| --- | --- | --- | --- |
-| daily | `YYYY-MM-DD-ddd` | `2026-09-23-Wed` | `Journal/Daily/YYYY/MM/` |
+| Período | Nome             | Exemplo          | Pasta                    |
+| ------- | ---------------- | ---------------- | ------------------------ |
+| daily   | `YYYY-MM-DD-ddd` | `2026-09-23-Wed` | `Journal/Daily/YYYY/MM/` |
 
 Cada nota carrega wikilinks para seus períodos (`daily`, `weekly`, `monthly`, `quarterly`, `yearly`). As notas de período compilam as notas do intervalo.
 
@@ -139,5 +139,8 @@ Notas novas devem seguir este vocabulário fechado. Menos decisões na hora = me
 **MOC / índice temático** (ex.: "Mar e Praia", "Circuitos Eletrônicos"): é uma nota com `type: moc`, cujo conteúdo são links curados de um tema. Não é categoria.
 
 **Inbox**: nota que você criou e não sabe onde colocar fica em `Personal/` com `categories: [[Inbox]]`, e é triada depois.
-
 ```
+
+## Veja também
+
+- [[Quartz]]

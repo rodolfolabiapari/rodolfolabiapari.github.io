@@ -3,12 +3,13 @@ title: Find Me
 created: 2024-02-04
 draft: false
 tags:
-  - socialMedia
-  - publications
+  - social-media
+  - publicacoes
   - pgp
-  - credentials
-  - UFOP
-  - IFMG
+  - credenciais
+  - ufop
+  - ifmg
+  - contato
 description: Principais links das minhas redes
 updated: 2026-09-09
 ---
@@ -44,3 +45,8 @@ I used to use [Skoob](https://www.skoob.com.br/usuario/6695112-rodolfo_lab) but 
 ## Games
 
 - [Steam](https://steamcommunity.com/id/rodolfolabiapari/).
+
+## Veja também
+
+- [[Certificações]]
+- [[Experiência Profissional]]

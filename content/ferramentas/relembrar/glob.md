@@ -9,6 +9,7 @@ tags:
   - bash
   - rg
   - ls
+  - busca
 description: Padrões glob (wildcard) para filtro de arquivos no terminal - ls, rm, rg
 lang: pt-br
 enableToc: true
@@ -62,3 +63,7 @@ rm *.tmp
 # checar se o diretório tem imagens
 ls *.{png,jpg,jpeg,gif} 2>/dev/null
 ```
+
+## Veja também
+
+- [[rg]]

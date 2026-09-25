@@ -75,3 +75,7 @@ Ao abrir `:G`, o Fugitive mostra uma janela com arquivos modificados. Nela:
 
 - [[git]] - comandos Git que uso no terminal
 - [[vi, vim e nvim]] - referência geral do Neovim
+
+## Veja também
+
+- [[Guia de Estudos sobe Neovim]]

@@ -12,6 +12,13 @@
       "output_tokens": 0,
       "files": 44,
       "note": "docs-only rebuild"
+    },
+    {
+      "date": "2026-09-25T19:29:22.658906+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 44,
+      "note": "docs-only rebuild (tags+wikilinks)"
     }
   ],
   "total_input_tokens": 0,

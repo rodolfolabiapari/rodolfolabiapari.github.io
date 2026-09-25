@@ -3,11 +3,13 @@ title: Uso de cat com rg e xargs
 created: 2026-07-01
 draft: false
 tags:
-  - tips
+  - dicas
   - rg
   - xargs
   - cat
   - cp
+  - busca
+  - shell
 description: Pipe xargs with spaces
 lang: pt-br
 enableToc: true

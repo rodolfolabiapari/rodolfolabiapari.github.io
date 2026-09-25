@@ -9,6 +9,7 @@ tags:
   - grep
   - neovim
   - quickfix
+  - busca
 description: Como usar rg com --vimgrep e carregar resultados no quickfix do Neovim com :cfile
 lang: pt-br
 enableToc: true

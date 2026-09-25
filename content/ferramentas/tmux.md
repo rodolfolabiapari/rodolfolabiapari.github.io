@@ -60,3 +60,8 @@ tmux kill-session -t nome # encerrar sessão
 ## Minhas Configurações
 
 Você pode ver minhas configurações de [[tmux]] dentro do meu [repositório](https://github.com/rodolfolabiapari/dotfiles/blob/master/tmux/.config/tmux/tmux.conf) de [[Stow Dotfiles]].
+
+## Veja também
+
+- [[vi, vim e nvim]]
+- [[Omarchy]]

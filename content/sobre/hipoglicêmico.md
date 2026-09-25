@@ -3,7 +3,8 @@ title: Hipoglicemia
 created: 2026-09-08
 draft: false
 tags:
-  - "#health"
+  - saude
+  - hipoglicemia
 description: Informação sobre minha hipoglicemia
 lang: pt-br
 enableToc: true

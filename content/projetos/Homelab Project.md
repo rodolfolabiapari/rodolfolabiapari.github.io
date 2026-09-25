@@ -3,7 +3,11 @@ title: Homelab Project
 draft: true
 created: 2026-09-08
 updated: 2026-09-09
-tags: []
+tags:
+  - homelab
+  - docker
+  - ansible
+  - home-assistant
 description: Descrição da minha infraestrutura de equipamentos do meu homelab
 lang: pt-br
 enableToc: true
@@ -74,3 +78,9 @@ And #automation and #management I have:
 [^1]: More about #ADR in [official document](https://github.com/architecture-decision-record/architecture-decision-record).
 
 [^2]: Oficial specs in [raspberris site](https://www.raspberrypi.com/products/raspberry-pi-1-model-b-plus/).
+
+## Veja também
+
+- [[Equipamentos e Dispositivos]]
+- [[projetos-open-source]]
+- [[Chezmoi]]
