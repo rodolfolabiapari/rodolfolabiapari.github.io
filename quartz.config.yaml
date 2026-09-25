@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tagId: G-M9D99KQCVY
   locale: pt-BR
   baseUrl: rodolfolabiapari.github.io
   ignorePatterns:
