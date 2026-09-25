@@ -5,8 +5,10 @@ created: 2026-09-08
 updated: 2026-09-09
 ---
 
-> [!quote] Livro #oathbringer, Chapter 9: The Threads of a Screw.
+> [!quote] Livro #oathbringer, [Chapter 9: The Threads of a Screw](https://coppermind.net/wiki/Summary:Oathbringer/Chapter_9).
 > _"The sum of my experiences has pointed at this moment. This decision.”_
+> 
+> Já viu meu Projeto de [[Leitura]]? #goto
 
 ## Preamble
 
