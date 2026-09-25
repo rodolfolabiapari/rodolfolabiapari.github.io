@@ -1,6 +1,6 @@
 ---
 title: Homelab Project
-draft: true
+draft: false
 created: 2026-09-08
 updated: 2026-09-09
 tags:
@@ -14,7 +14,7 @@ enableToc: true
 aliases:
   - Homelab
 ---
-
+> Documento gerado automaticamente de acordo com minha estrutura #ansible do meu [[Homelab Project|Homelab]]. É um esboço do que preciso documentar.
 ## Introduction
 
 > [!info] Target
@@ -49,7 +49,7 @@ For #CICD, I have:
 
 - #pihole for local #DNS server for all devices and services; It runs along with
 - #traefik for ingress;
-- #vpn.
+- #vpn with #tailscale.
 
 I am implement a better #nas. I have tested some products for my project.
 

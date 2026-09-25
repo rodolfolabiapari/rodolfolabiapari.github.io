@@ -17,6 +17,10 @@ aliases: []
 Uso o Obsidian como meu segundo cérebro para notas, tarefas e rastreamento de projetos. A integração com o [[Guia de Estudos sobe Neovim|Neovim]] via `Obsidian.nvim` faz a ponte entre edição rápida no terminal e a navegação visual no Obsidian.
 As configs do meu Obsidian estão dentro do [[Stow Dotfiles]].
 
+Todas minhas notas diárias são configuras utilizando [[iso-8601]].
+
+> Futuramente quero escrever um #ensaio sobre [[obsidian-ontologia]].
+
 ## Kanban
 
 Gerencio tarefas e ideias com listas no formato kanban. As colunas que uso:
@@ -144,3 +148,4 @@ Notas novas devem seguir este vocabulário fechado. Menos decisões na hora = me
 ## Veja também
 
 - [[Quartz]]
+- [[iso-8601]]

@@ -1,5 +1,5 @@
 ---
-title: Git — mv, stash, rebase e conflitos
+title: Git — mv, stash, rebase, difftool e conflitos
 created: 2026-09-04
 draft: false
 tags:
@@ -7,8 +7,9 @@ tags:
   - rebase
   - stash
   - conflitos
+  - difftool
   - dicas
-description: Operações de git que uso com frequência mover arquivos, stashing, rebase e resolução de conflitos
+description: Operações de git que uso com frequência mover arquivos, stashing, rebase, difftool e resolução de conflitos
 lang: pt-br
 enableToc: true
 aliases: []
@@ -185,3 +186,32 @@ git stash pop             # recupera
 
 Assim você lida com um conflito por vez, sem misturar trabalho em progresso com
 divergências de histórico.
+
+## `git difftool`
+
+Abre um diff visual no lugar do `git diff`, usando a ferramenta configurada.
+Útil para revisar mudanças grandes sem ler o diff no terminal.
+
+```bash
+git difftool                 # diff do working tree contra o index
+git difftool --staged        # diff do index contra o HEAD
+git difftool HEAD~1          # diff contra um commit específico
+git difftool main..minha-branch
+```
+
+Pular a pergunta por arquivo e abrir tudo de uma vez:
+
+```bash
+git difftool --dir-diff       # abre o diretório inteiro no tool
+git difftool -y               # não pergunta, abre direto
+```
+
+Configurar o Neovim como difftool:
+
+```bash
+git config --global diff.tool nvimdiff
+git config --global difftool.prompt false
+```
+
+No [[vi, vim e nvim|neovim]], o `diffview.nvim` é a alternativa mais completa,
+com histórico e resolução de conflitos no mesmo lugar.

@@ -1,7 +1,7 @@
 ---
 title: Comando diceware
 created: 2026-09-08
-draft: true
+draft: false
 tags:
   - seguranca
   - senha

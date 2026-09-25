@@ -50,6 +50,12 @@ GitHub Pages, deployed from `v5` branch. Only `.github/workflows/deploy.yml` is 
 - Avoid other typographic characters that are not easily typed on a standard keyboard (e.g. fancy quotes, ellipsis characters, en-dashes).
 - Write as the author would: direct, no flourishes, no artificial-sounding phrasing.
 
+## Tags
+
+- Tags usam o formato flat (sem prefixo hierárquico `/`): uma tag é uma palavra ou frase-chave simples, minúscula, sem espaços (hífen no lugar).
+- Exceções mantidas como hierárquicas: `#autor/`, `#editora/` (catálogo de livros) e datas (`#YYYY-MM-DD`).
+- Hashtags soltos (ex: `#FPGA`, `#IoT`) seguem a regra de minúsculo quando possível.
+
 The content in `content/` has a knowledge graph built by [graphify](https://github.com/safishamsi/graphify). Use it to understand relationships between blog posts, tools, projects, and interests before answering questions or suggesting edits.
 
 **Outputs:**

@@ -5,6 +5,9 @@ created: 2026-09-08
 updated: 2026-09-09
 ---
 
+> [!quote] Livro #oathbringer, Chapter 9: The Threads of a Screw.
+> _"The sum of my experiences has pointed at this moment. This decision.”_
+
 ## Preamble
 
 ### en
@@ -61,7 +64,7 @@ atualizado sobre as transformações e inovações do mercado.
 - [[Shows#2025|System of a Down + Oasis]] (2025) — dois retornos históricos no mesmo ano
 - [[Shows#2024|Linkin Park]] — Allianz Parque (2024)
 - [[Shows#2026|Mr. Bungle]] (2026) — Minha descoberta do ano, e ele ainda tocou Retrovertigo. Andreas do
-  #banda/Sepultura tocou junto com eles todo o show!
+  #sepultura tocou junto com eles todo o show!
 
 ### Carreira & Projetos
 
