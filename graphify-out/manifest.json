@@ -1,41 +1,331 @@
 {
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/index.md": 1788869250.1824517,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Templates/blog-post-template.md": 1788480510.4273126,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/encontre-me.md": 1788739317.4660332,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/contato-gpg.md": 1788737078.0459273,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/doacoes.md": 1788524738.783287,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/shows.md": 1788480510.4253125,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/conquistas.md": 1788880291.6703656,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/homelab.md": 1788524747.0832622,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/leitura.md": 1788480510.4243124,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/projetos-open-source.md": 1788524753.149246,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/hugo.md": 1788524759.323231,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/quartz.md": 1788524767.6472127,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/cat-rg-xargs.md": 1788480510.4273126,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/sobre-senhas.md": 1788480510.4273126,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/tmux.md": 1788525237.0184124,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/omarchy.md": 1788525604.7915967,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/vi-vim-nvim.md": 1788525732.6187658,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/chezmoi.md": 1788534579.3958404,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/ia.md": 1788525855.4989703,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/git.md": 1788531759.4271038,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/stow-dotfiles.md": 1788534568.873651,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/gpg (GnuPG).md": 1788737442.4231834,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/certificacoes.md": 1788480510.4263124,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/pesquisas.md": 1788480510.4263124,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114550.png": 1788878750.1207101,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908112107.png": 1788877267.6735642,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908113510.png": 1788878110.625059,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114301.png": 1788878581.9041662,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114435.png": 1788878675.6925843,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114821.png": 1788878901.3729994,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115029.jpg": 1788879029.7119431,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115038.jpg": 1788879038.8280811,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/museo-fonck-vina-del-mar-1.webp": 1788879118.4392872,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115225.png": 1788879145.3796954,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115346.png": 1788879226.667927,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Cusco-Montanha-Colorida1-header.webp": 1788879267.833677,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115758.jpg": 1788879478.969588,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908121005.png": 1788880205.5226908,
-  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908121129.jpg": 1788880289.660394
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/index.md": {
+    "mtime": 1789474503.650014,
+    "seen": 1790361119.588064,
+    "ast_hash": "e869f3405ca827daf70bc152f3c448fc",
+    "semantic_hash": "e869f3405ca827daf70bc152f3c448fc"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Templates/blog-post-template.md": {
+    "mtime": 1788997450.8675766,
+    "seen": 1790361119.5879657,
+    "ast_hash": "0eba9d49def61cbf097a3c02eca1c631",
+    "semantic_hash": "0eba9d49def61cbf097a3c02eca1c631"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/projetos-open-source.md": {
+    "mtime": 1789474503.674013,
+    "seen": 1790361119.5880706,
+    "ast_hash": "311a928a8876644a954016e03fc7b2c1",
+    "semantic_hash": "311a928a8876644a954016e03fc7b2c1"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/tmux.md": {
+    "mtime": 1789476044.8151102,
+    "seen": 1790361119.5880451,
+    "ast_hash": "6f6261e6e12cfc50e05b0338c4801173",
+    "semantic_hash": "6f6261e6e12cfc50e05b0338c4801173"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/git.md": {
+    "mtime": 1789237337.2413757,
+    "seen": 1790361119.588025,
+    "ast_hash": "f0aecc181f7316a00c94f5cc9087794c",
+    "semantic_hash": "f0aecc181f7316a00c94f5cc9087794c"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/gpg (GnuPG).md": {
+    "mtime": 1789238076.3239682,
+    "seen": 1790361119.588028,
+    "ast_hash": "ec28e506bcd4ee42dd14db38001932a9",
+    "semantic_hash": "ec28e506bcd4ee42dd14db38001932a9"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114550.png": {
+    "mtime": 1788878750.1207101,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908112107.png": {
+    "mtime": 1788877267.6735642,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908113510.png": {
+    "mtime": 1788878110.625059,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114435.png": {
+    "mtime": 1788878675.6925843,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908114821.png": {
+    "mtime": 1788878901.3729994,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115029.jpg": {
+    "mtime": 1788879029.7119431,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115038.jpg": {
+    "mtime": 1788879038.8280811,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/museo-fonck-vina-del-mar-1.webp": {
+    "mtime": 1788879118.4392872,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115225.png": {
+    "mtime": 1788879145.3796954,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115346.png": {
+    "mtime": 1788879226.667927,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Cusco-Montanha-Colorida1-header.webp": {
+    "mtime": 1788879267.833677,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908115758.jpg": {
+    "mtime": 1788879478.969588,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/Anexos/Pasted image 20260908121005.png": {
+    "mtime": 1788880205.5226908,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/Certifica\u00e7\u00f5es.md": {
+    "mtime": 1789474503.6760128,
+    "seen": 1790361119.5879884,
+    "ast_hash": "a582c074a83d313a1117e4a1ea128221",
+    "semantic_hash": "a582c074a83d313a1117e4a1ea128221"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/Experi\u00eancia Profissional.md": {
+    "mtime": 1789238124.3318918,
+    "seen": 1790361119.5879943,
+    "ast_hash": "c52a4d8308b6fb56da53de3cb2e3961e",
+    "semantic_hash": "c52a4d8308b6fb56da53de3cb2e3961e"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/carreira/Pesquisas e Publica\u00e7\u00f5es Cient\u00edficas.md": {
+    "mtime": 1789238111.0650325,
+    "seen": 1790361119.5879982,
+    "ast_hash": "1cc587d748f307b6c5871f03ab90a237",
+    "semantic_hash": "1cc587d748f307b6c5871f03ab90a237"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Catppuccin.md": {
+    "mtime": 1789475818.2312055,
+    "seen": 1790361119.5880017,
+    "ast_hash": "7a710b9ea4d108dd11dd16d73744a2bf",
+    "semantic_hash": "7a710b9ea4d108dd11dd16d73744a2bf"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Chezmoi.md": {
+    "mtime": 1789474503.6860123,
+    "seen": 1790361119.5880044,
+    "ast_hash": "73850a1d35c9ae6d1b716c1d8c2f65bc",
+    "semantic_hash": "73850a1d35c9ae6d1b716c1d8c2f65bc"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Equipamentos e Dispositivos.md": {
+    "mtime": 1789474118.2381616,
+    "seen": 1790361119.5880067,
+    "ast_hash": "fb3fbae5614eedaf6deaf49e3946acaa",
+    "semantic_hash": "fb3fbae5614eedaf6deaf49e3946acaa"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Gerando Senhas Fortes.md": {
+    "mtime": 1789238004.3507252,
+    "seen": 1790361119.5880089,
+    "ast_hash": "769d7bd11265f701a3406e942e6774eb",
+    "semantic_hash": "769d7bd11265f701a3406e942e6774eb"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Hugo.md": {
+    "mtime": 1789237119.01968,
+    "seen": 1790361119.5880113,
+    "ast_hash": "e20fda056d5f94b778a87064cb87cb62",
+    "semantic_hash": "e20fda056d5f94b778a87064cb87cb62"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Intelig\u00eancia Artificial.md": {
+    "mtime": 1789237148.9311888,
+    "seen": 1790361119.588014,
+    "ast_hash": "eb252ce7e47da681085c4bb0d8a37822",
+    "semantic_hash": "eb252ce7e47da681085c4bb0d8a37822"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Obsidian.md": {
+    "mtime": 1790167985.8298979,
+    "seen": 1790361119.588016,
+    "ast_hash": "5b2b445801978041c212d182b93ec273",
+    "semantic_hash": "5b2b445801978041c212d182b93ec273"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Omarchy.md": {
+    "mtime": 1789474503.689012,
+    "seen": 1790361119.5880182,
+    "ast_hash": "47f3f2cc582cd165a0ec6cb5ce5d74fc",
+    "semantic_hash": "47f3f2cc582cd165a0ec6cb5ce5d74fc"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Quartz.md": {
+    "mtime": 1789474503.692012,
+    "seen": 1790361119.5880206,
+    "ast_hash": "5bb28a710c6eb8ed0a9ad5003b913877",
+    "semantic_hash": "5bb28a710c6eb8ed0a9ad5003b913877"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/Stow Dotfiles.md": {
+    "mtime": 1789235716.3268714,
+    "seen": 1790361119.5880225,
+    "ast_hash": "ec6af4247c863f77d4b81fa44fcda188",
+    "semantic_hash": "ec6af4247c863f77d4b81fa44fcda188"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/macOS.md": {
+    "mtime": 1789474085.010308,
+    "seen": 1790361119.58803,
+    "ast_hash": "07a0a8d99d8cf4b96483825e513400d5",
+    "semantic_hash": "07a0a8d99d8cf4b96483825e513400d5"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/relembrar/Conventional Commits.md": {
+    "mtime": 1789237982.318365,
+    "seen": 1790361119.5880325,
+    "ast_hash": "a6036c908b1ca36316fc8d7c5cda32c1",
+    "semantic_hash": "a6036c908b1ca36316fc8d7c5cda32c1"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/relembrar/Uso de cat com rg e xargs.md": {
+    "mtime": 1789475167.478764,
+    "seen": 1790361119.5880346,
+    "ast_hash": "12437aca6c619f49dd31ff1cf7f3178d",
+    "semantic_hash": "12437aca6c619f49dd31ff1cf7f3178d"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/relembrar/diceware, pwgen e pass.md": {
+    "mtime": 1789237547.6363757,
+    "seen": 1790361119.5880368,
+    "ast_hash": "54ab13f745d2cb7c2a89cde7c0267476",
+    "semantic_hash": "54ab13f745d2cb7c2a89cde7c0267476"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/relembrar/glob.md": {
+    "mtime": 1789472960.3353384,
+    "seen": 1790361119.588039,
+    "ast_hash": "75479e6d6962eb985d15caff4f57fc91",
+    "semantic_hash": "75479e6d6962eb985d15caff4f57fc91"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/relembrar/regex.md": {
+    "mtime": 1789472962.1672256,
+    "seen": 1790361119.5880413,
+    "ast_hash": "c1e777db39f99246faa406e15e8433d0",
+    "semantic_hash": "c1e777db39f99246faa406e15e8433d0"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/relembrar/rg.md": {
+    "mtime": 1789475144.2054102,
+    "seen": 1790361119.588043,
+    "ast_hash": "2093f2735f0fde477911e97ebe7e9756",
+    "semantic_hash": "2093f2735f0fde477911e97ebe7e9756"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/vim/Guia de Estudos sobe Neovim.md": {
+    "mtime": 1789237337.2553725,
+    "seen": 1790361119.5880473,
+    "ast_hash": "b21ebbe8456d1ce03c83a1605729657b",
+    "semantic_hash": "b21ebbe8456d1ce03c83a1605729657b"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/vim/Kickstart.nvim Project.md": {
+    "mtime": 1789235500.8232932,
+    "seen": 1790361119.5880497,
+    "ast_hash": "75e43b285d3c545774ec9a14c7289a5a",
+    "semantic_hash": "75e43b285d3c545774ec9a14c7289a5a"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/vim/vi, vim e nvim.md": {
+    "mtime": 1789471396.422223,
+    "seen": 1790361119.588058,
+    "ast_hash": "5eabd184aae6f46bb807b61b713798fe",
+    "semantic_hash": "5eabd184aae6f46bb807b61b713798fe"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/ferramentas/vim/vim-fugitive.md": {
+    "mtime": 1789472965.6170127,
+    "seen": 1790361119.5880604,
+    "ast_hash": "3f3e71a75398807bb0256df5418e9402",
+    "semantic_hash": "3f3e71a75398807bb0256df5418e9402"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/Homelab Project.md": {
+    "mtime": 1789474544.6793199,
+    "seen": 1790361119.5880663,
+    "ast_hash": "1dd139ab76992a30413046fd2c3f908f",
+    "semantic_hash": "1dd139ab76992a30413046fd2c3f908f"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/projetos/Leitura.md": {
+    "mtime": 1789142133.5491302,
+    "seen": 1790361119.5880682,
+    "ast_hash": "bf625c7fb8aa87ffbdcc6c358b32589f",
+    "semantic_hash": "bf625c7fb8aa87ffbdcc6c358b32589f"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Conquistas e Lembran\u00e7as.md": {
+    "mtime": 1789238129.626434,
+    "seen": 1790361119.5880735,
+    "ast_hash": "198fe3eab2e3b3f02dd38ead071cae26",
+    "semantic_hash": "198fe3eab2e3b3f02dd38ead071cae26"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Contato via Criptografia GPG.md": {
+    "mtime": 1789238100.3139493,
+    "seen": 1790361119.5880756,
+    "ast_hash": "611b219fe694b9c5339fdc8f5ca07845",
+    "semantic_hash": "611b219fe694b9c5339fdc8f5ca07845"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Doa\u00e7\u00f5es.md": {
+    "mtime": 1789238076.4429584,
+    "seen": 1790361119.5880778,
+    "ast_hash": "2e96df1da8e254eeaa44214dd1891cb0",
+    "semantic_hash": "2e96df1da8e254eeaa44214dd1891cb0"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Encontre-me.md": {
+    "mtime": 1789474503.6970117,
+    "seen": 1790361119.58808,
+    "ast_hash": "516f284c0a300a88ab560b6772fb4fea",
+    "semantic_hash": "516f284c0a300a88ab560b6772fb4fea"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Forma\u00e7\u00e3o Acad\u00eamica.md": {
+    "mtime": 1789235578.645888,
+    "seen": 1790361119.5880823,
+    "ast_hash": "28927a0f5991ab4f820ebf6685f3a173",
+    "semantic_hash": "28927a0f5991ab4f820ebf6685f3a173"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Mascota Gaia.md": {
+    "mtime": 1789238039.6709654,
+    "seen": 1790361119.5880845,
+    "ast_hash": "d750fe8fe43014a862c8b8a494ed1b87",
+    "semantic_hash": "d750fe8fe43014a862c8b8a494ed1b87"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/M\u00fasica.md": {
+    "mtime": 1789238129.628434,
+    "seen": 1790361119.588087,
+    "ast_hash": "b891bf471c91d9daf0bbe1c305f831bd",
+    "semantic_hash": "b891bf471c91d9daf0bbe1c305f831bd"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Shows.md": {
+    "mtime": 1789238060.8852448,
+    "seen": 1790361119.588089,
+    "ast_hash": "9e08e8e4fd0a8bcbf9858deb5c2aab23",
+    "semantic_hash": "9e08e8e4fd0a8bcbf9858deb5c2aab23"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/Tricotilomania.md": {
+    "mtime": 1789238129.6144352,
+    "seen": 1790361119.5880911,
+    "ast_hash": "abd144c7b3d81b741d9fac5cc536b490",
+    "semantic_hash": "abd144c7b3d81b741d9fac5cc536b490"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/hipoglic\u00eamico.md": {
+    "mtime": 1788997460.5974877,
+    "seen": 1790361119.588094,
+    "ast_hash": "15741a18c23f463d20e7eddfadc97de4",
+    "semantic_hash": "15741a18c23f463d20e7eddfadc97de4"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/sobre/idiomas.md": {
+    "mtime": 1789238060.883245,
+    "seen": 1790361119.5880957,
+    "ast_hash": "39f31be32344e2eb75011420dad415b9",
+    "semantic_hash": "39f31be32344e2eb75011420dad415b9"
+  },
+  "/home/rodolfo/g/r/rlmg/rodolfolabiapari.github.io/content/todos.md": {
+    "mtime": 1790358062.7673051,
+    "seen": 1790361119.588098,
+    "ast_hash": "9716905b5d541f1f256b2c2c43caae90",
+    "semantic_hash": "9716905b5d541f1f256b2c2c43caae90"
+  }
 }

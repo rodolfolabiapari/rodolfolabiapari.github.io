@@ -21,3 +21,9 @@ updated: 2026-09-09
 - a soma das minha experiências livro #oathbringer
 - git difftool
 - vhdl e o conceito de concorrencia e implementacao do for
+- reflexao: buscamos sempre pelo extraordinário, mas o extraordinário da vida é só o ordinário, o comum. o que a gente vive no dia a dia
+- no tópico do chile, falar sobre portillho e que fica perto do tipo dos andes
+- reflexao: todo excesso esconde uma falta
+- o que os apps hoje estão tao ruins de mexer e o estudo da interface homem máquina, disciplina de ciencia da computacao
+- Obsidian e a ontologia cedo e em excesso
+- IA na guerra, abismo entre países, desensibilizacao das coisas pela ia e a responsabilidade
