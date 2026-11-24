@@ -37,7 +37,15 @@ Obsidian config (`content/.obsidian/`) is versioned (except `workspace.json` whi
 
 ## Deployment
 
-GitHub Pages, deployed from `v5` branch. Only `.github/workflows/deploy.yml` is active here — CI workflows check for the upstream repo (`jackyzha0/quartz`) and won't run. Theme (`catppuccin.macchiato`) is checked into `quartz/styles/themes/` so no external fetch at deploy time.
+GitHub Pages, deployed from the `v5` branch via `.github/workflows/deploy.yml`. Only that workflow is active here; CI workflows for the upstream repo (`jackyzha0/quartz`) won't run. Theme (`catppuccin.macchiato`) is checked into `quartz/styles/themes/` so no external fetch at deploy time.
+
+To publish:
+
+1. `git add` and `git commit` the changes
+2. `git push github v5` (the `github` remote triggers the pipeline; `origin` is a local backup and never publishes)
+3. Watch the run at https://github.com/rodolfolabiapari/rodolfolabiapari.github.io/actions
+
+Remotes: `github` (publish target), `origin` (home server backup), `quartz` (your fork), `upstream` (jackyzha0/quartz, read-only).
 
 ## Gotchas
 
